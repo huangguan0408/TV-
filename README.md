@@ -36,8 +36,7 @@
   quickkeys_config = "view_play:p,view_stop:ctrl+shift+space,view_next:ctrl+right,view_prev:ctrl+left,view_fullscreen:ctrl+f,view_rewind:left,view_forward:right" 快捷键
 <hr>
 <h3>list.xml使用说明：实例地址：https://fj365.github.io/CMP4/list.xml</h3>
-
-
+<hr>
   皮肤内置支持KRC歌词插件
 
   清晰度切换(列表格式：《m type="woniu" src="地址1" hd1="地址2" hd2="地址3"  hd3="地址4" label="清晰度切换"/》配合颓废新版清晰度切换插件
@@ -49,10 +48,8 @@
   代理解析多地址生成格式 <h5>1. 地址1@__@地址2@__@地址3@__@地址4@__@</h5>  实例地址：https://fj365.github.io/CMP4/p.txt
 <hr>
 <hr>
-<h3>crossdomain.xml使用说明：
-实例地址：https://fj365.github.io/CMP4/crossdomain.xml</h3>
-
-
+<h3>crossdomain.xml使用说明：实例地址：https://fj365.github.io/CMP4/crossdomain.xml</h3>
+<hr>
   策略文件限制白名单添加 《allow-access-from domain="*.fj365.github.io" /》 白名单域名*.fj365.github.io
 
   播放m3u8文件 或 代理解析 时要注意 对方网站策略文件是否限制域名
