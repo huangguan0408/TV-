@@ -1,6 +1,6 @@
 # CMP4
 龒蜗牛V3皮肤功能配置
-
+-------------------------------------------------------------------------------------------------------
 config.xml使用说明：
 实例地址：https://fj365.github.io/CMP4/config.xml
 
@@ -37,7 +37,7 @@ config.xml使用说明：
   
   quickkeys_config = "view_play:p,view_stop:ctrl+shift+space,view_next:ctrl+right,view_prev:ctrl+left,view_fullscreen:ctrl+f,view_rewind:left,view_forward:right" 快捷键
 
-
+-------------------------------------------------------------------------------------------------------
 list.xml使用说明：
 实例地址：https://fj365.github.io/CMP4/list.xml
 
@@ -50,7 +50,7 @@ list.xml使用说明：
 
   注意插件解析识别后缀读取,代理解析没有后缀的使用 &.mp3 &.mp4 补后缀
 
-
+-------------------------------------------------------------------------------------------------------
 crossdomain.xml使用说明：
 实例地址：https://fj365.github.io/CMP4/crossdomain.xml
 
