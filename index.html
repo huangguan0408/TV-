@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title></title>
+<style type="text/css">
+html, body {background:#000;text-align:center;font-size:12px;padding:0;margin:0;width:100%;height:100%;overflow:hidden;cursor: default;font-family:Verdana; }
+.cmp { background:#000; }
+.cmp_inner {position:absolute;width:100%;height:100%;width:100%;margin:0px auto; background:#000; }
+</style>
+<script type="text/javascript" src="cmp.js"></script>
+</head>
+<body>
+<div class="cmp">
+  <div class="cmp_inner" id="player">loading ...</div>
+</div>
+<script>
+function cmp_loaded(key) {
+	var cmpo = CMP.get("cmp");
+}
+var flashvars = {
+	plugins : "m3u8.swf,hd5.swf",url : "config.xml",lists : "list.xml",skins : "wn.png",xoxo365_curl : "",api : "cmp_loaded"
+};
+var htm = CMP.create("cmp", "100%", "100%", "n.swf", flashvars);
+document.getElementById("player").innerHTML = htm;
+</script>
+</body>
+</html>
