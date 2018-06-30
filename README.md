@@ -44,9 +44,9 @@ list.xml使用说明：
 
   皮肤内置支持KRC歌词插件
 
-  清晰度切换(列表格式：<m type="woniu" src="地址1" hd1="地址2" hd2="地址3"  hd3="地址4" label="清晰度切换"/>)配合颓废新版清晰度切换插件
+  清晰度切换(列表格式：《m type="woniu" src="地址1" hd1="地址2" hd2="地址3"  hd3="地址4" label="清晰度切换"/》配合颓废新版清晰度切换插件
 
-  支持RTMP(列表格式：<m type="woniu" src="rtmp://地址1" label="清晰度切换"/>)
+  支持RTMP(列表格式：《m type="woniu" src="rtmp://地址1" label="清晰度切换"/》
 
   注意插件解析识别后缀读取,代理解析没有后缀的使用 &.mp3 &.mp4 补后缀
 
