@@ -45,7 +45,7 @@
 
   注意插件解析识别后缀读取,代理解析没有后缀的使用 &.mp3 &.mp4 补后缀
   
-  代理解析多地址生成格式 <h5>1. 地址1@__@地址2@__@地址3@__@地址4@__@</h5>  实例地址：https://fj365.github.io/CMP4/p.txt
+  <p>代理解析多地址生成格式 <h5>1. 地址1@__@地址2@__@地址3@__@地址4@__@</h5> 实例地址：https://fj365.github.io/CMP4/p.txt</p>
 <hr>
 <hr>
 <h3>crossdomain.xml使用说明：实例地址：https://fj365.github.io/CMP4/crossdomain.xml</h3>
