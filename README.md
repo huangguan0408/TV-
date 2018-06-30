@@ -55,6 +55,6 @@ crossdomain.xml使用说明：
 实例地址：https://fj365.github.io/CMP4/crossdomain.xml
 
 
-  策略文件限制白名单添加 <allow-access-from domain="*.fj365.github.io" /> 白名单域名*.fj365.github.io
+  策略文件限制白名单添加 《allow-access-from domain="*.fj365.github.io" /》 白名单域名*.fj365.github.io
 
   播放m3u8文件 或 代理解析 时要注意 对方网站策略文件是否限制域名
