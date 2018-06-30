@@ -1,5 +1,6 @@
 # CMP4
 龒蜗牛V3皮肤功能配置
+<hr>
 -------------------------------------------------------------------------------------------------------
 config.xml使用说明：
 实例地址：https://fj365.github.io/CMP4/config.xml
@@ -36,7 +37,7 @@ config.xml使用说明：
   history_max = "50000" 历史记录条数
   
   quickkeys_config = "view_play:p,view_stop:ctrl+shift+space,view_next:ctrl+right,view_prev:ctrl+left,view_fullscreen:ctrl+f,view_rewind:left,view_forward:right" 快捷键
-
+<hr>
 -------------------------------------------------------------------------------------------------------
 list.xml使用说明：
 实例地址：https://fj365.github.io/CMP4/list.xml
@@ -50,8 +51,8 @@ list.xml使用说明：
 
   注意插件解析识别后缀读取,代理解析没有后缀的使用 &.mp3 &.mp4 补后缀
   
-  <p>代理解析多地址生成格式 <h3>1. 地址1@__@地址2@__@地址3@__@地址4@__@</h3>  实例地址：https://fj365.github.io/CMP4/p.txt</p>
-
+  <p>代理解析多地址生成格式 <h2>1. 地址1@__@地址2@__@地址3@__@地址4@__@</h2>  实例地址：https://fj365.github.io/CMP4/p.txt</p>
+<hr>
 -------------------------------------------------------------------------------------------------------
 crossdomain.xml使用说明：
 实例地址：https://fj365.github.io/CMP4/crossdomain.xml
