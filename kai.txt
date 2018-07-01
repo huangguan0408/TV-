@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+<trackList>
+<track id="0">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/6/55078.swf</url>
+</track>
+<track id="1">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/13/103405.swf</url>
+</track>
+<track id="2">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/11/55275.swf</url>
+</track>
+<track id="3">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/14/54686.swf</url>
+</track>
+<track id="4">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/0/100528.swf</url>
+</track>
+<track id="5">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/6/96070.swf</url>
+</track>
+<track id="6">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/12/96060.swf</url>
+</track>
+<track id="7">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/7/84535.swf</url>
+</track>
+<track id="8">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/8/92936.swf</url>
+</track>
+<track id="9">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/14/92942.swf</url>
+</track>
+<track id="10">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/15/91983.swf</url>
+</track>
+<track id="11">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/5/92133.swf</url>
+</track>
+<track id="12">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/7/91383.swf</url>
+</track>
+<track id="13">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/13/91389.swf</url>
+</track>
+<track id="14">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/9/91033.swf</url>
+</track>
+<track id="15">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/15/91039.swf</url>
+</track>
+<track id="16">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/5/91045.swf</url>
+</track>
+<track id="17">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/2/90690.swf</url>
+</track>
+<track id="18">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/9/88713.swf</url>
+</track>
+<track id="19">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/11/88699.swf</url>
+</track>
+<track id="20">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/15/81695.swf</url>
+</track>
+<track id="21">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/6/81670.swf</url>
+</track>
+<track id="22">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/8/79992.swf</url>
+</track>
+<track id="23">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/4/79940.swf</url>
+</track>
+<track id="24">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/5/76885.swf</url>
+</track>
+<track id="25">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/1/76945.swf</url>
+</track>
+<track id="26">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/14/76942.swf</url>
+</track>
+<track id="27">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/9/69481.swf</url>
+</track>
+<track id="28">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/14/66846.swf</url>
+</track>
+<track id="29">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/6/63062.swf</url>
+</track>
+<track id="30">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/9/61289.swf</url>
+</track>
+<track id="31">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/14/60590.swf</url>
+</track>
+<track id="32">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/11/58715.swf</url>
+</track>
+<track id="33">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/4/57316.swf</url>
+</track>
+<track id="34">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/15/57279.swf</url>
+</track>
+<track id="35">
+<time>13000</time>
+<url>http://cm.i.gtimg.cn/qzone/space_item/orig/1/59793.swf</url>
+</track>
+</trackList>
+</playlist>
