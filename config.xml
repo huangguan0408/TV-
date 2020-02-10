@@ -17,7 +17,11 @@ history_label = "历史记录" 历史记录名字
 history_position = "1" 
 history_max = "50000" 历史记录条数
 quickkeys_config = "view_play:p,view_stop:ctrl+shift+space,view_next:ctrl+right,view_prev:ctrl+left,view_fullscreen:ctrl+f,view_rewind:left,view_forward:right" 快捷键
-皮肤内置支持KRC歌词插件，清晰度切换(列表格式：<m type="woniu" src="地址1" hd1="地址2" hd2="地址3"  hd3="地址4" label="清晰度切换"/>)配合颓废新版清晰度切换插件,支持RTMP(列表格式：<m type="woniu" src="rtmp://地址1" label="清晰度切换"/>)。。。
+皮肤内置支持KRC歌词插件
+清晰度切换1(列表格式：<m type="woniu" src="地址1" hd1="地址2" hd2="地址3"  hd3="地址4" label="清晰度切换"/>)
+清晰度切换2(地址格式：地址1@__@地址2@__@地址3@__@地址4@__@
+配合颓废新版清晰度切换插件
+支持RTMP(列表格式：<m type="woniu" src="rtmp://地址1" label="清晰度切换"/>)。。。
 -->
 <cmp 
 name = "龒蜗牛D滚球影音 - 『生活需要音乐』" 
@@ -39,17 +43,17 @@ hd_change_pic="change.png"
 src_handler = "" 
 lrc_handler = ""
 	
-woniu="http://fj365.gear.host/php/"
+woniu="http://s.wo0.cn/php/"
 search_clean="1"
-so_handler = "http://fj365.gear.host/php/so.php"
+so_handler = "http://s.wo0.cn/php/so.php"
 so_bg_xywh="-1200,0,2000,1000,0.5"
 so_xywh="0,0,35P,240"
 so_info="酷狗音乐,kugou|蜗牛测试,woniu|M3U8测试,m3u8|音乐测试,music|视频测试,video|SWF测试,swf|merge测试,merge|WMP测试,wmp|RTMP测试,rtmp|列表测试,lists"
 so_keyduration="5000"
-so_keywords="dj,孙露,雷婷,7妹,邓紫棋,庄心妍,孙燕姿,童可可,tara"
+so_keywords="dj,孙露,雷婷,谭艳,张玮伽,樊桐舟,7妹,邓紫棋,庄心妍,孙燕姿,童可可,施艾敏,刘芳,馨予,tara"
 lists__xywh="0,50,35P,100P"
 lists_info_xywh="0,80,120,1,5,0,50,0"
-lists_info="默认列表,logo.png#https://fj365.github.io/CMP4/list.xml|YY神曲,http://static.yingyonghui.com/icon/128/2203760.png#http://fj365.gear.host/php/my.php?yyv=ALL"
+lists_info="默认列表,logo.png#https://fj365.github.io/CMP4/list.xml|YY神曲,http://static.yingyonghui.com/icon/128/2203760.png#http://s.wo0.cn/php/my.php?yyv=ALL"
 so_info1="默认列表,https://fj365.github.io/CMP4/list.xml|自己添加,https://fj365.github.io/CMP4/list.xml"
 woniu_hd="0"
 lianxi_qq="121027740"
