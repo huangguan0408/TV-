@@ -1,7 +1,7 @@
 <list>
-  <m type="m3u8" src="http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8" label="周星驰-虎牙线路(m3u8测试)"/>
-  <m type="m3u8" src="http://hhab.chinashadt.com:2136/live/di1.stream/playlist.m3u8" label="CCTV-1(m3u8测试)"/>
-  <m type="woniu" src="rtmp://rtmp-source.live.panda.tv/live_panda/7fe4014805f0c83b703f2571498d390a" label="rtmp(rtmp测试)"/>
-  <m type="woniu" src="http://fj365.gear.host/php/m.php?kgid=061997578ca25be6548e5afbffccf80f&.mp3" hd1="http://fj365.gear.host/php/m.php?kgid=df3b3afbf793482560945b70f82874a1&.mp3" hd2="http://fj365.gear.host/php/m.php?kgid=64df771288fc425cac356f52d97ebf45&.mp3" hd3="http://fj365.gear.host/php/m.php?kgid=8e60f33f41846dc5d71b59d1d794b3ce&.mp3" image="http://pics.sc.chinaz.com/files/pic/pic9/201806/zzpic12286.jpg" label="地址清晰度切换(地址切换测试)"/>
+  <m type="m3u8" src="http://aldirect.hls.huya.com/backsrchuyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8" label="周星驰-虎牙线路(m3u8测试)"/>
+  <m type="m3u8" src="https://aldirect.hls.huya.com/huyalive/29359996-2689645314-11551938661469650944-2847687586-10057-A-0-1_1200.m3u8" label="金庸电影-虎牙线路(m3u8测试)"/>
+  <m type="woniu" src="rtmp://rtmp-source.live.panda.tv/live_panda/7fe4014805f0c83b703f2571498d390a" label="rtmp(rtmp测试)--地址失效暂不提供"/>
+  <m type="woniu" src="http://s.wo0.cn/php/m.php?kgid=061997578ca25be6548e5afbffccf80f&.mp3" hd1="http://s.wo0.cn/php/m.php?kgid=df3b3afbf793482560945b70f82874a1&.mp3" hd2="http://s.wo0.cn/php/m.php?kgid=64df771288fc425cac356f52d97ebf45&.mp3" hd3="http://s.wo0.cn/php/m.php?kgid=8e60f33f41846dc5d71b59d1d794b3ce&.mp3" image="http://pics.sc.chinaz.com/files/pic/pic9/201806/zzpic12286.jpg" label="地址清晰度切换1(地址切换测试)"/>
   <m type="woniu" src="https://fj365.github.io/CMP4/p.txt" image="http://pics.sc.chinaz.com/files/pic/pic9/201806/zzpic12286.jpg" label="地址清晰度切换2(地址切换测试)"/>
 </list>
