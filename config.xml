@@ -70,5 +70,6 @@ play_id = "1"
 auto_play = "1"
 auto_open = "1"
 list_delete = "1"
+timeout = "30"
 counter = ""
 />
