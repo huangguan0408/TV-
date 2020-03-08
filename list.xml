@@ -1,5 +1,5 @@
 <list>
-  <m type="m3u8" src="http://111.40.205.87/PLTV/88888888/224/3221225710/index.m3u8" label="CCTV1-线路1(m3u8测试)"/>
+  <m type="m3u8" src="http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225672/index.m3u8" label="湖南卫视-线路1(m3u8测试)"/>
   <m type="m3u8" src="http://183.207.249.9/PLTV/3/224/3221225530/1.m3u8" label="CCTV1-线路1(m3u8测试)"/>
   <m type="woniu" src="rtmp://rtmp-source.live.panda.tv/live_panda/7fe4014805f0c83b703f2571498d390a" label="rtmp(rtmp测试)--地址失效暂不提供"/>
   <m type="woniu" src="http://s.wo0.cn/php/my.php?yyid=1084368672677938300&.mp4" hd1="http://s.wo0.cn/php/my.php?yyid=1085623587079396106&.mp4" hd2="http://s.wo0.cn/php/m.php?kgid=64df771288fc425cac356f52d97ebf45&.mp3" hd3="http://s.wo0.cn/php/m.php?kgid=8e60f33f41846dc5d71b59d1d794b3ce&.mp3" image="http://pics.sc.chinaz.com/files/pic/pic9/201806/zzpic12286.jpg" label="地址清晰度切换1(地址切换测试)"/>
