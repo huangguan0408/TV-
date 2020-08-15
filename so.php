@@ -25,7 +25,7 @@ if ($_SESSION['founduser']) {
 			$label = $v->filename;
 			$u = explode(" - ",$label);
 			//kugou代理解析自己写个
-			$xmls .= '<m src="http://fj365.gear.host/php/m.php?kgid='.($v->hash).'&.mp3" image="http://pics.sc.chinaz.com/files/pic/pic9/201806/zzpic12286.jpg" label="'.TTHH($label).'"/>'."\n";
+			$xmls .= '<m src="http://s.wo0.cn/o.php/KUGOU_'.($v->hash).'.mp3" image="http://pics.sc.chinaz.com/files/pic/pic9/201806/zzpic12286.jpg" label="'.TTHH($label).'"/>'."\n";
 		}
 		$xml.= "<m label=\"$keyword - KuGou\">".$xmls.'</m>';
 	}
