@@ -362,11 +362,13 @@ function AJAX(lsrc) {
         contentType: "application/jsonp; charset=utf-8",
         timeout: 15000,
         success: function(data) {
+		/*
 			var state = { 'pageurl':'http://s.wo0.cn/?QQYY='+lsrc,'pagetitle':document.title,'jsonurl':lsrc,};
 			if(lsrc){
 				//console.log("push state of "+state);
 				history.pushState(state, document.title, 'http://www.fj365.ml/?QQYY='+lsrc);
 			}
+		*/
             if(lsrc.match(/@([0-9a-zA-Z_-]+)@/)){
                 QQYYS_success_jsonpCallback(data, lsrc);
                 $(".JP_KG").hide();
@@ -696,10 +698,12 @@ function KLFM(lsrc) {
         contentType: "application/jsonp; charset=utf-8",
         timeout: 8e3,
         success: function(data) {
+		/*
 			if(lsrc){
 				//console.log("push state of "+state);
 				history.pushState(state2, document.title, 'http://www.fj365.ml/?KLFM='+kl_src+'@'+kl_pg);
 			}
+		*/
             if (lsrc.indexOf("_") > -1) {
                 kaolalists_success_jsonpCallback(data.result, kl_src, kl_pg);
                 $(".JP_KG").hide();
