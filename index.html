@@ -667,19 +667,20 @@ function WYYY(lsrc) {
         url_p = myx[2]
     } else {
         url_s = lsrc;
-        url_p = 1
+        url_p = 0
     }
     $.ajax({
         cache: true,
         async: true,
-        url: "http://music.jsososo.com/apiMix/search?key=" + url_s + "&pageNo=" + url_p + "&type=0&_p=163&_t="+new Date().getTime(),
+        url: "https://apimusic.postgraduate.top/search?offset=" + (url_p*30) + "&limit=30&keywords="+url_s+"",
+		//http://music.jsososo.com/apiMix/search?key=" + url_s + "&pageNo=" + url_p + "&type=0&_p=163&_t="+new Date().getTime(),
         type: "GET",
         dataType: "json",
         //jsonpCallback: 'success_jsonpCallback',
         contentType: "application/json; charset=utf-8",
         timeout: 8e3,
         success: function(strdata) {
-            wyyyslist_success_jsonpCallback(strdata.data.list, url_s, url_p);//info
+            wyyyslist_success_jsonpCallback(strdata.result.songs, url_s, url_p);//info
             $(".GS_KG").hide();
             $(".JP_KG").show();
             $('html,body').animate({
