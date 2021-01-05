@@ -677,7 +677,7 @@ function WYYY(lsrc) {
         url_s = lsrc;
         url_p = 0
     }
-	url: "https://apimusic.postgraduate.top/search?offset=" + (url_p*30) + "&limit=30&keywords="+url_s+""
+	var url="https://apimusic.postgraduate.top/search?offset=" + (url_p*30) + "&limit=30&keywords="+url_s+"";
 	LUA(url);
 }
 
@@ -687,8 +687,8 @@ function wyyyslist_success_jsonpCallback(data, kid, pn) {
         jp_lb += '{mp3:"http://music.163.com/song/media/outer/url?id=' + v.id + '.mp3",title:"' + safeStr(v.name) + '"},'
     });
     jp_lb += ']';
-    eval("kugou_lb=" + jp_lb);
-    WNJP.setPlaylist(kugou_lb);
+    eval("wyyys_lb=" + jp_lb);
+    WNJP.setPlaylist(wyyys_lb);
     WNJP.play(0);
     lb_lb = '';
     $.each(data.result.songs, function(k, v) {
