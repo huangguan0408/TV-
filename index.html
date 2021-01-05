@@ -661,15 +661,11 @@ function kglist_success_jsonpCallback(data, kid, pn) {
     $("#JP_HL").html(lb_lb + lb_fy)
 }
 function LUA(url){
-	document.title='@0@@url="'+url+'"
-Http.get(url,function(code,cont)
-  if code ~= 200 then 
-    print("服务器失联")
-    activity.finish()
-  end
-data = tostring(cont)
-加载js("wyyyslist_success_jsonpCallback(\'"..data.."\','+str+','+strp+')")
-end@@0@';
+	document.title='@0@@url="'+url+'"'
++'Http.get(url,function(code,cont)'
++'data = tostring(cont)'
++'加载js("wyyyslist_success_jsonpCallback(\'"..data.."\','+str+','+strp+')")'
++'end@@0@';
 	return('');
 }
 function WYYY(lsrc) {
