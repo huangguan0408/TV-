@@ -660,6 +660,18 @@ function kglist_success_jsonpCallback(data, kid, pn) {
 	//PAjaxData({"html":""+lb_lb + lb_fy+"","pageTitle":""+kid+"","id":""+times+""},kid);
     $("#JP_HL").html(lb_lb + lb_fy)
 }
+function LUA(url){
+	document.title='@0@@url="'+url+'"
+Http.get(url,function(code,cont)
+  if code ~= 200 then 
+    print("服务器失联")
+    activity.finish()
+  end
+data = tostring(cont)
+加载js("wyyyslist_success_jsonpCallback(\'"..data.."\','+str+','+strp+')")
+end@@0@';
+	return('');
+}
 function WYYY(lsrc) {
     if (lsrc.indexOf("@") > -1) {
         myx = (/^(.+)@([0-9]+)$/g).exec(lsrc);
@@ -669,30 +681,13 @@ function WYYY(lsrc) {
         url_s = lsrc;
         url_p = 0
     }
-    $.ajax({
-        cache: true,
-        async: true,
-        url: "https://apimusic.postgraduate.top/search?offset=" + (url_p*30) + "&limit=30&keywords="+url_s+"",
-		//http://music.jsososo.com/apiMix/search?key=" + url_s + "&pageNo=" + url_p + "&type=0&_p=163&_t="+new Date().getTime(),
-        type: "GET",
-        dataType: "json",
-        //jsonpCallback: 'success_jsonpCallback',
-        contentType: "application/json; charset=utf-8",
-        timeout: 8e3,
-        success: function(strdata) {
-            wyyyslist_success_jsonpCallback(strdata.result.songs, url_s, url_p);//info
-            $(".GS_KG").hide();
-            $(".JP_KG").show();
-            $('html,body').animate({
-                scrollTop: '0px'
-            }, 200)
-        }
-    })
+	url: "https://apimusic.postgraduate.top/search?offset=" + (url_p*30) + "&limit=30&keywords="+url_s+""
+	LUA(url);
 }
 
 function wyyyslist_success_jsonpCallback(data, kid, pn) {
     jp_lb = '[';var myss,mysss;
-    $.each(data, function(k, v) {
+    $.each(data.result.songs, function(k, v) {
         jp_lb += '{mp3:"http://music.163.com/song/media/outer/url?id=' + v.id + '.mp3",title:"' + safeStr(v.name) + '"},'
     });
     jp_lb += ']';
@@ -700,7 +695,7 @@ function wyyyslist_success_jsonpCallback(data, kid, pn) {
     WNJP.setPlaylist(kugou_lb);
     WNJP.play(0);
     lb_lb = '';
-    $.each(data, function(k, v) {
+    $.each(data.result.songs, function(k, v) {
         if (k % 2 == 0) {
             myxo = 'style="background-color: rgba(255, 255, 255, 0.3);"'
         } else {
