@@ -661,12 +661,16 @@ function kglist_success_jsonpCallback(data, kid, pn) {
     $("#JP_HL").html(lb_lb + lb_fy)
 }
 function LUA(url,str,strp){
-	document.title='@0@@url="'+url+'"'
+document.title='@0@@url="'+url+'"'
 +'Http.get(url,function(code,cont)'
++'if code ~= 200 then'
++'activity.finish()'
++'end'
 +'data = tostring(cont)'
++'复制文本(data)'
 +'加载js("wyyyslist_success_jsonpCallback(\'"..data.."\','+str+','+strp+')")'
 +'end@@0@';
-	return('');
+return('');
 }
 function WYYY(lsrc) {
     if (lsrc.indexOf("@") > -1) {
@@ -679,6 +683,7 @@ function WYYY(lsrc) {
     }
 	var url="https://apimusic.postgraduate.top/search?offset=" + (url_p*30) + "&limit=30&keywords="+url_s+"";
 	LUA(url,url_s,url_p);
+	wyyyslist_success_jsonpCallback(LUA(url,url_s,url_p),url_s,url_p);
 }
 
 function wyyyslist_success_jsonpCallback(data, kid, pn) {
