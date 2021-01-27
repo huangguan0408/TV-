@@ -676,14 +676,17 @@ function WYYY(lsrc) {
     if (lsrc.indexOf("@") > -1) {
         myx = (/^(.+)@([0-9]+)$/g).exec(lsrc);
         url_s = myx[1];
-        url_p = myx[2]
+        url_p = myx[2];
     } else {
         url_s = lsrc;
-        url_p = 0
+        url_p = 1
     }
+QQYY('http://s.wo0.cn/php/163.php?so='+url_s+'&p='+url_P+'');
+/*
 	var url="https://apimusic.postgraduate.top/search?offset=" + (url_p*30) + "&limit=30&keywords="+url_s+"";
 	LUA(url,url_s,url_p);
 	wyyyslist_success_jsonpCallback(LUA(url,url_s,url_p),url_s,url_p);
+*/
 }
 
 function wyyyslist_success_jsonpCallback(data, kid, pn) {
