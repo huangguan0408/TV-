@@ -474,7 +474,7 @@ function QQYY_success_jsonpCallback(data, fy) {
 			if ((v.src).indexOf(".html") > -1 || (v.src).indexOf("www.fun.tv") > -1 || (v.src).indexOf(".shtml") > -1 || (v.src).indexOf("bilibili.com/bangumi/play/") > -1 || (v.src).indexOf("bangumi.bilibili.com/anime/") > -1 || (v.src).indexOf("cntv.cn/video/") > -1) {
                 lb_lb += '<div class="list-group-item" ' + myxo + '><span class="badge"><a href="#MModal" onclick="javascript:VIPJX(\'' + v.src + '\');"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span></a></span><a href="#MModal" onclick="javascript:VIPJX(\'' + v.src + '\');"><p class="txt"><span class="glyphicon glyphicon-headphones" aria-hidden="true"></span>&nbsp;' + v.label + '</a></p></a></div>'
             } else {
-                lb_lb += '<div class="list-group-item" ' + myxo + '><span class="badge"><a href="' + v.src + '" download="' + v.label + myhz + '"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span></a></span><a href="javascript:WNJP.play(' + k + ');"><p class="txt"><span class="glyphicon glyphicon-headphones" aria-hidden="true"></span>&nbsp;' + v.label + '</a></p></a></div>'
+                lb_lb += '<div class="list-group-item" ' + myxo + '><span class="badge"><a href="' + v.src + '" download="' + v.label + myhz + '"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span></a></span><span class="glyphicon glyphicon-headphones" aria-hidden="true"></span>&nbsp;<a href="javascript:WNJP.play(' + k + ');">' + v.label + '</a></div>'//<p class="txt">
             }
         });
         lb_lb += '';
