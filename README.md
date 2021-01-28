@@ -1,7 +1,8 @@
 # CMP4
+演示地址： https://www.fj365.ml/n.swf https://fj365.gitee.io/CMP4/
 龒蜗牛V3皮肤功能配置
 <hr>
-<h3>config.xml使用说明：实例地址：https://fj365.github.io/CMP4/config.xml</h3>
+<h3>config.xml使用说明：实例地址： https://fj365.github.io/CMP4/config.xml</h3>
 <hr>
   so_handler = "http://w.wo0.cn/so.php" 设置搜索接口
   
