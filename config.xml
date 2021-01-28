@@ -21,7 +21,7 @@ quickkeys_config = "view_play:p,view_stop:ctrl+shift+space,view_next:ctrl+right,
 清晰度切换1(列表格式：<m type="woniu" src="地址1" hd1="地址2" hd2="地址3"  hd3="地址4" label="清晰度切换"/>)
 清晰度切换2(地址格式：地址1@__@地址2@__@地址3@__@地址4@__@
 配合颓废新版清晰度切换插件
-支持RTMP(列表格式：<m type="woniu" src="rtmp://地址1" label="清晰度切换"/>)。。。
+支持RTMP(列表格式：<m type="woniu" src="rtmp://地址1" label="地址1"/>)。。。
 -->
 <cmp 
 name = "龒蜗牛D滚球影音 - 『生活需要音乐』" 
