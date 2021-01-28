@@ -1,0 +1,266 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>纯前端字母头像插件</title>
+
+<link rel="icon" type="image/png" href="favicon.png">
+
+<link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!--[if lt IE 9]>
+<script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+<script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- 统计代码 -->
+    <script type="text/javascript">
+    var _hmt = _hmt || [];
+    (function() {
+    var hm = document.createElement("script");
+    hm.src = "https://hm.baidu.com/hm.js?6e8dac14399b608f633394093523542e";
+    var s = document.getElementsByTagName("script")[0]; 
+    s.parentNode.insertBefore(hm, s);
+    })();
+    </script>
+
+<link href="//fonts.proxy.ustclug.org/css?family=Exo+2:100italic,100,200italic,200,300italic,300,400italic,400,500italic,500,600italic,600,700italic,700,800italic,800,900italic,900" rel="stylesheet" type="text/css">
+
+<style>
+* {
+    font-family: microsoft yahei;
+    font-family: "Exo 2", "iconfont", "Trebuchet MS", "Helvetica", "Arial", 'PingFang SC', 'Hiragino Sans GB', 'STHeiti Light', 'Microsoft YaHei', 'SimHei', 'WenQuanYi Micro Hei', sans-serif;
+    letter-spacing: 0.04em;
+}
+.container {
+    max-width: 1000px;
+}
+h3 {
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
+.round { border-radius: 50%; }
+</style>
+</head>
+<body>
+
+<div class="container">
+
+<h1>纯前端字母头像插件 <small>Letter Avatar</small></h1>
+<a href="https://github.com/daolavi/LetterAvatar">原作者 Github 地址</a>
+<hr>
+
+<h3>使用方法</h3>
+
+<pre>
+<code>&lt;img width=&quot;256&quot; height=&quot;256&quot; avatar=&quot;Dao Lam&quot; color=&quot;#0D8ABC&quot;&gt;</code>
+</pre>
+
+<h3>效果演示</h3>
+
+<div>
+	<img width="100" height="100" avatar="孟"> 
+	<img width="100" height="100" avatar="坤"> 
+	<img width="100" height="100" avatar="博" color="#2c3e50"> 
+	<img width="100" height="100" avatar="客" color="#c0392b"> 
+</div>
+
+<br>
+
+<div>
+    <img class="round" width="100" height="100" avatar="圆">
+    <img class="round" width="100" height="100" avatar="角">
+    <img class="round" width="100" height="100" avatar="示" color="#e67e22">
+    <img class="round" width="100" height="100" avatar="例" color="#1abc9c">
+    
+</div>
+
+<br>
+
+<div>
+    <img width="100" height="100" avatar="English Test" color="#0D8ABC">
+	<img class="round" width="100" height="100" avatar="meng kun" color="#0D8ABC">
+</div>
+
+<h3>Wordpress 插件版</h3>
+
+<p>为了方便大家的使用，我基于该代码编写了一个 WordPress 插件，该插件会自动将评论区无头像用户的头像显示成昵称首字符的彩色头像。整个插件大小只有不到 5kb，无需任何配置，上传启用即可生效，并且不会在服务器产生任何缓存文件，纯净好用！具体运行效果可以参考 <a href="//mkblog.cn" target="_blank">孟坤博客</a> 的留言区。</p>
+
+<p>Wordpress 版插件地址：</p>
+
+<p><a type="button" class="btn btn-success" href="https://github.com/mengkunsoft/mk-letter-avatar">点我前往</a> </p>
+
+<iframe src="https://ghbtns.com/github-btn.html?user=mengkunsoft&repo=mk-letter-avatar&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+
+<hr>
+
+<h3>插件完整代码</h3>
+
+<pre>
+/**
+ * LetterAvatar
+ * 
+ * Artur Heinze
+ * Create Letter avatar based on Initials
+ * based on https://gist.github.com/leecrossley/6027780
+ */
+(function(w, d){
+	function LetterAvatar (name, size, color) {
+		name  = name || '';
+		size  = size || 60;
+		var colours = [
+				"#1abc9c", "#2ecc71", "#3498db", "#9b59b6", "#34495e", "#16a085", "#27ae60", "#2980b9", "#8e44ad", "#2c3e50", 
+				"#f1c40f", "#e67e22", "#e74c3c", "#00bcd4", "#95a5a6", "#f39c12", "#d35400", "#c0392b", "#bdc3c7", "#7f8c8d"
+			],
+			nameSplit = String(name).split(' '),
+			initials, charIndex, colourIndex, canvas, context, dataURI;
+		if (nameSplit.length == 1) {
+			initials = nameSplit[0] ? nameSplit[0].charAt(0):'?';
+		} else {
+			initials = nameSplit[0].charAt(0) + nameSplit[1].charAt(0);
+		}
+		if (w.devicePixelRatio) {
+			size = (size * w.devicePixelRatio);
+		}
+			
+		charIndex     = (initials == '?' ? 72 : initials.charCodeAt(0)) - 64;
+		colourIndex   = charIndex % 20;
+		canvas        = d.createElement('canvas');
+		canvas.width  = size;
+		canvas.height = size;
+		context       = canvas.getContext("2d");
+		 
+		context.fillStyle = color ? color : colours[colourIndex - 1];
+		context.fillRect (0, 0, canvas.width, canvas.height);
+		context.font = Math.round(canvas.width/2)+"px 'Microsoft Yahei'";
+		context.textAlign = "center";
+		context.fillStyle = "#FFF";
+		context.fillText(initials, size / 2, size / 1.5);
+		dataURI = canvas.toDataURL();
+		canvas  = null;
+		return dataURI;
+	}
+	LetterAvatar.transform = function() {
+		Array.prototype.forEach.call(d.querySelectorAll('img[avatar]'), function(img, name, color) {
+			name = img.getAttribute('avatar');
+			color = img.getAttribute('color');
+			img.src = LetterAvatar(name, img.getAttribute('width'), color);
+			img.removeAttribute('avatar');
+			img.setAttribute('alt', name);
+		});
+	};
+	// AMD support
+	if (typeof define === 'function' && define.amd) {
+		
+		define(function () { return LetterAvatar; });
+	
+	// CommonJS and Node.js module support.
+	} else if (typeof exports !== 'undefined') {
+		
+		// Support Node.js specific `module.exports` (which can be a function)
+		if (typeof module != 'undefined' && module.exports) {
+			exports = module.exports = LetterAvatar;
+		}
+		// But always support CommonJS module 1.1.1 spec (`exports` cannot be a function)
+		exports.LetterAvatar = LetterAvatar;
+	} else {
+		
+		window.LetterAvatar = LetterAvatar;
+		d.addEventListener('DOMContentLoaded', function(event) {
+			LetterAvatar.transform();
+		});
+	}
+})(window, document);
+</pre>
+
+<script>
+/**
+ * LetterAvatar
+ * 
+ * Artur Heinze
+ * Create Letter avatar based on Initials
+ * based on https://gist.github.com/leecrossley/6027780
+ */
+(function(w, d){
+	function LetterAvatar (name, size, color) {
+		name  = name || '';
+		size  = size || 60;
+		var colours = [
+				"#1abc9c", "#2ecc71", "#3498db", "#9b59b6", "#34495e", "#16a085", "#27ae60", "#2980b9", "#8e44ad", "#2c3e50", 
+				"#f1c40f", "#e67e22", "#e74c3c", "#00bcd4", "#95a5a6", "#f39c12", "#d35400", "#c0392b", "#bdc3c7", "#7f8c8d"
+			],
+			nameSplit = String(name).split(' '),
+			initials, charIndex, colourIndex, canvas, context, dataURI;
+		if (nameSplit.length == 1) {
+			initials = nameSplit[0] ? nameSplit[0].charAt(0):'?';
+		} else {
+			initials = nameSplit[0].charAt(0) + nameSplit[1].charAt(0);
+		}
+		if (w.devicePixelRatio) {
+			size = (size * w.devicePixelRatio);
+		}
+			
+		charIndex     = (initials == '?' ? 72 : initials.charCodeAt(0)) - 64;
+		colourIndex   = charIndex % 20;
+		canvas        = d.createElement('canvas');
+		canvas.width  = size;
+		canvas.height = size;
+		context       = canvas.getContext("2d");
+		 
+		context.fillStyle = color ? color : colours[colourIndex - 1];
+		context.fillRect (0, 0, canvas.width, canvas.height);
+		context.font = Math.round(canvas.width/2)+"px 'Microsoft Yahei'";
+		context.textAlign = "center";
+		context.fillStyle = "#FFF";
+		context.fillText(initials, size / 2, size / 1.5);
+		dataURI = canvas.toDataURL();
+		canvas  = null;
+		return dataURI;
+	}
+	LetterAvatar.transform = function() {
+		Array.prototype.forEach.call(d.querySelectorAll('img[avatar]'), function(img, name, color) {
+			name = img.getAttribute('avatar');
+			color = img.getAttribute('color');
+			img.src = LetterAvatar(name, img.getAttribute('width'), color);
+			img.removeAttribute('avatar');
+			img.setAttribute('alt', name);
+		});
+	};
+	// AMD support
+	if (typeof define === 'function' && define.amd) {
+		
+		define(function () { return LetterAvatar; });
+	
+	// CommonJS and Node.js module support.
+	} else if (typeof exports !== 'undefined') {
+		
+		// Support Node.js specific `module.exports` (which can be a function)
+		if (typeof module != 'undefined' && module.exports) {
+			exports = module.exports = LetterAvatar;
+		}
+		// But always support CommonJS module 1.1.1 spec (`exports` cannot be a function)
+		exports.LetterAvatar = LetterAvatar;
+	} else {
+		
+		window.LetterAvatar = LetterAvatar;
+		d.addEventListener('DOMContentLoaded', function(event) {
+			LetterAvatar.transform();
+		});
+	}
+})(window, document);
+</script>
+
+
+</div><!-- /.container -->
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+</body>
+</html>
