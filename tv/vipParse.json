@@ -149,8 +149,12 @@
       "id": 30,
       "name": "热播",
       "ad": "no",
-      "url": "https://pay.520yk.cn/256/?url="
       "url": "https://rebozj.com/jx/?url="
+    },{
+      "id": 31,
+      "name": "JS",
+      "ad": "no",
+      "url": "https://url.js.cn/?url="
     }
   ]
 } 
