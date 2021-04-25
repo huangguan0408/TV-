@@ -1774,14 +1774,14 @@
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
       "type": "webPlug",
       "subTitle": "高清无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "高清无筛选",
+      "subMobileTitle": "高清无筛选www.9rmb.com",
       "ads": "",
-      "webUrl": "http://www.9rmb.com",
+      "webUrl": "http://www.zuixin8.com",
       "webOpen": false,
       "click": true,
       "webPlus": {
-        "search_url": "http://www.9rmb.com/search?wd={kw}",
-        "nav_url": "http://www.9rmb.com/type/navCate/navPage.html",
+        "search_url": "http://www.zuixin8.com/search?wd={kw}",
+        "nav_url": "http://www.zuixin8.com/type/navCate/navPage.html",
         "cate_url": "http://1090ys1.com/whole/cateNav_cateArea_cateCate__cateYear___0_id_catePage.html",
         "web_name": "94神马",
         "kw": "wd",
@@ -2045,6 +2045,62 @@
           }
         }
       }
+    },
+    {
+      "name": "哈里(网址播放)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "ads": "",
+      "webUrl": "http://halihali.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "七星(网址播放)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "ads": "",
+      "webUrl": "http://qxkkk.cn/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "淘剧丫(网址播放)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "ads": "",
+      "webUrl": "http://www.1ztt.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "小小影院(网址播放)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "ads": "",
+      "webUrl": "https://m.007ys1.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "电先生(网址播放)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "ads": "",
+      "webUrl": "http://www.dianyingim.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "七星影视(网址播放)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "ads": "",
+      "webUrl": "http://qx.iguanwang.cn/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "樱花动漫(网址播放)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "ads": "",
+      "webUrl": "http://www.yhdm2.com/",
+      "webOpen": true,
+      "click": true
     },
     {
       "name": "简影(网址播放)",
@@ -2377,6 +2433,14 @@
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "ads": "",
       "webUrl": "https://egame.qq.com/livelist?layoutid=2000000110&tagId=0&tagIdStr=",
+      "webOpen": true,
+      "click": false
+    },
+    {
+      "name": "Sogou",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "ads": "",
+      "webUrl": "https://m.v.sogou.com/",
       "webOpen": true,
       "click": false
     }
