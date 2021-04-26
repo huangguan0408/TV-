@@ -91,6 +91,13 @@ FOX 体育新闻,https://austchannel-live.akamaized.net/hls/live/2002736/austcha
 黑莓电影FHD,http://111.12.102.68:6610/PLTV/77777777/224/3221225740/index.m3u8?
 黑莓电影,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225927/1.m3u8
 黑莓动画FHD,http://111.12.102.68:6610/PLTV/77777777/224/3221225710/index.m3u8?
+CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
+CHC动作电影,http://125.210.152.18:9090/live/DZDYHD.m3u8
+CHC高清电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8
+CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
+CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD.m3u8
+CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 HBO Family Asia Feed,https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 HBO Family,http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
 HBO Family,https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
@@ -125,6 +132,64 @@ HRB新闻,http://39.134.66.66/PLTV/88888888/224/3221225684/index.m3u8
 韩国EBS 少儿频道,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
+CCTV1HD(综合),http://125.210.152.18:9090/live/CCTV1HD_H265.m3u8
+CCTV-1蓝光1,http://111.12.102.68:6610/PLTV/77777777/224/3221225674/index.m3u8?
+CCTV-1蓝光2,http://111.12.102.68:6610/PLTV/77777777/224/3221225654/index.m3u8?
+CCTV-1综合,http://183.207.248.71:80/cntv/live1/CCTV-1/cctv-1
+CCTV中国中央电视台-1 综合,http://117.169.120.140:8080/live/cctv-1/.m3u8
+CCTV中国中央电视台-1 综合,http://125.210.152.10:8060/live/CCTV1HD_H265.m3u8
+CCTV中国中央电视台-1 综合,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+CCTV2HD(财经),http://125.210.152.18:9090/live/CCTV2HD_H265.m3u8
+CCTV-2财经,http://183.207.248.71:80/cntv/live1/CCTV-2/cctv-2
+CCTV-2高清,http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
+CCTV-2蓝光1,http://111.12.102.68:6610/PLTV/77777777/224/3221225676/index.m3u8?
+CCTV-2蓝光2,http://111.12.102.68:6610/PLTV/77777777/224/3221225657/index.m3u8?
+CCTV中国中央电视台-2 财经,http://117.169.120.140:8080/live/cctv-2/.m3u8
+CCTV中国中央电视台-2 财经,http://125.210.152.10:8060/live/CCTV2HD_H265.m3u8
+CCTV中国中央电视台-2 财经,http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+CCTV 4,https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
+CCTV4(国际),http://125.210.152.18:9090/live/CCTV4.m3u8
+CCTV-4国际,http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+CCTV-4蓝光1,http://111.12.102.68:6610/PLTV/77777777/224/3221225775/index.m3u8?
+CCTV-4蓝光2,http://111.12.102.68:6610/PLTV/77777777/224/3221225761/index.m3u8?
+CCTV-4蓝光3,http://111.12.102.68:6610/PLTV/77777777/224/3221225753/index.m3u8?
+CCTV-4美洲,https://cctvcnch5ca.v.wscdns.com/live/cctvamerica_2/index.m3u8
+CCTV-4中文国际,http://183.207.248.71:80/cntv/live1/CCTV-4/cctv-4
+CCTV中国中央电视台-4 中文国际,http://117.169.120.140:8080/live/cctv-4/.m3u8
+CCTV13,http://stream.cdjsxy.cn/xwpd/sd/live.m3u8
+CCTV-13蓝光1,http://111.12.102.68:6610/PLTV/77777777/224/3221225677/index.m3u8?
+CCTV-13蓝光2,http://111.12.102.68:6610/PLTV/77777777/224/3221225713/index.m3u8?
+CCTV-13蓝光3,http://111.12.102.68:6610/PLTV/77777777/224/3221225742/index.m3u8?
+CCTV-13 新闻,http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV13新闻,http://125.210.152.18:9090/live/CCTV13.m3u8
+CCTV-13新闻,http://183.207.248.71:80/cntv/live1/CCTV-13/cctv-13
+CCTV-13新闻,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
+CCTV-13新闻,http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+CCTV-13 新闻,http://ivi.neu6.edu.cn/hls/cctv13hd.m3u8
+CCTV中国中央电视台-13 新闻,http://117.169.120.140:8080/live/cctv-13/.m3u8
+CGNTV,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8
+CGNTV Japan 720p,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
+CGNTV韩国,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist_w1604760015.m3u8
+CGNTV日本,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/chunklist_w564190259.m3u8
+CGTN 1,https://livees.cgtn.com/1000e/prog_index.m3u8
+CGTN 720p,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+CGTN Arabic 720p,https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+CGTN Documentary EN,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+CGTN Documentary,https://livedoc.cgtn.com/500d/prog_index.m3u8
+CGTN Documentary中国,https://livedoc.cgtn.com/1000d/prog_index.m3u8
+CGTN DOC高清,http://ivi.bupt.edu.cn/hls/cgtndochd.m3u8
+CGTN Franais 720p,https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+CGTN France,http://livefr.cgtn.com/1000f/prog_index.m3u8
+CGTN,http://39.134.65.76:80/wh7f454c46tw1861327915_-761632205/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8?icpid=88888888&amp;RTS=1554599633&amp;from=1&amp;hms_devid=131
+CGTN,http://111.12.102.68:6610/PLTV/77777777/224/3221225707/index.m3u8?
+CGTN,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
+CGTN,http://live.cgtn.com/500/prog_index.m3u8
+CGTN,https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+CGTN Русский,http://liveru.cgtn.com/1000r/prog_index.m3u8
+CGTN-国际电视台,http://223.110.241.206:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/
+CGTN国际频道,http://live.cgtn.com/1000/prog_index.m3u8
+CGTN纪录,http://39.134.65.66:80/wh7f454c46tw1862316208_-487580546/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8?icpid=88888888&amp;RTS=1554599634&amp;from=1&amp;hms_devid=126
+CGTN中国,https://live.cgtn.com/1000/prog_index.m3u8
 日本天气频道,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 求索动物FHD,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
 求索动物,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls
