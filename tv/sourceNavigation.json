@@ -139,6 +139,17 @@
       "autoNext": false,
       "decoder": 0,
       "webPlus": {}
+    },
+    {
+      "name": "优酷直播",
+      "pic": "http://static.yingyonghui.com/icon/128/3661572.png",
+      "url": "http://www.fj365.ml/tv/youku.m3u",
+      "type": "m3u",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "decoder": 0,
+      "webPlus": {}
     }
   ]
 }
