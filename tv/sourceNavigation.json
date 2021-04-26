@@ -1,11 +1,31 @@
 {
   "data": [
     {
-      "name": "(新增)稳定轮播*荐*",
-      "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
-      "url": "https://gitee.com/freedTV/freed/raw/master/tv/douyu.txt",
+      "name": "虎牙直播",
+      "pic": "http://static.yingyonghui.com/icon/128/6610989.png",
+      "url": "http://www.fj365.ml/tv/huya.txt",
       "type": "txt",
-      "subTitle": "经典动画电影整理中",
+      "subTitle": "",
+      "click": true,
+      "autoNext": true,
+      "decoder": 0,
+      "webPlus": {}
+    },{
+      "name": "虎牙直播二",
+      "pic": "http://static.yingyonghui.com/icon/128/6610989.png",
+      "url": "http://www.fj365.ml/tv/huya2.txt",
+      "type": "txt",
+      "subTitle": "",
+      "click": true,
+      "autoNext": true,
+      "decoder": 0,
+      "webPlus": {}
+    },{
+      "name": "斗鱼直播",
+      "pic": "http://static.yingyonghui.com/icon/128/6610989.png",
+      "url": "http://www.fj365.ml/tv/douyu.txt",
+      "type": "txt",
+      "subTitle": "",
       "click": true,
       "autoNext": true,
       "decoder": 0,
@@ -83,6 +103,17 @@
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/yy.m3u",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
+      "click": true,
+      "autoNext": false,
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "NewTV",
+      "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkipc63ij31hc0u0wv2.jpg",
+      "url": "http://www.fj365.ml/tv/newtv.m3u",
+      "type": "m3u",
+      "subTitle": "",
       "click": true,
       "autoNext": false,
       "decoder": 0,
