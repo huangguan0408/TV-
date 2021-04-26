@@ -33,7 +33,7 @@
     },{
       "name": "海外直播",
       "pic": "http://static.yingyonghui.com/icon/128/5079046.png",
-      "url": "http://www.fj365.ml/tv/hwtv.m3u",
+      "url": "http://www.fj365.ml/tv/hwtv.txt",
       "type": "txt",
       "subTitle": "",
       "click": true,
@@ -122,6 +122,17 @@
       "name": "NewTV",
       "pic": "http://static.yingyonghui.com/icon/128/6819136.png",
       "url": "http://www.fj365.ml/tv/newtv.m3u",
+      "type": "m3u",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "CIBN",
+      "pic": "http://static.yingyonghui.com/icon/128/6792079.png",
+      "url": "http://www.fj365.ml/tv/cibn2.txt",
       "type": "m3u",
       "subTitle": "",
       "click": true,
