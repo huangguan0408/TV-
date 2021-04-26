@@ -22,8 +22,18 @@
       "webPlus": {}
     },{
       "name": "斗鱼直播",
-      "pic": "http://static.yingyonghui.com/icon/128/6610989.png",
+      "pic": "http://static.yingyonghui.com/icon/128/6823210.png",
       "url": "http://www.fj365.ml/tv/douyu.txt",
+      "type": "txt",
+      "subTitle": "",
+      "click": true,
+      "autoNext": true,
+      "decoder": 0,
+      "webPlus": {}
+    },{
+      "name": "海外直播",
+      "pic": "http://static.yingyonghui.com/icon/128/5079046.png",
+      "url": "http://www.fj365.ml/tv/hwtv.m3u",
       "type": "txt",
       "subTitle": "",
       "click": true,
@@ -110,7 +120,7 @@
     },
     {
       "name": "NewTV",
-      "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkipc63ij31hc0u0wv2.jpg",
+      "pic": "http://static.yingyonghui.com/icon/128/6819136.png",
       "url": "http://www.fj365.ml/tv/newtv.m3u",
       "type": "m3u",
       "subTitle": "",
