@@ -337,7 +337,7 @@
       "click": true,
       "webPlus": {
         "search_url": "http://gudanys.com/vodsearch/{kw}-------------.html",
-        "nav_url": "https://www.zhenbuka.com/index.php/vod/show/id/navCate/page/navPage.html",
+        "nav_url": "https://www.zhenbuka.com/vodtype/navCate-navPage/",
         "cate_url": "http://gudanys.com/vod/show/id/cateNav/page/catePage/year/cateYear.html",
         "web_name": "孤单影院",
         "kw": "wd",
