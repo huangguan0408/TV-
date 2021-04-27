@@ -98,19 +98,6 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-HBO Family Asia Feed,https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
-HBO Family,http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
-HBO Family,https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-HBO Hits Asia Feed,https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
-HBO Hits,http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
-HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-HBO,http://218.202.220.2:5000/nn_live.m3u8?id=HBO
-HBO,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-HBO Malaysia,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-HBO PREMIUM,https://s.vdo.ai/vhs/1.m3u8
-HBO Signature,http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
-HBO Signature,https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-HBO Signature,https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
 欧美影院,http://125.210.152.18:9090/live/OMYY.m3u8
 欧美英雄,http://149.129.100.78/youku.php?id=8026516
 末世硬核,http://149.129.100.78/youku.php?id=8019690
