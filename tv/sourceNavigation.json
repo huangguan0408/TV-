@@ -8,7 +8,7 @@
       "subTitle": "",
       "click": true,
       "autoNext": true,
-      "decoder": 0,
+      "decoder": 1,
       "webPlus": {}
     },{
       "name": "虎牙直播二",
@@ -18,7 +18,7 @@
       "subTitle": "",
       "click": true,
       "autoNext": true,
-      "decoder": 0,
+      "decoder": 1,
       "webPlus": {}
     },{
       "name": "斗鱼直播",
@@ -122,33 +122,33 @@
       "name": "NewTV",
       "pic": "http://static.yingyonghui.com/icon/128/6819136.png",
       "url": "http://www.fj365.ml/tv/newtv.txt",
-      "type": "m3u",
+      "type": "txt",
       "subTitle": "",
       "click": true,
       "autoNext": false,
-      "decoder": 0,
+      "decoder": 1,
       "webPlus": {}
     },
     {
       "name": "CIBN",
       "pic": "http://static.yingyonghui.com/icon/128/6792079.png",
       "url": "http://www.fj365.ml/tv/cibn2.txt",
-      "type": "m3u",
+      "type": "txt",
       "subTitle": "",
       "click": true,
       "autoNext": false,
-      "decoder": 0,
+      "decoder": 1,
       "webPlus": {}
     },
     {
       "name": "优酷直播",
       "pic": "http://static.yingyonghui.com/icon/128/3661572.png",
       "url": "http://www.fj365.ml/tv/youku.txt",
-      "type": "m3u",
+      "type": "txt",
       "subTitle": "",
       "click": true,
       "autoNext": false,
-      "decoder": 0,
+      "decoder": 1,
       "webPlus": {}
     }
   ]
