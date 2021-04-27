@@ -121,7 +121,7 @@
     {
       "name": "NewTV",
       "pic": "http://static.yingyonghui.com/icon/128/6819136.png",
-      "url": "http://www.fj365.ml/tv/newtv.m3u",
+      "url": "http://www.fj365.ml/tv/newtv.txt",
       "type": "m3u",
       "subTitle": "",
       "click": true,
@@ -143,7 +143,7 @@
     {
       "name": "优酷直播",
       "pic": "http://static.yingyonghui.com/icon/128/3661572.png",
-      "url": "http://www.fj365.ml/tv/youku.m3u",
+      "url": "http://www.fj365.ml/tv/youku.txt",
       "type": "m3u",
       "subTitle": "",
       "click": true,
