@@ -108,6 +108,8 @@ TVB剧集台,http://149.129.100.78/huya.php?id=23735126
 生活,http://qxlmlive.cbg.cn:1935/applive/yctv02/chunklist.m3u8
 综合,http://qxlmlive.cbg.cn:1935/applive/yctv01/chunklist.m3u8
 HRB新闻,http://39.134.66.66/PLTV/88888888/224/3221225684/index.m3u8
+中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
+中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
 東森財經新聞,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
 华侨城FHD,http://117.156.28.119/270000001111/1110000028/index.m3u8
