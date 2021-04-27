@@ -668,7 +668,7 @@
       "subTitle": "高清有筛选",
       "subMobileTitle": "(wpcm有空再调2.23）质量高",
       "ads": "",
-      "webUrl": "https://m.pianku.li/",
+      "webUrl": "https://www.pianku.li/",
       "webOpen": false,
       "click": true,
       "webPlus": {
@@ -2427,22 +2427,20 @@
       "webUrl": "https://www.baidu.com/",
       "webOpen": true,
       "click": true
-    },
-    {
+    },{
       "name": "企鹅电竞一起看",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "ads": "",
       "webUrl": "https://egame.qq.com/livelist?layoutid=2000000110&tagId=0&tagIdStr=",
       "webOpen": true,
-      "click": false
-    },
-    {
+      "click": true
+    },{
       "name": "Sogou",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "ads": "",
       "webUrl": "https://m.v.sogou.com/",
       "webOpen": true,
-      "click": false
+      "click": true
     }
   ]
 }
