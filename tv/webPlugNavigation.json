@@ -699,7 +699,14 @@
           ],
           "page": "1"
         },
-        "cateHtml": {},
+        "cateHtml": {
+          "isCate": false,
+          "isYear": false,
+          "isArea": false,
+          "cate": "全部,&&动作,动作&&剧情,剧情&&喜剧,喜剧&&爱情,爱情&&科幻,科幻&&惊悚,惊悚&&恐怖,恐怖&&悬疑,悬疑&&冒险,冒险&&魔幻,魔幻&&奇幻,奇幻&&历史,历史&&犯罪,犯罪&&动画,动画&&偶像,偶像&&记录,记录&&青春,青春&&丧尸,丧尸&&幻想,幻想&&战争,战争&&西部,西部&&通话,通话&&暴力,暴力&&古装,古装&&武侠,武侠&&灾难,灾难&&谍战,谍战&&生活,生活&&讽刺,讽刺&&同性,同性&&传记,传记&&枪战,枪战",
+          "year": "全部,&&2020,2020&&2019,2019&&2018,2018&&2017,2017&&2016,2016&&2015,2015&&2014,2014&&2013,2013&&2012,2012&&2011,2011&&2010,2010&&2009,2009&&2008,2008&&更早,更早",
+          "area": "全部,&&中国大陆,中国大陆&&中国香港,中国香港&&中国台湾,中国台湾&&美国,美国&&法国,法国&&英国,英国&&日本,日本&&韩国,韩国&&印度,印度&&德国,德国&&泰国,泰国&&其他,其他"
+        },
         "html": {
           "episodes": {
             "hasUrlPrefix": false,
@@ -783,10 +790,13 @@
     {
       "name": "COKEMV影视",
       "pic": "http://dwz.date/dVS3",
-      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+      //"url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清有筛选",
       "subMobileTitle": "质量非常之高",
+      "ads": "",
+      "webUrl": "https://cokemv.cn/",
+      "webOpen": false,
       "click": true,
       "webPlus": {
         "search_url": "https://cokemv.cn/vodsearch/-------------.html?wd={kw}",
@@ -942,10 +952,13 @@
     {
       "name": "哆咪动漫",
       "pic": "http://dwz.date/dVSs",
-      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+      //"url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清无筛选",
       "subMobileTitle": "质量非常之高",
+      "ads": "",
+      "webUrl": "http://www.dmdm2020.com/",
+      "webOpen": false,
       "click": true,
       "webPlus": {
         "search_url": "http://www.dmdm2020.com/dongmansearch.html?wd={kw}",
@@ -1227,10 +1240,13 @@
     {
       "name": "奈飞影视",
       "pic": "http://dwz.date/dVS9",
-      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+      //"url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清速度快有筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清速度快有筛选",
+      "ads": "",
+      "webUrl": "https://www.nfmovies.com/",
+      "webOpen": false,
       "click":  false,
       "webPlus": {
         "search_url": "https://www.nfmovies.com/search.php?searchword={kw}",
@@ -1399,10 +1415,13 @@
     {
       "name": "南瓜影院",
       "pic": "https://gitee.com/wpcmzjk/tv/raw/master/png/ngys1.png",
-      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+      //"url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清无筛选(菜单键或上下键选集)",
       "subMobileTitle": "南瓜",
+      "ads": "",
+      "webUrl": "https://www.ooe.la/",
+      "webOpen": false,
       "click":true,
       "webPlus": {
         "search_url": "https://www.ooe.la/vodsearch/-------------/wd={kw}",
@@ -1557,10 +1576,13 @@
     {
       "name": "4K屋（精简）",
       "pic": "https://gitee.com/wpcmzjk/tv/raw/master/png/4kw.png",
-      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+      //"url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清无筛选(菜单键或上下键选集)",
       "subMobileTitle": "4K屋",
+      "ads": "",
+      "webUrl": "http://www.kkkkwu.cc/",
+      "webOpen": false,
       "click":true,
       "webPlus": {
         "search_url": "http://www.kkkkwu.cc/search/?wd={kw}",
@@ -1734,10 +1756,13 @@
     {
       "name": "飞鸭（蓝光）",
       "pic": "https://gitee.com/wpcmzjk/tv/raw/master/png/4ky.png",
-      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+      //"url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清无筛选(菜单键或上下键选集)",
       "subMobileTitle": "飞鸭-4kya.com",
+      "ads": "",
+      "webUrl": "https://yanetflix.com/",
+      "webOpen": false,
       "click":true,
       "webPlus": {
         "search_url": "https://yanetflix.com/index.php/vod/search/?wd={kw}",
@@ -1892,10 +1917,13 @@
     {
       "name": "观影时光",
       "pic": "https://gitee.com/wpcmzjk/tv/raw/master/png/gysg1.png",
-      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+      //"url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清无筛选(菜单键或上下键选集)",
       "subMobileTitle": "观影时光-m.nvzox.com",
+      "ads": "",
+      "webUrl": "http://www.nvzox1.com/",
+      "webOpen": false,
       "click":true,
       "webPlus": {
         "search_url": "http://www.nvzox1.com/vod-m_search/?wd={kw}",
@@ -2054,10 +2082,13 @@
     {
       "name": "奇侠高清",
       "pic": "http://dwz.date/dVSh",
-      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+      //"url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清有筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清有筛选",
+      "ads": "",
+      "webUrl": "https://www.7xiady.cc/",
+      "webOpen": false,
       "click": true,
       "webPlus": {
         "search_url": "https://www.7xiady.cc/search/-------------.html?wd={kw}",
@@ -2211,10 +2242,13 @@
     {
       "name": "素白白",
       "pic": "http://dwz.date/dVSm",
-      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+      //"url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "最低720P(菜单键或上下键选集)",
       "subMobileTitle": "最低720P",
+      "ads": "",
+      "webUrl": "https://www.subaibai.com/",
+      "webOpen": false,
       "click": false,
       "webPlus": {
         "search_url": "https://www.subaibai.com/grabble?q={kw}",
@@ -2389,10 +2423,13 @@
     {
       "name": "1090",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
-      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+      //"url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清有筛选",
       "subMobileTitle": "高清有筛选经常抽风-1090ys 1 2.com",
+      "ads": "",
+      "webUrl": "http://1090ys2.com/",
+      "webOpen": false,
       "click": false,
       "webPlus": {
         "search_url": "http://1090ys2.com/?c=search",
@@ -2547,10 +2584,13 @@
     {
       "name": "团长资源",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+      //"url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清速度快有筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清速度快有筛选",
+      "ads": "",
+      "webUrl": "https://www.tzfile.com/",
+      "webOpen": false,
       "click": false,
       "webPlus": {
         "search_url": "https://www.nfmovies.com/search.php?searchword={kw}",
@@ -3826,10 +3866,13 @@
     {
       "name": "飞飞（高清）",
       "pic": "https://gitee.com/wpcmzjk/tv/raw/master/png/ffys.png",
-      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+      //"url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清无筛选(菜单键或上下键选集)",
       "subMobileTitle": "飞飞",
+      "ads": "",
+      "webUrl": "http://www.zuixin8.com",
+      "webOpen": false,
       "click":true,
       "webPlus": {
         "search_url": "https://www.feifei6.com/search.php?searchword={kw}",
@@ -3988,10 +4031,13 @@
     {
       "name": "暮光",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+      //"url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清速度快有筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清速度快有筛选",
+      "ads": "",
+      "webUrl": "http://www.zuixin8.com",
+      "webOpen": false,
       "click": false,
       "webPlus": {
         "search_url": "https://www.muguangys.xyz/vodsearch/-------------.html?wd=",
@@ -4144,10 +4190,13 @@
     {
       "name": "完美看看",
       "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p3725.jpg",
-      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+      //"url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清无筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清无筛选",
+      "ads": "",
+      "webUrl": "http://www.zuixin8.com",
+      "webOpen": false,
       "click": false,
       "webPlus": {
         "search_url": "https://www.muguangys.xyz/vodsearch/-------------.html?wd=",
@@ -4308,10 +4357,13 @@
     {
       "name": "奇侠高清",
       "pic": "http://dwz.date/dVSh",
-      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+      //"url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清有筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清有筛选",
+      "ads": "",
+      "webUrl": "http://www.zuixin8.com",
+      "webOpen": false,
       "click": true,
       "webPlus": {
         "search_url": "https://www.7xiady.cc/search/-------------.html?wd={kw}",
@@ -4465,10 +4517,13 @@
     {
       "name": "1080",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4220.jpg",
-      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+      //"url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清有筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清有筛选",
+      "ads": "",
+      "webUrl": "http://www.zuixin8.com",
+      "webOpen": false,
       "click": false,
       "webPlus": {
         "search_url": "https://www.k1080.net/index.php/vodshow/-------------.html?wd=",
@@ -4621,10 +4676,13 @@
     {
       "name": "独播库",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
-      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+      //"url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "超高清有筛选先别用",
       "subMobileTitle": "超高清有筛选先别用",
+      "ads": "",
+      "webUrl": "http://www.zuixin8.com",
+      "webOpen": false,
       "click": false,
       "webPlus": {
         "search_url": "https://www.muguangys.xyz/vodsearch/-------------.html?wd=",
