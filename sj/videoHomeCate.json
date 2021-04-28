@@ -79,6 +79,14 @@
       "url": "https://www.360kan.com/&&&ad-banner",
       "type": "app://x5WebParse",
       "types": "app://x5WebParse"
+    },
+    {
+      "id": 110,
+      "name": "搜狗影视",
+      "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN01Rc0SNv2C4PRlDkP4m_!!913168420.png",
+      "url": "https://m.v.sogou.com/&&&ad-banner",
+      "type": "app://x5WebParse",
+      "types": "app://x5WebParse"
     }
   ]
 }
