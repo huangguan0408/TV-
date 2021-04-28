@@ -29,7 +29,7 @@ link = "/"
 description = "龒蜗牛D滚球影音 - 『生活需要音乐』 - http://www.fj365.ml/"
 logo = "{src:logo.png,xywh:[10R,10,50,50]}"
 	
-skins = "wn.png,/skins/tudou.zip"
+skins = "wn.png,https://www.fj365.ml/skins/tudou.zip"
 plugins = "m3u8.swf,hd5.swf"
 backgrounds = "bg.swf"
 lists = "list.xml"
