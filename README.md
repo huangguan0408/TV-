@@ -1,6 +1,7 @@
 # CMP4
 演示地址： https://www.fj365.ml/n.swf https://fj365.gitee.io/CMP4/
-随机开场演示地址： https://www.fj365.ml/n9.swf
+
+随机开场演示地址： https://www.fj365.ml/n9.swf?skin_id=2
 <hr>
 龒蜗牛V3皮肤功能配置
 <hr>
