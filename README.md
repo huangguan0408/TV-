@@ -3,9 +3,9 @@
 <hr>
 龒蜗牛V3皮肤功能配置
 <hr>
-<h3>config.xml使用说明：实例地址： https://fj365.github.io/CMP4/config.xml</h3>
+<h3>config.xml使用说明：实例地址： https://www.fj365.ml/config.xml</h3>
 <hr>
-  so_handler = "http://w.wo0.cn/so.php" 设置搜索接口
+  so_handler = "http://s.wo0.cn/so.php" 设置搜索接口
   
   so_bg_xywh="-1200,0,2000,1000,0.8" 设置列表背景，位置，宽高，透明
   
@@ -37,7 +37,7 @@
   
   quickkeys_config = "view_play:p,view_stop:ctrl+shift+space,view_next:ctrl+right,view_prev:ctrl+left,view_fullscreen:ctrl+f,view_rewind:left,view_forward:right" 快捷键
 <hr>
-<h3>list.xml使用说明：实例地址：https://fj365.github.io/CMP4/list.xml</h3>
+<h3>list.xml使用说明：实例地址：https://www.fj365.ml/list.xml</h3>
 <hr>
   皮肤内置支持KRC歌词插件
 
@@ -47,11 +47,11 @@
 
   注意插件解析识别后缀读取,代理解析没有后缀的使用 &.mp3 &.mp4 补后缀
   
-  <p>代理解析多地址生成格式 <h5>1. 地址1@__@地址2@__@地址3@__@地址4@__@</h5> 实例地址：https://fj365.github.io/CMP4/p.txt</p>
+  <p>代理解析多地址生成格式 <h5>1. 地址1@__@地址2@__@地址3@__@地址4@__@</h5> 实例地址：https://www.fj365.ml/p.txt</p>
 <hr>
 <hr>
-<h3>crossdomain.xml使用说明：实例地址：https://fj365.github.io/CMP4/crossdomain.xml</h3>
+<h3>crossdomain.xml使用说明：实例地址：https://www.fj365.ml/crossdomain.xml</h3>
 <hr>
-  策略文件限制白名单添加 《allow-access-from domain="*.fj365.github.io" /》 白名单域名*.fj365.github.io
+  策略文件限制白名单添加 《allow-access-from domain="*.fj365.ml" /》 白名单域名*.fj365.ml
 
   播放m3u8文件 或 代理解析 时要注意 对方网站策略文件是否限制域名
