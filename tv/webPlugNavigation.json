@@ -465,7 +465,7 @@
             "nameAttr": "",
             "nameCss": "",
             "nameIndex": 0,
-            "regIndex":"(link_pre\":\"\",\"url\":\")(.*)(?=\",\"url_next)",
+            "regIndex":"(?=link_pre\":\"\",\"url\":\")(.*)(?=\",\"url_next)",
             "title": "",
             "urlAttr": "",
             "urlCss": "",
