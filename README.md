@@ -5,13 +5,13 @@ TV端自建接口地址： http://www.fj365.ml/tv/
 
 # CMP4 
 
-演示地址： https://www.fj365.ml/n.swf https://fj365.gitee.io/CMP4/
+演示地址： http://www.fj365.ml/n.swf https://fj365.gitee.io/CMP4/
 
-随机开场演示地址： https://www.fj365.ml/n9.swf?skin_id=2
+随机开场演示地址： http://www.fj365.ml/n9.swf?skin_id=2
 <hr>
 龒蜗牛V3皮肤功能配置
 <hr>
-<h3>config.xml使用说明：实例地址： https://www.fj365.ml/config.xml</h3>
+<h3>config.xml使用说明：实例地址： http://www.fj365.ml/config.xml</h3>
 <hr>
   so_handler = "http://s.wo0.cn/so.php" 设置搜索接口
   
@@ -45,7 +45,7 @@ TV端自建接口地址： http://www.fj365.ml/tv/
   
   quickkeys_config = "view_play:p,view_stop:ctrl+shift+space,view_next:ctrl+right,view_prev:ctrl+left,view_fullscreen:ctrl+f,view_rewind:left,view_forward:right" 快捷键
 <hr>
-<h3>list.xml使用说明：实例地址：https://www.fj365.ml/list.xml</h3>
+<h3>list.xml使用说明：实例地址：http://www.fj365.ml/list.xml</h3>
 <hr>
   皮肤内置支持KRC歌词插件
 
@@ -55,10 +55,10 @@ TV端自建接口地址： http://www.fj365.ml/tv/
 
   注意插件解析识别后缀读取,代理解析没有后缀的使用 &.mp3 &.mp4 补后缀
   
-  <p>代理解析多地址生成格式 <h5>1. 地址1@__@地址2@__@地址3@__@地址4@__@</h5> 实例地址：https://www.fj365.ml/p.txt</p>
+  <p>代理解析多地址生成格式 <h5>1. 地址1@__@地址2@__@地址3@__@地址4@__@</h5> 实例地址：http://www.fj365.ml/p.txt</p>
 <hr>
 <hr>
-<h3>crossdomain.xml使用说明：实例地址：https://www.fj365.ml/crossdomain.xml</h3>
+<h3>crossdomain.xml使用说明：实例地址：http://www.fj365.ml/crossdomain.xml</h3>
 <hr>
   策略文件限制白名单添加 《allow-access-from domain="*.fj365.ml" /》 白名单域名*.fj365.ml
 
