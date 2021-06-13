@@ -4329,7 +4329,7 @@
       "name": "樱花动漫(网址播放)",
       "pic": "http://static.yingyonghui.com/icon/128/6844471.png",
       "userAgent": "Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaN8-00/012.002; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.0 Mobile Safari/533.4 3gpp-gba",
-      "ads": "",
+      "ads": "hm.baidu.com",
       "webUrl": "http://www.yhdm2.com/",
       "webOpen": true,
       "click": true
@@ -4355,7 +4355,7 @@
     {
       "name": "1090(网址播放)1ztt.com",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "userAgent": "Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaN8-00/012.002; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.0 Mobile Safari/533.4 3gpp-gba",
       "ads": "weizhenwx",
       "webUrl": "http://1090ys2.com/whole/2.html",
       "webOpen": true,
@@ -4376,7 +4376,7 @@
       "ads": "",
       "webUrl": "https://tv.syrme.top/",
       "webOpen": true,
-      "click": true
+      "click": false
     },
     {
       "name": "555电影(网址播放)",
@@ -4389,7 +4389,7 @@
     },{
       "name": "片库(网址播放)zz.ci",
       "pic": "http://static.yingyonghui.com/icon/128/6844471.png",
-      "userAgent": "Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaN8-00/012.002; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.0 Mobile Safari/533.4 3gpp-gba",
+      "userAgent": "Mozilla/5.0 Dalvik/2 ( Linux; U; NEM-AL10 Build/HONORNEM-AL10;Youku;7.1.4;) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Safari/537.36 (Baidu; P1 6.0) iPhone/7.1 Android/8.0 baiduboxapp/2.7.0.10",
       "ads": "",
       "webUrl": "https://m.pianku.li/",
       "webOpen": true,
@@ -4492,7 +4492,7 @@
     },{
       "name": "4K资源(网址播放)",
       "pic": "http://static.yingyonghui.com/icon/128/6844471.png",
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "userAgent": "Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaN8-00/012.002; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.0 Mobile Safari/533.4 3gpp-gba",
       "ads": "",
       "webUrl": "https://yanetflix.com/",
       "webOpen": true,
@@ -4575,15 +4575,15 @@
     },{
       "name": "真不卡(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "weizhenwx",
+      "userAgent": "Mozilla/5.0 Dalvik/2 ( Linux; U; NEM-AL10 Build/HONORNEM-AL10;Youku;7.1.4;) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Safari/537.36 (Baidu; P1 6.0) iPhone/7.1 Android/8.0 baiduboxapp/2.7.0.10",
+      "ads": "weizhenwx,@ad01",
       "webUrl": "https://www.zhenbuka2.com/",
       "webOpen": true,
       "click": true
     },{
       "name": "乌龟影院(网址播放)",
       "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2446.jpg",
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "userAgent": "Mozilla/5.0 Dalvik/2 ( Linux; U; NEM-AL10 Build/HONORNEM-AL10;Youku;7.1.4;) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Safari/537.36 (Baidu; P1 6.0) iPhone/7.1 Android/8.0 baiduboxapp/2.7.0.10",
       "ads": "",
       "webUrl": "https://www.wuguiyy.com/",
       "webOpen": true,
