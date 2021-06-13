@@ -4298,12 +4298,11 @@
           }
         }
       }
-    },
-    {
+    },{
       "name": "哈里哈里(网址播放)",
       "pic": "http://static.yingyonghui.com/icon/128/6844471.png",
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
+      "userAgent": "Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaN8-00/012.002; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.0 Mobile Safari/533.4 3gpp-gba",
+      "ads": "hm.baidu.com",
       "webUrl": "http://halihali2.com/",
       "webOpen": true,
       "click": true
@@ -4362,21 +4361,13 @@
       "click": true
     },
     {
-      "name": "电先生(网址播放)",
+      "name": "电先生(网址播放)tv.syrme.top",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "http://www.dianyingim.com/",
       "webOpen": true,
       "click": true
-    },{
-      "name": "简影(网址播放)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "https://tv.syrme.top/",
-      "webOpen": true,
-      "click": false
     },
     {
       "name": "555电影(网址播放)",
@@ -4742,6 +4733,54 @@
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36a",
       "ads": "",
       "webUrl": "http://m.v.baidu.com/",
+      "webOpen": true,
+      "click": true
+    },{
+      "name": "MK001",
+      "pic": "http://static.yingyonghui.com/icon/128/6821145.png",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36a",
+      "ads": "",
+      "webUrl": "https://music.postgraduate.top/",
+      "webOpen": true,
+      "click": true
+    },{
+      "name": "MK002",
+      "pic": "http://static.yingyonghui.com/icon/128/6821145.png",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36a",
+      "ads": "",
+      "webUrl": "https://netease-music.fe-mm.com/#/music/toplist",
+      "webOpen": true,
+      "click": true
+    },{
+      "name": "MK003",
+      "pic": "http://static.yingyonghui.com/icon/128/6821145.png",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36a",
+      "ads": "",
+      "webUrl": "http://music.runker.net/",
+      "webOpen": true,
+      "click": true
+    },{
+      "name": "MK004",
+      "pic": "http://static.yingyonghui.com/icon/128/6821145.png",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36a",
+      "ads": "",
+      "webUrl": "https://music.qier222.com/#/",
+      "webOpen": true,
+      "click": true
+    },{
+      "name": "MK005",
+      "pic": "http://static.yingyonghui.com/icon/128/6821145.png",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36a",
+      "ads": "",
+      "webUrl": "https://music.qier222.com/#/",
+      "webOpen": true,
+      "click": true
+    },{
+      "name": "MK006",
+      "pic": "http://static.yingyonghui.com/icon/128/6821145.png",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36",
+      "ads": "",
+      "webUrl": "http://music.jsososo.com/",
       "webOpen": true,
       "click": true
     }
