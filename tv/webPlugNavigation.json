@@ -161,19 +161,19 @@
         }
       }
     },{
-      "name": "9亿看看(无法搜)",
+      "name": "9亿看看(无法搜)9ekk.com",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
       "type": "webPlug",
       "subTitle": "清晰1080P/4K最高60帧",
       "subMobileTitle": "清晰1080P/4K最高60帧",
       "ads": "",
-      "webUrl": "http://www.9ekk.com/",
+      "webUrl": "http://9ehao.com/",
       "webOpen": false,
       "click": true,
       "webPlus": {
-        "search_url": "http://www.9ekk.com/vod/search.html?wd={kw}",
-        "nav_url": "http://www.9ekk.com/vodshow/navCate/page/navPage",
-        "cate_url": "http://9ekk.com/vodshow/cateNav/area/cateArea/page/catePage/year/cateYear/class/cateCate",
+        "search_url": "http://9ehao.com/vod/search.html?wd={kw}",
+        "nav_url": "http://9ehao.com/vodshow/navCate/page/navPage",
+        "cate_url": "http://9ehao.com/vodshow/cateNav/area/cateArea/page/catePage/year/cateYear/class/cateCate",
         "web_name": "9亿看看",
         "kw": "wd",
         "params": [
@@ -4300,48 +4300,26 @@
       }
     },
     {
-      "name": "哈里(网址播放)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "name": "哈里哈里(网址播放)",
+      "pic": "http://static.yingyonghui.com/icon/128/6844471.png",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "http://halihali.com/",
+      "webUrl": "http://halihali2.com/",
       "webOpen": true,
       "click": true
     },
     {
       "name": "七星(网址播放)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "pic": "http://static.yingyonghui.com/icon/128/6844471.png",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "http://qxkkk.cn/",
       "webOpen": true,
       "click": true
-    },
-    {
-      "name": "淘剧丫(网址播放)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "ads": "",
-      "webUrl": "http://www.1ztt.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "小小影院(网址播放)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "ads": "",
-      "webUrl": "https://m.007ys1.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "电先生(网址播放)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "ads": "",
-      "webUrl": "http://www.dianyingim.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
+    },{
       "name": "七星影视(网址播放)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "pic": "http://static.yingyonghui.com/icon/128/6844471.png",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "http://qx.iguanwang.cn/",
       "webOpen": true,
@@ -4349,15 +4327,52 @@
     },
     {
       "name": "樱花动漫(网址播放)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "pic": "http://static.yingyonghui.com/icon/128/6844471.png",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "http://www.yhdm2.com/",
       "webOpen": true,
       "click": true
     },
     {
+      "name": "小小影院(网址播放)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://m.007ys1.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "长资源(网址播放)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://www.qianoo.cn/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "1090(网址播放)1ztt.com",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "http://1090ys2.com/whole/2.html",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "电先生(网址播放)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "http://www.dianyingim.com/",
+      "webOpen": true,
+      "click": true
+    },{
       "name": "简影(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "https://tv.syrme.top/",
       "webOpen": true,
@@ -4366,82 +4381,75 @@
     {
       "name": "555电影(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "https://www.o8tv.com/",
       "webOpen": true,
       "click": true
-    },
-
-    {
-      "name": "大师兄(网址播放)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+    },{
+      "name": "片库(网址播放)zz.ci",
+      "pic": "http://static.yingyonghui.com/icon/128/6844471.png",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "https://zz.ci/",
+      "webUrl": "https://m.pianku.li/",
       "webOpen": true,
       "click": true
     },
     {
-      "name": "VIP.SB(网址播放)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "name": "茶杯狐(网址播放)",
+      "pic": "http://static.yingyonghui.com/icon/128/6844471.png",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "https://bukaivip.com/",
+      "webUrl": "https://www.cupfox.com/",
       "webOpen": true,
       "click": true
     },
     {
-      "name": "嘀哩影视(网址播放)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "name": "素白白(网址播放)diliktv.com",
+      "pic": "http://static.yingyonghui.com/icon/128/6844471.png",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "http://diliktv.com/",
+      "webUrl": "https://www.subaibai.com/",
       "webOpen": true,
       "click": true
-    },
-
-    {
+    },{
       "name": "极速影视(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "http://www.flvweb.com/",
       "webOpen": true,
       "click": true
     },
     {
-      "name": "长资源(网址播放)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "ads": "",
-      "webUrl": "https://www.qianoo.cn/",
-      "webOpen": true,
-      "click": true
-    },
-    {
       "name": "韩影迷(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "https://hanmiys.com/",
       "webOpen": true,
       "click": true
-    },
-
-    {
+    },{
       "name": "低端影视(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "https://ddrk.me/",
       "webOpen": true,
       "click": true
-    },
-
-    {
-      "name": "泡饭影视(网址播放)",
+    },{
+      "name": "NOVIP(网址播放)paofans.com",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "https://www.paofans.com",
+      "webUrl": "https://www.novipnoad.com/",
       "webOpen": true,
       "click": true
     },
     {
       "name": "宅看影视(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "https://www.zhaikanys.com",
       "webOpen": true,
@@ -4450,81 +4458,81 @@
     {
       "name": "TV云播(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "https://www.hktvyb.com/",
       "webOpen": true,
       "click": true
     },
     {
-      "name": "一只鱼(网址播放)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "name": "龒蜗牛D(网址播放)",
+      "pic": "http://static.yingyonghui.com/icon/128/6844471.png",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "https://www.4kyu.cc",
+      "webUrl": "http://s.wo0.cn",
       "webOpen": true,
       "click": true
     },
     {
       "name": "COKEMV影视((网址播放)",
-      "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2636.jpg",
+      "pic": "http://static.yingyonghui.com/icon/128/6844471.png",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "https://cokemv.cn",
       "webOpen": true,
       "click": true
-    },
-
-
-    {
+    },{
       "name": "94神马(网址播放)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
+      "pic": "http://static.yingyonghui.com/icon/128/6844471.png",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "http://www.9rmb.com",
       "webOpen": true,
       "click": true
-    },
-    {
+    },{
       "name": "4K资源(网址播放)",
-      "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2636.jpg",
+      "pic": "http://static.yingyonghui.com/icon/128/6844471.png",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "https://4kya.com",
+      "webUrl": "https://yanetflix.com/",
       "webOpen": true,
       "click": true
-    },
-    {
+    },{
       "name": "哆咪动漫(网址播放)",
       "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2636.jpg",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "http://www.dmdm2020.com",
       "webOpen": true,
       "click": true
-    },
-    {
+    },{
       "name": "8号影院(网址播放)",
       "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p2969.jpg",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "http://8hyy.cc",
       "webOpen": true,
       "click": true
-    },
-    {
+    },{
       "name": "奈飞影视(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "https://www.nfstar.net",
       "webOpen": true,
       "click": true
-    },
-
-    {
+    },{
       "name": "西瓜视频(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "https://www.ixigua.com/",
       "webOpen": true,
       "click": true
-    },
-    {
+    },{
       "name": "南瓜资源(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "http://www.nangua55.com/",
       "webOpen": true,
@@ -4533,51 +4541,49 @@
     {
       "name": "欧亚影视(网址播放)",
       "pic": "https://imgo.114shouji.com/data/attachment/forum/201901/28/204153f6w0t3wmbjiwrvhi.jpg",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "https://www.oy37.com",
       "webOpen": true,
       "click": true
-    },
-
-
-    {
+    },{
       "name": "奇侠高清(网址播放)",
       "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p3728.jpg",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "https://www.7xiady.cc",
       "webOpen": true,
       "click": true
     },
     {
-      "name": "1080(网址播放)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4220.jpg",
+      "name": "一只鱼(网址播放)k1080.net",
+      "pic": "http://static.yingyonghui.com/icon/128/6844471.png",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "https://www.k1080.net",
+      "webUrl": "http://bd-fo.ml/",
       "webOpen": true,
       "click": true
     },
     {
       "name": "奈菲影视(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "https://www.nfmovies.com",
       "webOpen": true,
       "click": true
-    },
-
-
-    {
+    },{
       "name": "真不卡(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "https://www.zhenbuka.com",
+      "webUrl": "https://www.zhenbuka2.com/",
       "webOpen": true,
       "click": true
-    },
-
-    {
+    },{
       "name": "乌龟影院(网址播放)",
       "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2446.jpg",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "https://www.wuguiyy.com/",
       "webOpen": true,
@@ -4586,15 +4592,15 @@
     {
       "name": "阿房影视(网址播放)",
       "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2446.jpg",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "https://bwl87.com/",
       "webOpen": true,
       "click": true
-    },
-
-    {
+    },{
       "name": "捏他(网址播放)",
       "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2446.jpg",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "http://www.nieta.co/",
       "webOpen": true,
@@ -4603,95 +4609,131 @@
     {
       "name": "zzzfun小屋(网址播放)",
       "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2446.jpg",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "http://www.zzzfun.com/",
       "webOpen": true,
       "click": true
-    },
-
-    {
-      "name": "樱花动漫(网址播放)",
-      "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2446.jpg",
+    },{
+      "name": "九亿看看",
+      "pic": "http://static.yingyonghui.com/icon/128/6844471.png",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "https://www.agefans.net/",
+      "webUrl": "http://9ehao.com/",
       "webOpen": true,
       "click": true
     },
     {
       "name": "哆咪动漫",
       "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2636.jpg",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "http://www.dmdm2020.com",
+      "webUrl": "http://www.dmdm2020.com/dongmantype/21.html",
       "webOpen": true,
       "click": true
     },
     {
-      "name": "哔哩哔哩影音馆",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "name": "哔哩哔哩",
+      "pic": "http://static.yingyonghui.com/icon/128/6821215.png",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "https://live.bilibili.com/p/eden/area-tags?visit_id=c6opq06jels0&areaId=33&parentAreaId=10",
+      "webUrl": "https://m.bilibili.com/",
       "webOpen": true,
       "click": true
     },
     {
-      "name": "虎牙一起看",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "name": "虎牙",
+      "pic": "http://static.yingyonghui.com/icon/128/6845051.png",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "https://www.huya.com/g/seeTogether",
+      "webUrl": "https://m.huya.com/g/seeTogether",
       "webOpen": true,
       "click": false
     },
     {
-      "name": "斗鱼一起看",
+      "name": "斗鱼",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "https://www.douyu.com/g_yqk",
+      "webUrl": "https://m.douyu.com/list/room?type=yqk",
       "webOpen": true,
       "click": false
     },
     {
-      "name": "测试正规站",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "name": "爱奇艺",
+      "pic": "http://static.yingyonghui.com/icon/128/6842162.png",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "https://www.iqiyi.com/",
       "webOpen": true,
       "click": true
     },
     {
-      "name": "测试正规站",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "name": "优酷",
+      "pic": "http://static.yingyonghui.com/icon/128/6844670.png",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "https://www.youku.com/",
       "webOpen": true,
       "click": true
     },
     {
-      "name": "测试正规站",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "name": "腾讯",
+      "pic": "http://static.yingyonghui.com/icon/128/6844793.png",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "https://v.qq.com/",
       "webOpen": true,
       "click": true
     },
     {
+      "name": "风行",
+      "pic": "http://static.yingyonghui.com/icon/128/6845197.png",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "http://m.fun.tv/#nav=3",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "芒果TV",
+      "pic": "http://static.yingyonghui.com/icon/128/2603186.png",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://m.mgtv.com/channel/tv/",
+      "webOpen": true,
+      "click": true
+    },
+    {
       "name": "百度",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "pic": "http://static.yingyonghui.com/icon/128/2036785.png",
+      "userAgent": "Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaN8-00/012.002; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.0 Mobile Safari/533.4 3gpp-gba",
       "ads": "",
-      "webUrl": "https://www.baidu.com/",
+      "webUrl": "http://m.baidu.com/",
       "webOpen": true,
       "click": true
     },{
-      "name": "企鹅电竞一起看",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "name": "企鹅电竞",
+      "pic": "http://static.yingyonghui.com/icon/128/6828577.png",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36a",
       "ads": "",
-      "webUrl": "https://egame.qq.com/livelist?layoutid=2000000110&tagId=0&tagIdStr=",
+      "webUrl": "https://cdn.egame.qq.com/pgg-play/module/livelist.html?layoutid=2000000110&tagId=0&tagIdStr=",
       "webOpen": true,
       "click": true
     },{
-      "name": "Sogou",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "name": "搜狗视频",
+      "pic": "http://static.yingyonghui.com/icon/128/6840609.png",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36a",
       "ads": "",
-      "webUrl": "https://m.v.sogou.com/",
+      "webUrl": "http://m.v.sogou.com/",
+      "webOpen": true,
+      "click": true
+    },{
+      "name": "百度视频",
+      "pic": "http://static.yingyonghui.com/icon/128/6844968.png",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36a",
+      "ads": "",
+      "webUrl": "http://m.v.baidu.com/",
       "webOpen": true,
       "click": true
     }
