@@ -4622,6 +4622,14 @@
       "webUrl": "http://9ehao.com/",
       "webOpen": true,
       "click": true
+    },{
+      "name": "爱迪",
+      "pic": "http://static.yingyonghui.com/icon/128/6844471.png",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://aidi.tv/",
+      "webOpen": true,
+      "click": true
     },
     {
       "name": "哆咪动漫",
