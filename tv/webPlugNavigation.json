@@ -4328,7 +4328,7 @@
     {
       "name": "樱花动漫(网址播放)",
       "pic": "http://static.yingyonghui.com/icon/128/6844471.png",
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "userAgent": "Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaN8-00/012.002; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.0 Mobile Safari/533.4 3gpp-gba",
       "ads": "",
       "webUrl": "http://www.yhdm2.com/",
       "webOpen": true,
@@ -4356,7 +4356,7 @@
       "name": "1090(网址播放)1ztt.com",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
+      "ads": "weizhenwx",
       "webUrl": "http://1090ys2.com/whole/2.html",
       "webOpen": true,
       "click": true
@@ -4389,7 +4389,7 @@
     },{
       "name": "片库(网址播放)zz.ci",
       "pic": "http://static.yingyonghui.com/icon/128/6844471.png",
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "userAgent": "Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaN8-00/012.002; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.0 Mobile Safari/533.4 3gpp-gba",
       "ads": "",
       "webUrl": "https://m.pianku.li/",
       "webOpen": true,
@@ -4576,7 +4576,7 @@
       "name": "真不卡(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
+      "ads": "weizhenwx",
       "webUrl": "https://www.zhenbuka2.com/",
       "webOpen": true,
       "click": true
