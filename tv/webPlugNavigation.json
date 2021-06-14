@@ -4647,7 +4647,7 @@
       "ads": "",
       "webUrl": "https://m.huya.com/g/seeTogether",
       "webOpen": true,
-      "click": false
+      "click": true
     },
     {
       "name": "斗鱼",
@@ -4656,7 +4656,7 @@
       "ads": "",
       "webUrl": "https://m.douyu.com/list/room?type=yqk",
       "webOpen": true,
-      "click": false
+      "click": true
     },
     {
       "name": "爱奇艺",
@@ -4764,7 +4764,7 @@
       "pic": "http://static.yingyonghui.com/icon/128/6821145.png",
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36a",
       "ads": "",
-      "webUrl": "https://music.qier222.com/#/",
+      "webUrl": "https://music.qier222.com/",
       "webOpen": true,
       "click": true
     },{
@@ -4772,7 +4772,7 @@
       "pic": "http://static.yingyonghui.com/icon/128/6821145.png",
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36a",
       "ads": "",
-      "webUrl": "https://music.qier222.com/#/",
+      "webUrl": "http://music.liumingye.cn/",
       "webOpen": true,
       "click": true
     },{
