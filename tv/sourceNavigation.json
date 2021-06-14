@@ -2,7 +2,7 @@
   "data": [
    {
       "name": "热门电影",
-      "pic": "http://static.yingyonghui.com/icon/128/6610989.png",
+      "pic": "http://static.yingyonghui.com/icon/128/6843909.png",
       "url": "http://s.wo0.cn/o.php/WYWP_dr5sGeZx.txt",
       "type": "gitJson",
       "keyDownPlay": true,
@@ -11,11 +11,11 @@
       "subTitle": "",
       "click": true,
       "autoNext": true,
-      "decoder": 1,
+      "decoder": 0,
       "webPlus": {}
     },{
       "name": "热门动漫",
-      "pic": "http://static.yingyonghui.com/icon/128/6610989.png",
+      "pic": "http://static.yingyonghui.com/icon/128/2390688.png",
       "url": "http://s.wo0.cn/o.php/WYWP_6a5UIm7z.txt",
       "type": "gitJson",
       "keyDownPlay": true,
@@ -24,7 +24,7 @@
       "subTitle": "",
       "click": true,
       "autoNext": true,
-      "decoder": 1,
+      "decoder": 0,
       "webPlus": {}
     },{
       "name": "热门直播",
@@ -41,7 +41,7 @@
       "webPlus": {}
     },{
       "name": "热门电视剧",
-      "pic": "http://static.yingyonghui.com/icon/128/6610989.png",
+      "pic": "http://static.yingyonghui.com/icon/128/6823170.png",
       "url": "http://s.wo0.cn/o.php/WYWP_6SUOJAlM.txt",
       "type": "txt",
       "keyDownPlay": true,
@@ -50,10 +50,10 @@
       "subTitle": "",
       "click": true,
       "autoNext": true,
-      "decoder": 1,
+      "decoder": 0,
       "webPlus": {}
     },{
-      "name": "虎牙直播二",
+      "name": "虎牙直播",
       "pic": "http://static.yingyonghui.com/icon/128/6610989.png",
       "url": "http://www.fj365.ml/tv/huya2.txt",
       "type": "txt",
@@ -117,7 +117,7 @@
       "subTitle": "",
       "click": true,
       "autoNext": true,
-      "decoder": 0,
+      "decoder": 1,
       "webPlus": {}
     },{
       "name": "直播三",
