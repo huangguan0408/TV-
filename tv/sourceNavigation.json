@@ -247,6 +247,21 @@
       "autoNext": false,
       "decoder": 0,
       "webPlus": {}
+    },{
+      "name": "央视直播(Web)",
+      "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkipc63ij31hc0u0wv2.jpg",
+      "url": "https://tv.cctv.com/live/",
+      "type": "web",
+      "subTitle": "经典动画电影整理中",
+      "click": true,
+      "autoNext": false,
+      "webOpen": true,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "PC",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
     },
     {
       "name": "iHOT系列",
