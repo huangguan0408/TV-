@@ -4354,14 +4354,14 @@
     {
       "name": "1090(网址播放)1ztt.com",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "userAgent": "Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaN8-00/012.002; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.0 Mobile Safari/533.4 3gpp-gba",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "weizhenwx",
       "webUrl": "http://1090ys2.com/whole/2.html",
       "webOpen": true,
       "click": true
     },
     {
-      "name": "电先生(网址播放)tv.syrme.top",
+      "name": "电影先生(网址播放)tv.syrme.top",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
@@ -4468,7 +4468,7 @@
       "pic": "http://static.yingyonghui.com/icon/128/6844471.png",
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "http://fj365.ml",
+      "webUrl": "http://www.fj365.ml",
       "webOpen": true,
       "click": true
     },
@@ -4618,7 +4618,7 @@
       "pic": "http://static.yingyonghui.com/icon/128/6844471.png",
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "http://9ehao.com/",
+      "webUrl": "https://9ehao.com/",
       "webOpen": true,
       "click": true
     },{
@@ -4770,7 +4770,7 @@
     },{
       "name": "MK004",
       "pic": "http://static.yingyonghui.com/icon/128/6821145.png",
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36a",
+      "userAgent": "PC",
       "ads": "",
       "webUrl": "https://music.qier222.com/",
       "webOpen": true,
@@ -4778,7 +4778,7 @@
     },{
       "name": "MK005",
       "pic": "http://static.yingyonghui.com/icon/128/6821145.png",
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36a",
+      "userAgent": "PC",
       "ads": "",
       "webUrl": "http://music.liumingye.cn/",
       "webOpen": true,
@@ -4786,7 +4786,7 @@
     },{
       "name": "MK006",
       "pic": "http://static.yingyonghui.com/icon/128/6821145.png",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36",
+      "userAgent": "PC",
       "ads": "",
       "webUrl": "http://music.jsososo.com/",
       "webOpen": true,
