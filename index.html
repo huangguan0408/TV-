@@ -245,6 +245,11 @@ $(document).ready(function() {
                     $(".jp-restore-screen").click()
                 } else {
                     $(".jp-full-screen").click()
+			$("#jquery_jplayer_1").css("height", "500px");
+                $("#jp_video_0").css({
+                    "height": "100%",
+                    "margin-top": "0px"
+                });
                 }
             })
         },
@@ -306,11 +311,7 @@ $(document).ready(function() {
             }
         },
         pause: function(event) {
-		if (event.jPlayer.status.formatType === "m4v") {
-                $("#jquery_jplayer_1").css("height", JP_HG() + "px");
-            } else{
             $("#jquery_jplayer_1").css("height", "1px");
-	    }
             $("#jp_video_0").css("margin-top", "65px");
             $("#BBZY").css({
                 "margin-bottom": "65px"
@@ -354,6 +355,11 @@ $(document).ready(function() {
         }
         if (event.which === 27) {
 		$(".jp-full-screen").click();
+		$("#jquery_jplayer_1").css("height", "500px");
+                $("#jp_video_0").css({
+                    "height": "100%",
+                    "margin-top": "0px"
+                });
         }
         if (event.which === 13) {
             $("#button_sotxt").click();
