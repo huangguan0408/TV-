@@ -55,7 +55,7 @@
     },{
       "name": "虎牙直播",
       "pic": "http://static.yingyonghui.com/icon/128/6610989.png",
-      "url": "http://www.fj365.ml/tv/huya2.txt",
+      "url": "http://fj365.ml/tv/huya2.txt",
       "type": "txt",
       "keyDownPlay": true,
       "keyUpPlay": true,
@@ -68,7 +68,7 @@
     },{
       "name": "斗鱼直播",
       "pic": "http://static.yingyonghui.com/icon/128/6823210.png",
-      "url": "http://www.fj365.ml/tv/douyu.txt",
+      "url": "http://fj365.ml/tv/douyu.txt",
       "type": "txt",
       "keyDownPlay": true,
       "keyUpPlay": true,
@@ -94,7 +94,7 @@
     },{
       "name": "海外直播",
       "pic": "http://static.yingyonghui.com/icon/128/5079046.png",
-      "url": "http://www.fj365.ml/tv/hwtv.txt",
+      "url": "http://fj365.ml/tv/hwtv.txt",
       "type": "txt",
       "keyDownPlay": true,
       "keyUpPlay": true,
@@ -107,7 +107,7 @@
     },{
       "name": "直播二",
       "pic": "http://static.yingyonghui.com/icon/128/5079046.png",
-      "url": "http://www.fj365.ml/tv/002.txt",
+      "url": "http://fj365.ml/tv/002.txt",
       "type": "txt",
       "keyDownPlay": true,
       "keyUpPlay": true,
@@ -195,7 +195,7 @@
     {
       "name": "(新增)hy电视(选IJK解码)",
       "pic": "https://tva1.sinaimg.cn/large/0072Vf1pgy1foxkc6qp2sj31hc0u0k1p.jpg",
-      "url": "http://www.fj365.ml/tv/电视轮播.txt",
+      "url": "http://fj365.ml/tv/电视轮播.txt",
       "type": "txt",
       "keyDownPlay": true,
       "keyUpPlay": true,
@@ -280,7 +280,7 @@
     {
       "name": "YY轮播(选IKJ解码)",
       "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkipc63ij31hc0u0wv2.jpg",
-      "url": "http://www.fj365.ml/tv/yy.txt",
+      "url": "http://fj365.ml/tv/yy.txt",
       "type": "txt",
       "keyDownPlay": true,
       "keyUpPlay": true,
@@ -307,7 +307,7 @@
     },{
       "name": "NewTV二",
       "pic": "http://static.yingyonghui.com/icon/128/6819136.png",
-      "url": "http://www.fj365.ml/tv/newtv.txt",
+      "url": "http://fj365.ml/tv/newtv.txt",
       "type": "txt",
       "keyDownPlay": true,
       "keyUpPlay": true,
@@ -321,7 +321,7 @@
     {
       "name": "CIBN",
       "pic": "http://static.yingyonghui.com/icon/128/6792079.png",
-      "url": "http://www.fj365.ml/tv/cibn2.txt",
+      "url": "http://fj365.ml/tv/cibn2.txt",
       "type": "txt",
       "keyDownPlay": true,
       "keyUpPlay": true,
@@ -411,7 +411,7 @@
     {
       "name": "优酷直播",
       "pic": "http://static.yingyonghui.com/icon/128/3661572.png",
-      "url": "http://www.fj365.ml/tv/youku.txt",
+      "url": "http://fj365.ml/tv/youku.txt",
       "type": "txt",
       "keyDownPlay": true,
       "keyUpPlay": true,
@@ -539,7 +539,7 @@
       "pic": "https://liaoyantai.cn/wp-content/uploads/2021/06/7331813d250ca401ec3468e259e2f9f1-270x380.jpg",
       "url": "http://s.wo0.cn/o.php/WYWP_bpnlz9ek.txt",
       "type": "gitJson",
-      "subTitle": "0000",
+      "subTitle": "",
       "click": true,
       "autoNext": true,
       "webOpen": false,
