@@ -328,8 +328,6 @@ $(document).ready(function() {
         },
         ended: function(event) {
 		$(".jp-full-screen").click();
-        //$.jPlayer.pause();
-        $("#jp_container_1").hide();
             $("#jquery_jplayer_1").css("height", "1px");
             $("#jp_video_0").css("margin-top", "65px");
             $("#BBZY").css({
@@ -350,7 +348,6 @@ $(document).ready(function() {
         }
         if (event.which === 27) {
 		$(".jp-full-screen").click();
-		$("#jp_container_1").hide();
         }
         if (event.which === 13) {
             $("#button_sotxt").click();
