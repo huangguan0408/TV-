@@ -245,6 +245,10 @@ $(document).ready(function() {
                     $(".jp-restore-screen").click()
                 } else {
                     $(".jp-full-screen").click()
+		$("#jp_video_0").css({
+                    "height": "100%",
+                    "margin-top": "0px"
+                });
                 }
             })
         },
@@ -349,9 +353,12 @@ $(document).ready(function() {
 			*/
         }
         if (event.which === 27) {
-		$.jPlayer.pause();
+		$("#jp_video_0").css({
+                    "height": "100%",
+                    "margin-top": "0px"
+                });
 		$(".jp-full-screen").click();
-       		$("#jp_container_1").hide();
+       		//$("#jp_container_1").hide();
         }
         if (event.which === 13) {
             $("#button_sotxt").click();
