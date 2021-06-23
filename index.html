@@ -245,6 +245,7 @@ $(document).ready(function() {
                     $(".jp-restore-screen").click()
                 } else {
                     $(".jp-full-screen").click()
+		$.jPlayer.pause();
                 }
             })
         },
@@ -272,6 +273,16 @@ $(document).ready(function() {
             cssClass: "jp-video-360p"
         },
         keyEnabled: true,
+	keyBindings: {
+        closeWindow: { // 自定义关闭窗口函数.
+            key: 27, // 监视键盘ESC是否被按下
+            fn: function (f) {
+                f.stop();
+                $(".jp-full-screen").click();  //最小化，不执行此操作，则不能上下拉动手机屏幕
+                $("#jp_container_1").hide();
+            }
+        }
+    },
         audioFullScreen: false,
         playHead: '0',
         playHeadTime: '0',
@@ -326,6 +337,9 @@ $(document).ready(function() {
             })
         },
         ended: function(event) {
+		$(".jp-full-screen").click();  //最小化，不执行此操作，则不能上下拉动手机屏幕
+        //$.jPlayer.pause();
+        $("#jp_container_1").hide();
             $("#jquery_jplayer_1").css("height", "1px");
             $("#jp_video_0").css("margin-top", "65px");
             $("#BBZY").css({
@@ -341,12 +355,6 @@ $(document).ready(function() {
             } else {
                 $(".jp-jplayer").jPlayer("pause");
             }
-            event.preventDefault();
-			*/
-        }
-        if (event.which === 27) {
-		/*
-            $(".jp-video-full .jp-restore-screen").click();
             event.preventDefault();
 			*/
         }
