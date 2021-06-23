@@ -327,19 +327,11 @@ $(document).ready(function() {
             })
         },
         ended: function(event) {
-		$(".jp-full-screen").click();  //最小化，不执行此操作，则不能上下拉动手机屏幕
+		$(".jp-full-screen").click();
         //$.jPlayer.pause();
         $("#jp_container_1").hide();
-		if (event.jPlayer.status.formatType === "m4v") {
-                $("#jquery_jplayer_1").css("height", JP_HG() + "px");
-			$("#jp_video_0").css({
-                    "height": "100%",
-                    "margin-top": "0px"
-                });
-		}else{
             $("#jquery_jplayer_1").css("height", "1px");
             $("#jp_video_0").css("margin-top", "65px");
-		}
             $("#BBZY").css({
                 "margin-bottom": "65px"
             })
@@ -358,6 +350,7 @@ $(document).ready(function() {
         }
         if (event.which === 27) {
 		$(".jp-full-screen").click();
+		$("#jp_container_1").hide();
         }
         if (event.which === 13) {
             $("#button_sotxt").click();
