@@ -243,10 +243,9 @@ $(document).ready(function() {
             $("#jquery_jplayer_1").dblclick(function() {
                 if ($(".jp-video-full").length > 0) {
                     $(".jp-restore-screen").click()
-			$(".jp-play").click()
                 } else {
                     $(".jp-full-screen").click()
-			$(".jp-play").click()
+			$("#jquery_jplayer_1").css("height", JP_HG() + "px");
                 }
             })
         },
@@ -351,9 +350,8 @@ $(document).ready(function() {
 			*/
         }
         if (event.which === 27) {
-		$(".jp-play").click();
 		$(".jp-full-screen").click();
-       		//$("#jp_container_1").show();//hide
+       		$("#jquery_jplayer_1").css("height", JP_HG() + "px");
         }
         if (event.which === 13) {
             $("#button_sotxt").click();
