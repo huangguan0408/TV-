@@ -1,6 +1,6 @@
 # FREEDTV
 
-TV端自建接口地址： http://www.fj365.ml/tv/ 
+TV端自建接口地址： http://www.fj365.ml/tv/   http://fj365.gitee.io/cmp4/tv/
 <hr>
 
 # CMP4 
