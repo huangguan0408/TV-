@@ -439,7 +439,8 @@ function JP_ADD(data){
 	var myadd,myadds;
 	myadd = data.match(/([a-z0-9]+),(.+),(.+)/, "$1$2$3");
 	myadds = '{title:"'+myadd[2]+'",'+myadd[1]+':"'+myadd[3]+'"}';
-	WNJP.add(myadds,true);
+	eval("myadds_add=" + myadds);
+	WNJP.add(myadds_add,true);
 	//WNJP.play(-1);
 }
 function QQYY(lsrc) {
