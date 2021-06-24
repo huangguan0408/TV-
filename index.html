@@ -45,7 +45,6 @@ function FX_ZYS(lsrc) {
 }
 $(document).ready(function() {
     var item,so_val,so_so,so_str,so_s1,so_s2;
-document.getElementById("jp_video_0").controls = true;
     $('#MModal').modal('hide');
     so_so = (window.location.search.substring(1)).replace(/\+/g, "%20");
     if (so_so.indexOf('SO=') > -1) {
@@ -286,6 +285,7 @@ $(document).ready(function() {
 	$(this).jPlayer("pauseOthers");
             document.title = event.jPlayer.status.media.title;
             if (event.jPlayer.status.formatType === "m4v") {
+		    document.getElementById("jp_video_0").controls = true;
                 $("#jquery_jplayer_1").css("height", JP_HG() + "px");
                 $("#jp_video_0").css({
                     "height": "100%",
