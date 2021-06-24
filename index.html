@@ -295,6 +295,7 @@ $(document).ready(function() {
                     "margin-bottom": "" + (parseInt(JP_HG()) + 65) + "px"
                 })
             } else if (event.jPlayer.status.formatType === "mp3" || event.jPlayer.status.formatType === "m4a") {
+		    document.getElementById("jp_video_0").controls = false;
                 $("#jquery_jplayer_1").css("height", "1px");
                 $("#BBZY").css({
                     "margin-bottom": "65px"
@@ -328,6 +329,7 @@ $(document).ready(function() {
             })
         },
         ended: function(event) {
+		document.getElementById("jp_video_0").controls = false;
 		//$(".jp-full-screen").click();
             $("#jquery_jplayer_1").css("height", "1px");
             $("#jp_video_0").css("margin-top", "65px");
