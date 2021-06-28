@@ -235,7 +235,7 @@ $(document).ready(function() {
     })
 });
 $(document).ready(function() {
-$("#xq_888").click(function() {var xq_88 = '888';});
+$("#xq_888").click(function() {window.xq_88 = '888';});
     WNJP = new jPlayerPlaylist({
         jPlayer: "#jquery_jplayer_1",
         cssSelectorAncestor: "#jp_container_1"
@@ -629,6 +629,15 @@ if (typeof(lb_lbs) == "undefined"){
     }else{
     	$('#GS_HL').html(lb_lbs + lb_fy)
     }
+}
+function PD_KZ(str) {
+	var pdkzs;
+if (typeof(str) == "undefined"){
+    	pdkzs = ''
+    }else{
+    	pdkzs = str;
+    }
+return pdkzs;
 }
 function PD_KZ(str) {
 	var pdkzs;
