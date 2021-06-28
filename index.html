@@ -241,9 +241,6 @@ $(document).ready(function() {
     }, [], {
         ready: function() {
 		/*
-		$("#jquery_jplayer_1").click(function() {
-			document.getElementById("jp_video_0").controls = true;
-			})
             $("#jquery_jplayer_1").dblclick(function() {
                 if ($(".jp-video-full").length > 0) {
                     $(".jp-restore-screen").click()
@@ -265,7 +262,7 @@ $(document).ready(function() {
             removeTime: '0',
             shuffleTime: '0'
         },
-		solution: 'html',
+	solution: 'html',
         supplied: "mp3,m4v,m4a",
         wmode: "window",
         useStateClassSkin: true,
@@ -334,8 +331,6 @@ $(document).ready(function() {
             })
         },
         ended: function(event) {
-		document.getElementById("jp_video_0").controls = false;
-		//$(".jp-full-screen").click();
             $("#jquery_jplayer_1").css("height", "1px");
             $("#jp_video_0").css("margin-top", "65px");
             $("#BBZY").css({
