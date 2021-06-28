@@ -250,7 +250,7 @@ $(document).ready(function() {
             })
 	    */
         },
-        playlistOptions: {
+                playlistOptions: {
             autoPlay: true,
             playHead: '0',
             playHeadTime: '0',
@@ -262,9 +262,10 @@ $(document).ready(function() {
             removeTime: '0',
             shuffleTime: '0'
         },
-	solution: 'html',
-        supplied: "mp3,m4v,m4a",
+		solution: 'html',
+        supplied: "mp3,m4v,m4a,rtmpa,m3u",
         wmode: "window",
+		errorAlerts: true,
         useStateClassSkin: true,
         autoBlur: false,
         smoothPlayBar: true,
@@ -284,10 +285,9 @@ $(document).ready(function() {
             }
         },
         play: function(event) {
-	$(this).jPlayer("pauseOthers");
             document.title = event.jPlayer.status.media.title;
             if (event.jPlayer.status.formatType === "m4v") {
-		    document.getElementById("jp_video_0").controls = true;
+				document.getElementById("jp_video_0").controls = true;
                 $("#jquery_jplayer_1").css("height", JP_HG() + "px");
                 $("#jp_video_0").css({
                     "height": "100%",
