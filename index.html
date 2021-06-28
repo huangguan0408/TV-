@@ -239,7 +239,7 @@ $(document).ready(function() {
         jPlayer: "#jquery_jplayer_1",
         cssSelectorAncestor: "#jp_container_1"
     }, [], {
-        ready: function() {
+        ready: function(event) {
 		/*
             $("#jquery_jplayer_1").dblclick(function() {
                 if ($(".jp-video-full").length > 0) {
@@ -248,9 +248,9 @@ $(document).ready(function() {
                     $(".jp-full-screen").click()
                 }
             })
-	    */
+			*/
         },
-                playlistOptions: {
+        playlistOptions: {
             autoPlay: true,
             playHead: '0',
             playHeadTime: '0',
@@ -297,7 +297,6 @@ $(document).ready(function() {
                     "margin-bottom": "" + (parseInt(JP_HG()) + 65) + "px"
                 })
             } else if (event.jPlayer.status.formatType === "mp3" || event.jPlayer.status.formatType === "m4a") {
-		    document.getElementById("jp_video_0").controls = false;
                 $("#jquery_jplayer_1").css("height", "1px");
                 $("#BBZY").css({
                     "margin-bottom": "65px"
@@ -350,7 +349,10 @@ $(document).ready(function() {
 			*/
         }
         if (event.which === 27) {
-		//$(".jp-full-screen").click();
+		/*
+            $(".jp-video-full .jp-restore-screen").click();
+            event.preventDefault();
+			*/
         }
         if (event.which === 13) {
             $("#button_sotxt").click();
