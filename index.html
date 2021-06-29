@@ -441,9 +441,11 @@ function JP_ADD(data){
 	eval("myadds_add=" + myadds);
 	WNJP.add(myadds_add,true);
 	//WNJP.play(-1);
+	/*
 	myaddlb='';
 	myaddlb += '<div class="list-group-item" style="background-color: rgba(185, 185, 185, 0.5);"><span class="badge"><a href="' + myadd[3] + '" download="wn.' + myadd[1] + '"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span></a></span><span class="glyphicon glyphicon-headphones" aria-hidden="true"></span>&nbsp;<a href="javascript:WNJP.play(0);">' + myadd[2] + '</a></div>'
 	$("#JP_HL").html(myaddlb)
+	*/
 }
 function QQYY(lsrc) {
     if (lsrc.indexOf("http") > -1) {
@@ -723,12 +725,15 @@ function kglist_success_jsonpCallback(data, kid, pn) {
         } else {
             myxo = 'style="background-color: rgba(185, 185, 185, 0.5);"'
         }
-		//if ((v.HQExtName).indexOf("mp3") > -1) {
-			//myss = '&nbsp;<a href="http://s.wo0.cn/o.php/KUGOU_' + v.HQFileHash + '.mp3" download="' + safeStr(v.FileName) + '.mp3">HQ</a>&nbsp;';
-		//}else{myss = '&nbsp;'}
-		//if ((v.SQExtName).indexOf("flac") > -1) {
-			//mysss = '&nbsp;<a href="http://s.wo0.cn/o.php/KUGOU_' + v.SQFileHash + '.mp3" download="' + safeStr(v.FileName) + '.flac">SQ</a>&nbsp;';
-		//}else{mysss = '&nbsp;'}
+	if ((v.HQExtName).indexOf("mp3") > -1) {
+			myss = '&nbsp;<a href="http://s.wo0.cn/o.php/KUGOU_' + v.HQFileHash + '.mp3" download="' + safeStr(v.FileName) + '.mp3">HQ</a>&nbsp;';
+		}else{myss = '&nbsp;'}
+		if ((v.SQExtName).indexOf("flac") > -1) {
+			mysss = '&nbsp;<a href="http://s.wo0.cn/o.php/KUGOU_' + v.SQFileHash + '.mp3" download="' + safeStr(v.FileName) + '.flac">SQ</a>&nbsp;';
+		}else{mysss = '&nbsp;'}
+		if (parseInt(v.MvType) > 0) {
+			myssss = '&nbsp;<a href="javascript:JP_ADD(\'m4v,mv,http://s.wo0.cn/o.php/KUGOU_' + v.MvHash + '.mkv\')">MV</a>&nbsp;';// download="' + safeStr(v.FileName) + '.mkv"
+		}else{myssss = '&nbsp;'}
 		//' + mysss + myss + '
         lb_lb += '<div class="list-group-item" ' + myxo + '><span class="badge">&nbsp;<a href="http://s.wo0.cn/o.php/KUGOU_' + v.FileHash + '.mp3" download="' + safeStr(v.FileName) + '.mp3"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span></a>&nbsp;</span><a href="javascript:WNJP.play(' + k + ');"><p class="txt"><span class="glyphicon glyphicon-headphones" aria-hidden="true"></span>&nbsp;' + safeStr(v.FileName) + '</a></p></a></div>'
     });
