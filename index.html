@@ -593,9 +593,8 @@ function QQYYS_success_jsonpCallback(data, fy) {
 		lb_lb += '<div class="text-center" style="margin: 0 1px 100px 1px;"></div>';
 	}
     if (fy.indexOf("@x@.json") > -1) {
-         var xq_1,xq_2,xq_3,xq_4,xq_5,xq_6,xq_7,xq_8,xq_88,xq_888,J_00,xq_j,dh_j,lb_lbs,xq_666,xingqiarr=[1,2,3,4,5,6,0,888],week = new Date().getDay();
-        lb_fy = ''
-		lb_lbs = ''
+         var xq_1,xq_2,xq_3,xq_4,xq_5,xq_6,xq_7,xq_8,xq_88,xq_888,J_00,xq_j,dh_j,xq_666,xingqiarr=[1,2,3,4,5,6,0,888],week = new Date().getDay();
+        lb_fy = '';var lb_lbs = '';
 //xq_88 = $('#xq_888').attr('href');
 if (week == xingqiarr[0]) {  
 	xq_1 = "active";  
@@ -622,7 +621,6 @@ J_00 = [{'66601':'视频','66602':'音乐','66603':'漫画','66604':'小说','66
     if (typeof(lb_fy) == "undefined" || fy.indexOf(".txt") > -1 || parseInt(data.length) <= 3) {
         lb_fy = ''
     }
-	//PAjaxData({"html":""+lb_lb + lb_fy+"","pageTitle":""+fy+"","id":""+times+""},fy);
 if (typeof(lb_lbs) == "undefined"){
     	lb_lbs = ''
 	$('#GS_HL').html(lb_lb + lb_fy)
