@@ -3,6 +3,11 @@
 TV端自建接口地址： http://www.fj365.ml/tv/   http://fj365.gitee.io/cmp4/tv/
 <hr>
 
+# ZYplayer
+
+接口地址： http://www.fj365.ml/tv/zyplayer.json
+<hr>
+
 # CMP4 
 
 演示地址： http://www.fj365.ml/n.swf https://fj365.gitee.io/CMP4/
