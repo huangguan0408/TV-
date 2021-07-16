@@ -1,11 +1,13 @@
 # FREEDTV
 
 TV端自建接口地址： http://www.fj365.ml/tv/   http://fj365.gitee.io/cmp4/tv/
+TV端自建CDN接口地址:  https://cdn.jsdelivr.net/gh/fj365/CMP4@master/tv/
 <hr>
 
 # ZYplayer
 
 接口地址： http://www.fj365.ml/tv/zyplayer.json
+CDN:  https://cdn.jsdelivr.net/gh/fj365/CMP4@master/tv/zyplayer.json
 <hr>
 
 # CMP4 
