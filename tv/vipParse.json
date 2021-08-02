@@ -35,7 +35,7 @@
       "name": "线路006",
       "ad": "no",
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "url": "https://api.sigujx.com/?url="
+      "url": "http://api.jhdyw.vip/?url="
     },{
       "id": 7,
       "name": "648G",
@@ -246,6 +246,18 @@
       "ad": "no",
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "url": "http://api.97kn.com/?url="
+    },{
+      "id": 42,
+      "name": "97kn",
+      "ad": "no",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "url": "https://mi.renrenmi.net/dp/?url="
+    },{
+      "id": 43,
+      "name": "97kn",
+      "ad": "no",
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "url": "https://jx.xmflv.com/?url="
     }
   ]
 } 
