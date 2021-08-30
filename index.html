@@ -592,6 +592,9 @@ function QQYYS_success_jsonpCallback(data, fy) {
     }else{
 		lb_lb += '<div class="text-center" style="margin: 0 1px 100px 1px;"></div>';
 	}
+if (typeof(lb_fy) == "undefined" || fy.indexOf(".txt") > -1 || parseInt(data.length) <= 3) {
+        lb_fy = ''
+    }
     if (fy.indexOf("@x@.json") > -1) {
          var xq_1,xq_2,xq_3,xq_4,xq_5,xq_6,xq_7,xq_8,xq_88,xq_888,J_00,xq_j,dh_j,xq_666,xingqiarr=[1,2,3,4,5,6,0,888],week = new Date().getDay();
         lb_fy = '';var lb_lbs = '';
@@ -620,16 +623,12 @@ J_00 = [{'66601':'视频','66602':'音乐','66603':'漫画','66604':'小说','66
 	    /*----*/
 	    lb_lbs += "<div class=\"view\"><div class=\"tabbable\"id=\"tabs-000\"><ul class=\"nav nav-tabs\"><li class=\"active\"><a href=\"#panel-888\"data-toggle=\"tab\"contenteditable=\"false\" style=\"padding: 4px 5px;\">推荐</a></li><li class=\"\"><a href=\"#panel-666\"data-toggle=\"tab\"contenteditable=\"false\" style=\"padding: 4px 5px;\">导航</a></li></ul><div class=\"tab-content\"><div class=\"tab-pane\"id=\"panel-888\">"+lb_lb+"</div><div class=\"tab-pane\"id=\"panel-666\">"+ZY_ECHOS(J_00,''+ZY_ECHO(dh_j,'A')+'','66601')+"</div></div></div></div>";
 	    /*----*/
-    }
-    if (typeof(lb_fy) == "undefined" || fy.indexOf(".txt") > -1 || parseInt(data.length) <= 3) {
-        lb_fy = ''
-    }
-if (typeof(lb_lbs) == "undefined"){
-    	lb_lbs = ''
-	$('#GS_HL').html(lb_lb + lb_fy)
+$('#GS_HL').html(lb_lbs + lb_fy)
     }else{
-    	$('#GS_HL').html(lb_lbs + lb_fy)
-    }
+lb_lbs = ''
+	$('#GS_HL').html(lb_lb + lb_fy)
+}
+
 }
 function ECHO(str){
 	document.write(str);
