@@ -482,11 +482,14 @@ J_01 = [{'55500':'电视剧','55501':'电影'}];
 J_02 = [{'88800':'音乐','88801':'视频','88802':'直播','88803':'应用','88804':'美图','88805':'电台'}];
 	    /*--JSON.parse JSON.stringify--*/
 	    L_B += "<div class=\"view\"style=\"margin-bottom:80px;\"><div class=\"tabbable\"id=\"tabs-000\"><ul class=\"nav nav-tabs\"><li class=\"\"><a href=\"#panel-888\"data-toggle=\"tab\"contenteditable=\"false\" style=\"padding: 4px 1px;\">推荐</a></li>";
+/*--
 		for(var io=0,lo=xq_j.length;io<lo;io++){
 			if (week == Ds_xq[io]){xq_7="active";}else{xq_7="";}
 			L_B += "<li class=\""+xq_7+"\"><a href=\"#panel-00"+parseInt(io+1)+"\"data-toggle=\"tab\"contenteditable=\"false\" style=\"padding: 4px 4px;\">"+Dt_xq[io]+"</a></li>";
 		}
-		L_B += "<li class=\"\"><a href=\"#panel-666\"data-toggle=\"tab\"contenteditable=\"false\" style=\"padding: 4px 1px;\">导航</a></li><li class=\"\"><a href=\"#panel-555\"data-toggle=\"tab\"contenteditable=\"false\" style=\"padding: 4px 1px;\">戏精</a></li><li class=\"\"><a href=\"#panel-999\"data-toggle=\"tab\"contenteditable=\"false\" style=\"padding: 4px 1px;\">留言</a></li></ul><div class=\"tab-content\"><div class=\"tab-pane\"id=\"panel-888\">"+ZY_ECHOS(J_02,''+ZY_DATA(tj_j,'XX','888')+'','88800')+"</div>"+ZY_DATA(xq_j,'XQ','XQ')+"<div class=\"tab-pane\"id=\"panel-666\">"+ZY_ECHOS(J_00,''+ZY_DATA(dh_j,'A','666')+'','66600')+"</div><div class=\"tab-pane\"id=\"panel-555\">"+ZY_ECHOS(J_01,''+ZY_DATA(xj_j,'L','555')+'','55500')+"</div><div class=\"tab-pane\"id=\"panel-999\">"+TXC_B()+"</div></div></div></div>";
+//<li class=\"\"><a href=\"#panel-555\"data-toggle=\"tab\"contenteditable=\"false\" style=\"padding: 4px 1px;\">戏精</a></li>
+--*/
+		L_B += "<li class=\"active\"><a href=\"#panel-666\"data-toggle=\"tab\"contenteditable=\"false\" style=\"padding: 4px 1px;\">导航</a></li><li class=\"\"><a href=\"#panel-999\"data-toggle=\"tab\"contenteditable=\"false\" style=\"padding: 4px 1px;\">留言</a></li></ul><div class=\"tab-content\"><div class=\"tab-pane\"id=\"panel-888\">"+ZY_ECHOS(J_02,''+ZY_DATA(tj_j,'XX','888')+'','88800')+"</div>"+ZY_DATA(xq_j,'XQ','XQ')+"<div class=\"tab-pane\"id=\"panel-666\">"+ZY_ECHOS(J_00,''+ZY_DATA(dh_j,'A','666')+'','66600')+"</div><div class=\"tab-pane\"id=\"panel-555\">"+ZY_ECHOS(J_01,''+ZY_DATA(xj_j,'L','555')+'','55500')+"</div><div class=\"tab-pane\"id=\"panel-999\">"+TXC_B()+"</div></div></div></div>";
 	    /*----*/
 		$('#BBZYS').html(L_B);
 		//
