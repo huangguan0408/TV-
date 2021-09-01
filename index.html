@@ -940,7 +940,7 @@ function TH_URL(str,type){
 		}else{
 			urls="javascript:"+pp[1]+"(\'"+url+"\');";
 		}
-	}else{urls=safeurl(str);}
+	}else{urls=safeurl(str)+'"target="_blank';}
 	return urls;
 }
 function safeurl(str){
