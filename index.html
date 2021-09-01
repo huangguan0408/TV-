@@ -563,6 +563,18 @@ function ZY_ECHOS(json,str,active,type){
 		return D_html;
 	//}
 }
+function KGID(lsrc) {
+	$.ajax({  
+		type:'get',
+		url:'https://m.kugou.com/app/i/getSongInfo.php?cmd=playInfo&from=mkugou&hash='+lsrc,
+		cache:true,
+		dataType:'json',
+		contentType: "application/json; charset=utf-8",
+		success:function(data){
+			return data.url;
+		}
+	});
+}
 function KUGOU(lsrc) {
     if (lsrc.indexOf("@") > -1){myx = (/^(.+)@([0-9]+)$/g).exec(lsrc);url_s = myx[1];url_p = myx[2];}else{url_s = lsrc;url_p = 1;}
     $.ajax({
@@ -590,7 +602,7 @@ function KUGOU(lsrc) {
 function kglist_success_jsonpCallback(data, kid, pn, pns) {
     jp_lb = '[';var myss,mysss,myssss,pgs;
     $.each(data, function(k, v) {
-        jp_lb += '{mp3:"http://s.wo0.cn/o.php/KUGOU_' + v.FileHash + '.mp3",title:"' + safeStr(v.FileName) + '"},'//hash filename HQFileHash MvHash SQFileHash
+        jp_lb += '{mp3:"' + KGID(v.FileHash) + '",title:"' + safeStr(v.FileName) + '"},'//hash filename HQFileHash MvHash SQFileHashhttp://s.wo0.cn/o.php/KUGOU_' + KGID(v.FileHash) + '.mp3
     });
     jp_lb += ']';
     eval("kugou_lb=" + jp_lb);
@@ -606,12 +618,13 @@ function kglist_success_jsonpCallback(data, kid, pn, pns) {
 		if ((v.SQExtName).indexOf("flac") > -1){
 			mysss = '&nbsp;<a href="http://s.wo0.cn/o.php/KUGOU_' + v.SQFileHash + '.mp3" download="' + safeStr(v.FileName) + '.flac">SQ</a>&nbsp;';
 		}else{mysss = '&nbsp;'}
-		*/
+		
 		if (parseInt(v.MvType) > 0){
 			myssss = '<a href="javascript:JP_ADD(\'m4v,mv,http://s.wo0.cn/o.php/KUGOU_' + v.MvHash + '.mkv\')">MV</a>&nbsp;';// download="' + safeStr(v.FileName) + '.mkv"
 		}else{myssss = '&nbsp;'}
-		//' + mysss + myss + '
-		L_B += '<tr><td><p class="txt"><a href="javascript:WNJP.play(' + k + ');"><span class="glyphicon glyphicon-headphones" aria-hidden="true"></span>&nbsp;' + safeStr(v.FileName) + '</a></p></td><td><p class="tds">' + myssss + '<a href="http://s.wo0.cn/o.php/KUGOU_' + v.FileHash + '.mp3" download="' + safeStr(v.FileName) + '.mp3"style="float: right;"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span></a></p></td></tr>';
+		*/
+		//' + mysss + myss + '' + myssss + '
+		L_B += '<tr><td><p class="txt"><a href="javascript:WNJP.play(' + k + ');"><span class="glyphicon glyphicon-headphones" aria-hidden="true"></span>&nbsp;' + safeStr(v.FileName) + '</a></p></td><td><p class="tds"><a href="' + KGID(v.FileHash) + '" download="' + safeStr(v.FileName) + '.mp3"style="float: right;"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span></a></p></td></tr>';
     });
     L_B += '</tbody></table>';
     if((parseInt(pn) - 5) <= 0){pgs = 1;}else{pgs = (parseInt(pn) - 5);}
