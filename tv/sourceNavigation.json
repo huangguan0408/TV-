@@ -3,7 +3,7 @@
 {
       "name": "龒蜗牛D",
       "pic": "http://static.yingyonghui.com/icon/128/6375279.png",
-      "url": "http://fj365.gitee.io/cmp4/",
+      "webUrl": "http://fj365.gitee.io/cmp4/",
       "type": "web",
       "webOpen": true,
       "keyDownPlay": false,
@@ -17,7 +17,7 @@
     },{
       "name": "虎牙直播",
       "pic": "http://static.yingyonghui.com/icon/128/6865900.png",
-      "url": "http://fj365.ml/tv/huya2.txt",
+      "webUrl": "http://fj365.ml/tv/huya2.txt",
       "type": "txt",
       "keyDownPlay": true,
       "keyUpPlay": true,
@@ -30,7 +30,7 @@
     },{
       "name": "斗鱼直播",
       "pic": "http://static.yingyonghui.com/icon/128/6866458.png",
-      "url": "http://fj365.ml/tv/douyu.txt",
+      "webUrl": "http://fj365.ml/tv/douyu.txt",
       "type": "txt",
       "keyDownPlay": true,
       "keyUpPlay": true,
@@ -43,7 +43,7 @@
     },{
       "name": "海外直播",
       "pic": "http://static.yingyonghui.com/icon/128/5079046.png",
-      "url": "http://fj365.ml/tv/hwtv.txt",
+      "webUrl": "http://fj365.ml/tv/hwtv.txt",
       "type": "txt",
       "keyDownPlay": true,
       "keyUpPlay": true,
@@ -56,7 +56,7 @@
     },{
       "name": "直播二",
       "pic": "http://static.yingyonghui.com/icon/128/5079046.png",
-      "url": "http://fj365.ml/tv/002.txt",
+      "webUrl": "http://fj365.ml/tv/002.txt",
       "type": "txt",
       "keyDownPlay": true,
       "keyUpPlay": true,
@@ -69,7 +69,7 @@
     },{
       "name": "直播三",
       "pic": "http://static.yingyonghui.com/icon/128/5079046.png",
-      "url": "https://cdn.jsdelivr.net/gh/iptv-org/iptv/channels/cn.m3u",
+      "webUrl": "https://cdn.jsdelivr.net/gh/iptv-org/iptv/channels/cn.m3u",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -84,7 +84,7 @@
     },{
       "name": "直播四",
       "pic": "http://static.yingyonghui.com/icon/128/5079046.png",
-      "url": "https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV/IPTV.m3u",
+      "webUrl": "https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV/IPTV.m3u",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -99,7 +99,7 @@
     },{
       "name": "直播五",
       "pic": "http://static.yingyonghui.com/icon/128/5079046.png",
-      "url": "http://sxc574118651.gitee.io/sxc/111.json",
+      "webUrl": "http://sxc574118651.gitee.io/sxc/111.json",
       "type": "txt",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -114,7 +114,7 @@
     },{
       "name": "直播六",
       "pic": "http://static.yingyonghui.com/icon/128/5079046.png",
-      "url": "https://pastebin.com/raw/HrRbgMr0",
+      "webUrl": "https://pastebin.com/raw/HrRbgMr0",
       "type": "txt",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -129,7 +129,7 @@
     },{
       "name": "直播七",
       "pic": "http://static.yingyonghui.com/icon/128/5079046.png",
-      "url": "http://fj365.ml/tv/0210730.txt",
+      "webUrl": "http://fj365.ml/tv/0210730.txt",
       "type": "txt",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -144,7 +144,7 @@
     },{
       "name": "直播八",
       "pic": "http://static.yingyonghui.com/icon/128/5079046.png",
-      "url": "http://fj365.ml/tv/0210802.txt",
+      "webUrl": "http://fj365.ml/tv/0210802.txt",
       "type": "txt",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -159,7 +159,7 @@
     },{
       "name": "直播九",
       "pic": "http://static.yingyonghui.com/icon/128/5079046.png",
-      "url": "https://www.yamcode.com/raw/HO5oPQ0zRV",
+      "webUrl": "https://www.yamcode.com/raw/HO5oPQ0zRV",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -174,7 +174,7 @@
     },{
       "name": "直播十",
       "pic": "http://static.yingyonghui.com/icon/128/5079046.png",
-      "url": "https://gitee.com/wuji888/wuji/raw/master/AnKangTV.txt",
+      "webUrl": "https://gitee.com/wuji888/wuji/raw/master/AnKangTV.txt",
       "type": "txt",
       "subTitle": "",
       "click": true,
@@ -189,7 +189,7 @@
     },{
       "name": "直播十一",
       "pic": "http://static.yingyonghui.com/icon/128/5079046.png",
-      "url": "https://gitee.com/nflldr/tv/raw/master/tv.txt",
+      "webUrl": "https://gitee.com/nflldr/tv/raw/master/tv.txt",
       "type": "txt",
       "subTitle": "",
       "click": true,
@@ -204,7 +204,7 @@
     },{
       "name": "直播十二",
       "pic": "http://static.yingyonghui.com/icon/128/5079046.png",
-      "url": "https://gitee.com/xwmkmk/tv/raw/master/tv.txt",
+      "webUrl": "https://gitee.com/xwmkmk/tv/raw/master/tv.txt",
       "type": "txt",
       "subTitle": "",
       "click": true,
@@ -220,7 +220,7 @@
     {
       "name": "iHOT系列",
       "pic": "https://tva3.sinaimg.cn/large/a15b4afegy1fmvjkpglf3j21hc0u0h59.jpg",
-      "url": "https://gitee.com/freedTV/freed/raw/master/tv/ihot.m3u",
+      "webUrl": "https://gitee.com/freedTV/freed/raw/master/tv/ihot.m3u",
       "type": "m3u",
       "keyDownPlay": true,
       "keyUpPlay": true,
@@ -234,7 +234,7 @@
     {
       "name": "NewTV二",
       "pic": "http://static.yingyonghui.com/icon/128/6819136.png",
-      "url": "http://fj365.ml/tv/newtv.txt",
+      "webUrl": "http://fj365.ml/tv/newtv.txt",
       "type": "txt",
       "keyDownPlay": true,
       "keyUpPlay": true,
@@ -248,7 +248,7 @@
     {
       "name": "CIBN",
       "pic": "http://static.yingyonghui.com/icon/128/6792079.png",
-      "url": "http://fj365.ml/tv/cibn2.txt",
+      "webUrl": "http://fj365.ml/tv/cibn2.txt",
       "type": "txt",
       "keyDownPlay": true,
       "keyUpPlay": true,
@@ -262,7 +262,7 @@
     {
       "name": "直播",
       "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/goolguy007/radioer/TVradio.m3u",
+      "webUrl": "https://cdn.jsdelivr.net/gh/goolguy007/radioer/TVradio.m3u",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
       "click": true,
