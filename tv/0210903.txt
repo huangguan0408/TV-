@@ -68,53 +68,53 @@ rtmp://161.202.204.248:1935/sat/us011
 #EXTINF:-1 ,CBS2 480
 rtmp://161.202.204.248:1935/sat/us012 FS1 480,rtmp://161.202.204.248:1935/sat/us031 FS1 352,rtmp://161.202.204.248:1935/sat/us032
 #EXTINF:-1 ,有线18台
-rtmp://59.124.75.153/sat/hk042
+rtmp://59.124.75.153:1935/sat/hk042
 #EXTINF:-1 ,民视
-rtmp://59.124.75.153/sat/tv051
+rtmp://59.124.75.153:1935/sat/tv051
 #EXTINF:-1 ,台视
-rtmp://59.124.75.153/sat/tv071
+rtmp://59.124.75.153:1935/sat/tv071
 #EXTINF:-1 ,中视
-rtmp://59.124.75.153/sat/tv091
+rtmp://59.124.75.153:1935/sat/tv091
 #EXTINF:-1 ,华视
-rtmp://59.124.75.153/sat/tv111
+rtmp://59.124.75.153:1935/sat/tv111
 #EXTINF:-1 ,TVBS·欢乐台
-rtmp://59.124.75.153/sat/tv421
+rtmp://59.124.75.153:1935/sat/tv421
 #EXTINF:-1 ,TVBS欢乐
 rtmp://59.124.75.153:1935/sat/tv421
 #EXTINF:-1 ,TVBS·新闻台
-rtmp://59.124.75.153/sat/tv551
+rtmp://59.124.75.153:1935/sat/tv551
 #EXTINF:-1 ,TVBS新闻
 rtmp://59.124.75.153:1935/sat/tv551
 #EXTINF:-1 ,东森财经新闻
 rtmp://59.124.75.153:1935/sat/tv571
 #EXTINF:-1 ,纬来日本
-rtmp://59.124.75.153/sat/tv521
+rtmp://59.124.75.153:1935/sat/tv521
 #EXTINF:-1 ,纬来育乐
-rtmp://59.124.75.153/sat/tv701
+rtmp://59.124.75.153:1935/sat/tv701
 #EXTINF:-1 ,纬来体育
-rtmp://59.124.75.153/sat/tv721
+rtmp://59.124.75.153:1935/sat/tv721
 #EXTINF:-1 ,ELEVEN1体育
 rtmp://59.124.75.153:1935/sat/tv731
 #EXTINF:-1 ,ELEVEN2体育
 rtmp://59.124.75.153:1935/sat/tv741
 #EXTINF:-1 ,MoMo综合台
-rtmp://59.124.75.153/sat/tv761
+rtmp://59.124.75.153:1935/sat/tv761
 #EXTINF:-1 ,Mono综合
 rtmp://59.124.75.153:1935/sat/tv761
 #EXTINF:-1 ,东森超视
-rtmp://59.124.75.153/sat/tv771
+rtmp://59.124.75.153:1935/sat/tv771
 #EXTINF:-1 ,东森超视
 rtmp://59.124.75.153:1935/sat/tv771
 #EXTINF:-1 ,爱尔达体育二
-rtmp://59.124.75.153/sat/md011
+rtmp://59.124.75.153:1935/sat/md011
 #EXTINF:-1 ,爱尔达体育一
-rtmp://59.124.75.153/sat/md021
+rtmp://59.124.75.153:1935/sat/md021
 #EXTINF:-1 ,ELEVEN+体育
 rtmp://59.124.75.153:1935/sat/md031
 #EXTINF:-1 ,博斯运动1,
 rtmp://59.124.75.153:1935/sat/md041
 #EXTINF:-1 ,ELEVEN2体育
-rtmp://59.124.75.153/sat/md051
+rtmp://59.124.75.153:1935/sat/md051
 #EXTINF:-1 ,台視綜合
 rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c4a?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 #EXTINF:-1 ,台視財經
@@ -170,7 +170,7 @@ rtmp://161.202.204.248:1935/sat/tv522
 #EXTINF:-1 ,纬来日本
 rtmp://59.124.75.153:1935/sat/tv521
 #EXTINF:-1 ,纬来日本
-rtmp://59.124.75.153/sat/tv522
+rtmp://59.124.75.153:1935/sat/tv522
 #EXTINF:-1 ,纬来育乐
 rtmp://161.202.204.248:1935/sat/tv701
 #EXTINF:-1 ,纬来育乐
@@ -214,63 +214,63 @@ rtmp://161.202.204.248:1935/sat/tv721
 #EXTINF:-1 ,纬来日本
 rtmp://161.202.204.248:1935/sat/tv522
 #EXTINF:-1 ,华视
-rtmp://59.124.75.130/sat/tv112
+rtmp://59.124.75.130:1935/sat/tv112
 #EXTINF:-1 ,中视
-rtmp://59.124.75.130/sat/tv091
+rtmp://59.124.75.130:1935/sat/tv091
 #EXTINF:-1 ,台视
-rtmp://59.124.75.130/sat/tv071
+rtmp://59.124.75.130:1935/sat/tv071
 #EXTINF:-1 ,民视
-rtmp://59.124.75.130/sat/tv052
+rtmp://59.124.75.130:1935/sat/tv052
 #EXTINF:-1 ,纬来日本
 rtmp://59.124.75.130:1935/sat/tv521
 #EXTINF:-1 ,纬来日本
-rtmp://59.124.75.130/sat/tv522
+rtmp://59.124.75.130:1935/sat/tv522
 #EXTINF:-1 ,纬来体育
-rtmp://59.124.75.130/sat/tv721
+rtmp://59.124.75.130:1935/sat/tv721
 #EXTINF:-1 ,纬来体育
 rtmp://59.124.75.130:1935/sat/tv721
 #EXTINF:-1 ,纬来育乐
-rtmp://59.124.75.130/sat/tv702
+rtmp://59.124.75.130:1935/sat/tv702
 #EXTINF:-1 ,纬来育乐
 rtmp://59.124.75.130:1935/sat/tv701
 #EXTINF:-1 ,纬来育乐
-rtmp://59.124.75.130/sat/tv701
+rtmp://59.124.75.130:1935/sat/tv701
 #EXTINF:-1 ,纬来育乐
-rtmp://59.124.75.157/sat/tv701
+rtmp://59.124.75.157:1935/sat/tv701
 #EXTINF:-1 ,博斯魅力
-rtmp://59.124.75.130/sat/md042
+rtmp://59.124.75.130:1935/sat/md042
 #EXTINF:-1 ,东森超视
-rtmp://59.124.75.130/sat/tv772
+rtmp://59.124.75.130:1935/sat/tv772
 #EXTINF:-1 ,东森超视
 rtmp://59.124.75.130:1935/sat/tv771
 #EXTINF:-1 ,东森超视
-rtmp://59.124.75.130/sat/tv771
+rtmp://59.124.75.130:1935/sat/tv771
 #EXTINF:-1 ,FOX体育
 rtmp://59.124.75.130:1935/sat/tv731
 #EXTINF:-1 ,有线18台
-rtmp://59.124.75.130/sat/hk042
+rtmp://59.124.75.130:1935/sat/hk042
 #EXTINF:-1 ,FOX2体育
 rtmp://59.124.75.130:1935/sat/tv741
 #EXTINF:-1 ,TVBS新闻
 rtmp://59.124.75.130:1935/sat/tv551
 #EXTINF:-1 ,TVBS新闻
-rtmp://59.124.75.130/sat/tv552
+rtmp://59.124.75.130:1935/sat/tv552
 #EXTINF:-1 ,TVBS新闻
-rtmp://59.124.75.130/sat/tv551
+rtmp://59.124.75.130:1935/sat/tv551
 #EXTINF:-1 ,爱尔达体育一
-rtmp://59.124.75.130/sat/md011
+rtmp://59.124.75.130:1935/sat/md011
 #EXTINF:-1 ,爱尔达体育一
-rtmp://59.124.75.157/sat/md011
+rtmp://59.124.75.157:1935/sat/md011
 #EXTINF:-1 ,Mono综合
 rtmp://59.124.75.130:1935/sat/tv761
 #EXTINF:-1 ,Mono综合
-rtmp://59.124.75.157/sat/tv761
+rtmp://59.124.75.157:1935/sat/tv761
 #EXTINF:-1 ,Mono综合
-rtmp://59.124.75.130/sat/tv761
+rtmp://59.124.75.130:1935/sat/tv761
 #EXTINF:-1 ,TVBS欢乐
-rtmp://59.124.75.130/sat/tv421
+rtmp://59.124.75.130:1935/sat/tv421
 #EXTINF:-1 ,TVBS欢乐
-rtmp://59.124.75.130/sat/tv422
+rtmp://59.124.75.130:1935/sat/tv422
 #EXTINF:-1 ,TVBS欢乐
 rtmp://59.124.75.130:1935/sat/tv421
 #EXTINF:-1 ,三立台灣
