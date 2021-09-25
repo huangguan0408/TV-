@@ -22,6 +22,14 @@ TV端自建接口地址： http://www.fj365.ml/tv/maotv.json   http://fj365.gite
 TV端自建CDN接口地址:  https://cdn.jsdelivr.net/gh/fj365/CMP4@master/tv/maotv.json
 <hr>
 
+# 残影影视TV
+APP： https://sharerw.lanzoui.com/b0afy7kqd
+
+TV端自建接口地址： http://www.fj365.ml/tv/cytv.json   http://fj365.gitee.io/cmp4/tv/cytv.json  
+
+TV端自建CDN接口地址:  https://cdn.jsdelivr.net/gh/fj365/CMP4@master/tv/cytv.json
+<hr>
+
 # CMP4 
 
 演示地址： http://www.fj365.ml/n.swf https://fj365.gitee.io/CMP4/
