@@ -9,7 +9,7 @@ TV端自建CDN接口地址:  https://cdn.jsdelivr.net/gh/fj365/CMP4@master/tv/
 # ZYplayer
 APP：PC https://github.com/cuiocean/ZY-Player  SJ  https://github.com/cuiocean/ZY-Player-APP
 
-接口地址： http://www.fj365.ml/tv/zyplayer.json
+接口地址： http://www.fj365.ml/tv/zyplayer.json  https://raw.githubusercontent.com/fj365/CMP4/master/tv/zyplayer.json
 
 CDN:  https://cdn.jsdelivr.net/gh/fj365/CMP4@master/tv/zyplayer.json
 <hr>
@@ -17,7 +17,7 @@ CDN:  https://cdn.jsdelivr.net/gh/fj365/CMP4@master/tv/zyplayer.json
 # 猫影视TV
 APP： https://sharerw.lanzoui.com/b0afu5apg
 
-TV端自建接口地址： http://www.fj365.ml/tv/maotv.json   http://fj365.gitee.io/cmp4/tv/maotv.json
+TV端自建接口地址： http://www.fj365.ml/tv/maotv.json   http://fj365.gitee.io/cmp4/tv/maotv.json   https://raw.githubusercontent.com/fj365/CMP4/master/tv/maotv.json
 
 TV端自建CDN接口地址:  https://cdn.jsdelivr.net/gh/fj365/CMP4@master/tv/maotv.json
 <hr>
@@ -25,7 +25,7 @@ TV端自建CDN接口地址:  https://cdn.jsdelivr.net/gh/fj365/CMP4@master/tv/ma
 # 残影影视TV
 APP： https://sharerw.lanzoui.com/b0afy7kqd
 
-TV端自建接口地址： http://www.fj365.ml/tv/cytv.json   http://fj365.gitee.io/cmp4/tv/cytv.json  
+TV端自建接口地址： http://www.fj365.ml/tv/cytv.json   http://fj365.gitee.io/cmp4/tv/cytv.json  https://raw.githubusercontent.com/fj365/CMP4/master/tv/cytv.json  
 
 TV端自建CDN接口地址:  https://cdn.jsdelivr.net/gh/fj365/CMP4@master/tv/cytv.json
 <hr>
