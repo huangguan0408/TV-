@@ -15,7 +15,7 @@ CDN:  https://cdn.jsdelivr.net/gh/fj365/CMP4@master/tv/zyplayer.json
 <hr>
 
 # 猫影视TV
-APP： https://sharerw.lanzoui.com/b0afu5apg
+APP： https://sharerw.lanzoui.com/b0afu5apg  https://github.com/catvod/CatVodTVSpider
 
 TV端自建接口地址： http://www.fj365.ml/tv/maotv.json   http://fj365.gitee.io/cmp4/tv/maotv.json   https://raw.githubusercontent.com/fj365/CMP4/master/tv/maotv.json
 
