@@ -608,6 +608,59 @@ J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 
 
 我的台湾,#genre#
+台视 HD,http://50.7.61.148:30080/Entry/ttv
+TVBS HD,http://50.7.61.148:30080/Entry/tvbs
+民视新闻,http://50.7.61.148:30080/Entry/ftvnews
+中视 HD,http://50.7.61.148:30080/Entry/ctv
+TVBS新闻 HD,http://50.7.61.148:30080/Entry/tvbsnews
+非凡商业 HD,http://50.7.61.147:30080/Entry/ubnbus
+TLC,http://50.7.61.147:30080/Entry/tlc
+JET综合,http://50.7.61.147:30080/Entry/jet
+民视 HD,http://50.7.61.147:30080/Entry/ftv
+华视CTS HD,http://50.7.61.147:30080/Entry/cts
+壹新闻 HD,http://50.7.61.147:30080/Entry/etv
+SET三立台湾,http://50.7.61.148:30080/Entry/settw-
+卫视中文,http://50.7.61.148:30080/Entry/starchinese
+AXN,http://50.7.61.148:30080/Entry/axn
+HBO,http://50.7.61.148:30080/Entry/hbo
+astor AODHD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
+Food亞洲美食HD,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+亚洲美食HD,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+FoodNetwork美食台,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+Baby TV EngHD,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
+匿名网友(16小时前)：astor AODHD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
+Food亞洲美食HD,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+亚洲美食HD,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+FoodNetwork美食台,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+Baby TV EngHD,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
+无线新闻,https://p2.weizan.cn/1646497941/673946820532880688/live.m3u8
+无线翡翠,https://p2.weizan.cn/1646497941/013205559193952308/live.m3u8
+无线 J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+有线603,https://p2.weizan.cn/1646497941/726330645979324846/live.m3u8
+有線新聞,https://p2.weizan.cn/1646497941/697113090439139173/live.m3u8
+🇨🇳4K频道,#genre#
+淘电影,http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+淘娱乐,http://39.135.238.69:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
+淘萌宠,http://39.135.238.61:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
+北京IPTV+4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
+北京IPTV+4K,http://39.134.135.81/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
+纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+欢笑剧场4K,http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+4K风光,http://185.228.135.48:8080/tv_home_4k_uhd/index.m3u8
+LOVE4K,http://177.20.208.58:8000/play/a03r/index.m3u8
+冬奥纪实HDR4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226563/1.m3u8
+4K花园,http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
+4K花园,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
+4K花园娱乐,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
+4KCESHI,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
+胖次超人(21TVBS新闻,http://50.7.61.148:30080/Entry/tvbsnews
+台视,http://50.7.61.148:30080/Entry/ttv
+中视,http://50.7.61.148:30080/Entry/ctv
+TVB翡翠台,http://rtmp.hodtv.tv:8001/time-proxy/smt?channel=jade_twn
+TVBJ2台,http://rtmp.hodtv.tv:8001/time-proxy/smt?channel=j2_twn
+TVB无线新闻,http://rtmp.hodtv.tv:8001/time-proxy/smt?channel=inews_twn
+TVB明珠台,http://rtmp.hodtv.tv:8001/time-proxy/smt?channel=pearl_twn
+TVB无线财经,http://rtmp.hodtv.tv:8001/time-proxy/smt?channel=j5_twn
 三立新闻,http://198.16.106.62:8278/streams/d/sanlinews_zero/playlist.m3u8
 TVBS新闻,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
 中视新闻,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
