@@ -439,9 +439,6 @@ function QQYY_success_jsonpCallback(data, fy) {
 	if(typeof(fy) == "undefined" || fy.indexOf("w.wo0.cn/jp/jsonp/") > -1 || fy.indexOf("fj365.ml/jsonp/") > -1 || fy.indexOf("KAN360_") > -1){
         L_P = '';
     }
-	if(L_B.indexOf("undefined") > -1){
-        L_B = '';
-    }
     $("#JP_HL").html(L_B + L_P);
 }
 
