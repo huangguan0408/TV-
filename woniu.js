@@ -675,13 +675,13 @@ function YYSQ(lsrc) {
     return QQYY('http://fj365.ga/o.php/YYMV_' + lsrc + '.jsonp?&p=1');
 }
 function XMLYFM(lsrc) {
-    return QQYY('http://www.fj365.ga/xmly.php?lid=' + lsrc + '&p=1');
+    return QQYY('http://www.fj365.ga/wp-content/themes/WebStack-1.1422/xmly.php?lid=' + lsrc + '&p=1');
 }
 function XMLYS(lsrc) {
 	if (lsrc.indexOf("__") > -1) {
 	myx = (/^([0-9a-z]+)__([0-9a-z]+)$/g).exec(lsrc);url_s = myx[1];url_p = myx[2];
 	}else{url_s = lsrc;url_p = '';}
-    return QQYY('http://www.fj365.ga/xmly.php?kid=' + url_s + '&cid=' + url_p + '&pg=1&@all@.json');
+    return QQYY('http://www.fj365.ga/wp-content/themes/WebStack-1.1422/xmly.php?kid=' + url_s + '&cid=' + url_p + '&pg=1&@all@.json');
 }
 function QQDJS(lsrc) {
     return QQYY('http://fj365.ga/o.php/QQZB_' + lsrc + '.jsonp?&p=1');
@@ -703,9 +703,9 @@ function XMLYSO(lsrc) {
         myx = (/^(.+)@([0-9]+)$/g).exec(lsrc);
         url_s = myx[1];
         url_p = myx[2];
-        return QQYY('http://www.fj365.ga/xmly.php?so=' + url_s + '&pg=' + url_p + '&@xmlyfm@.json');
+        return QQYY('http://www.fj365.ga/wp-content/themes/WebStack-1.1422/xmly.php?so=' + url_s + '&pg=' + url_p + '&@xmlyfm@.json');
     } else {
-        return QQYY('http://www.fj365.ga/xmly.php?so=' + lsrc + '&pg=1&@xmlyfm@.json');
+        return QQYY('http://www.fj365.ga/wp-content/themes/WebStack-1.1422/xmly.php?so=' + lsrc + '&pg=1&@xmlyfm@.json');
     }
 }
 
