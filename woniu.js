@@ -610,7 +610,7 @@ function kglist_success_jsonpCallback(data, kid, pn, pns) {
 	    if (parseInt(v.MvType) > 0){
 			myssss = '<a href="javascript:JP_ADD(\'m4v,mv,http://www.fj365.ga/wp-content/themes/WebStack-1.1422/xmly.php?kgmv=' + v.MvHash + '\')">MV</a>&nbsp;';// download="' + safeStr(v.FileName) + '.mkv"
 		}else{myssss = '&nbsp;'}
-		L_B += '<tr><td><p class="txt"><a href="javascript:WNJP.play(' + k + ');"><span class="glyphicon glyphicon-headphones" aria-hidden="true"></span>&nbsp;' + safeStr(v.FileName) + '</a></p></td><td><p class="tds">' + myssss + '<a href="http://fj365.ga/o.php/KUGOU_' + v.FileHash + '.mp3" download="' + safeStr(v.FileName) + '.mp3"style="float: right;"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span></a></p></td></tr>';
+		L_B += '<tr><td><p class="txt"><a href="javascript:WNJP.play(' + k + ');"><span class="glyphicon glyphicon-headphones" aria-hidden="true"></span>&nbsp;' + safeStr(v.FileName) + '</a></p></td><td><p class="tds">' + myssss + '<a href="http://www.fj365.ga/wp-content/themes/WebStack-1.1422/xmly.php?kgid=' + v.FileHash + '" download="' + safeStr(v.FileName) + '.mp3"style="float: right;"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span></a></p></td></tr>';
     });
     L_B += '</tbody></table>';
     if((parseInt(pn) - 5) <= 0){pgs = 1;}else{pgs = (parseInt(pn) - 5);}
