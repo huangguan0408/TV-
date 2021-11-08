@@ -33,7 +33,7 @@
 + http://fj365.gitee.io/cmp4/tv/maotv.json   
 + https://raw.githubusercontent.com/fj365/CMP4/master/tv/maotv.json
 
-*TV端自建CDN接口地址:  
+* TV端自建CDN接口地址:  
 + https://cdn.jsdelivr.net/gh/fj365/CMP4@master/tv/maotv.json
 <hr>
 
@@ -59,7 +59,7 @@
 * 随机开场演示地址： 
 + http://www.fj365.ml/n9.swf?skin_id=2
 <hr>
-* 龒蜗牛V3皮肤功能配置
+龒蜗牛V3皮肤功能配置
 <hr>
 <h3>config.xml使用说明：实例地址： http://www.fj365.ml/config.xml</h3>
 <hr>
