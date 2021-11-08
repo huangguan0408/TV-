@@ -1,40 +1,63 @@
 # FREEDTV
-APP： https://www.lanzoui.com/b025mpw7e
+* APP：
+ + https://www.lanzoui.com/b025mpw7e
 
-TV端自建接口地址： http://www.fj365.ml/tv/   http://fj365.gitee.io/cmp4/tv/
+*TV端自建接口地址： 
++ http://www.fj365.ml/tv/  
++ http://fj365.gitee.io/cmp4/tv/
 
-TV端自建CDN接口地址:  https://cdn.jsdelivr.net/gh/fj365/CMP4@master/tv/
+*TV端自建CDN接口地址: 
++ https://cdn.jsdelivr.net/gh/fj365/CMP4@master/tv/
 <hr>
 
 # ZYplayer
-APP：PC https://github.com/cuiocean/ZY-Player  SJ  https://github.com/cuiocean/ZY-Player-APP
+* APP：
++ PC https://github.com/cuiocean/ZY-Player  
++ SJ  https://github.com/cuiocean/ZY-Player-APP
 
-接口地址： http://www.fj365.ml/tv/zyplayer.json  https://raw.githubusercontent.com/fj365/CMP4/master/tv/zyplayer.json
+* 接口地址： 
++ http://www.fj365.ml/tv/zyplayer.json  
++ https://raw.githubusercontent.com/fj365/CMP4/master/tv/zyplayer.json
 
-CDN:  https://cdn.jsdelivr.net/gh/fj365/CMP4@master/tv/zyplayer.json
+* CDN: 
++ https://cdn.jsdelivr.net/gh/fj365/CMP4@master/tv/zyplayer.json
 <hr>
 
 # 猫影视TV
-APP： https://sharerw.lanzoui.com/b0afu5apg  https://github.com/catvod/CatVodTVSpider
+* APP： 
++ https://sharerw.lanzoui.com/b0afu5apg  
++ https://github.com/catvod/CatVodTVSpider
 
-TV端自建接口地址： http://www.fj365.ml/tv/maotv.json   http://fj365.gitee.io/cmp4/tv/maotv.json   https://raw.githubusercontent.com/fj365/CMP4/master/tv/maotv.json
+*TV端自建接口地址： 
++ http://www.fj365.ml/tv/maotv.json   
++ http://fj365.gitee.io/cmp4/tv/maotv.json   
++ https://raw.githubusercontent.com/fj365/CMP4/master/tv/maotv.json
 
-TV端自建CDN接口地址:  https://cdn.jsdelivr.net/gh/fj365/CMP4@master/tv/maotv.json
+*TV端自建CDN接口地址:  
++ https://cdn.jsdelivr.net/gh/fj365/CMP4@master/tv/maotv.json
 <hr>
 
 # 残影影视TV
-APP： https://sharerw.lanzoui.com/b0afy7kqd
+* APP： 
++ https://sharerw.lanzoui.com/b0afy7kqd
 
-TV端自建接口地址： http://www.fj365.ml/tv/cytv.json   http://fj365.gitee.io/cmp4/tv/cytv.json  https://raw.githubusercontent.com/fj365/CMP4/master/tv/cytv.json  
+* TV端自建接口地址： 
++ http://www.fj365.ml/tv/cytv.json   
++ http://fj365.gitee.io/cmp4/tv/cytv.json  
++ https://raw.githubusercontent.com/fj365/CMP4/master/tv/cytv.json  
 
-TV端自建CDN接口地址:  https://cdn.jsdelivr.net/gh/fj365/CMP4@master/tv/cytv.json
+* TV端自建CDN接口地址: 
++ https://cdn.jsdelivr.net/gh/fj365/CMP4@master/tv/cytv.json
 <hr>
 
 # CMP4 
 
-演示地址： http://www.fj365.ml/n.swf https://fj365.gitee.io/CMP4/
+* 演示地址： 
++ http://www.fj365.ml/n.swf 
++ https://fj365.gitee.io/CMP4/
 
-随机开场演示地址： http://www.fj365.ml/n9.swf?skin_id=2
+* 随机开场演示地址： 
++ http://www.fj365.ml/n9.swf?skin_id=2
 <hr>
 龒蜗牛V3皮肤功能配置
 <hr>
