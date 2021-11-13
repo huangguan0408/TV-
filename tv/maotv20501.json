@@ -2323,17 +2323,768 @@
     },
     {
       "group": "港澳台海外",
-      "channels": [
-        {"name":"民視",
-          "urls": ["rtmp://59.124.75.138/sat/tv051","http://50.7.61.147:30080/Entry/ftv","http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv002","http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv001"]},{"name":"民視新聞台",
-          "urls": ["http://50.7.61.148:30080/Entry/ftvnews"]},{"name":"台視",
-          "urls": ["rtmp://59.124.75.138/sat/tv071","http://50.7.61.148:30080/Entry/ttv","http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv066"]},{"name":"中視",
-          "urls": ["rtmp://59.124.75.138/sat/tv091","http://50.7.61.148:30080/Entry/ctv"]},{"name":"中視經典台",
-          "urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv080"]},{"name":"中視菁采台",
-          "urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv064","http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv064"]},{"name":"華視",
-          "urls": ["rtmp://59.124.75.157/sat/tv111","http://50.7.61.147:30080/Entry/cts","http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv041","rtmp://59.124.75.138/sat/tv111"]},{"name":"公視",
-          "urls": ["https://flv3948069e.live.126.net/live/sytv_9dd30b5c8e846938c26dde70be773545.flv","http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free","http://sytv.xtvants.fun/mytv.php?id=gs&token=qq3036107507&user=fmys"]},{"name":"CHC高清電影","urls": ["http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8"]},{"name":"龍華電影台","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn03"]},{"name":"東森電影台","urls":["http://host496323.us.ooqr.com/pltv/gz.php?id=dsdy"]},{"name":"HBO","urls":["http://50.7.61.148:30080/Entry/hbo"]},{"name":"東森洋片","urls":["http://host496323.us.ooqr.com/pltv/gz.php?id=dsyp"]},{"name":"AXN","urls":["http://50.7.61.148:30080/Entry/axn"]},{"name":"AXN","urls":["http://50.7.61.148:30080/Entry/axn"]},{"name":"天映電影","urls":["http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8"]},{"name":"ANIMAX","urls":["https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8"]},{"name":"DiscoveryHD","urls":["https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8"]},{"name":"翡翠台","urls":["http://host496323.us.ooqr.com/pltv/gz.php?id=tvbfc"]},{"name":"TVB星河","urls":["http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8","http://43.128.9.168/jjtv.php?id=4"]},{"name":"鳳凰中文","urls":["http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8","http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8","http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8","http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8","http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8","http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8","http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8","http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8","http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8","http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8","http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8"]},{"name":"鳳凰資訊","urls":["http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8","http://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8","http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8","http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8","http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8"]},{"name":"鳳凰香港","urls":["http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8","http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8","http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8","http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P","http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8","http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8","http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804","http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8","http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=38044364","http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P","http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8","http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8","http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804","http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8","http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=38044364","http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8","http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8"]},{"name":"天映經典","urls":["http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8"]},{"name":"天映電影","urls":["http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8"]},{"name":"凤凰電影台","urls":["http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA"]},{"name":"翡翠台","urls":["http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1","http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1","http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1","http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1","http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1&lv=1&c=0&s=4&v=100&wh=16:9&p=1翡翠台","http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188"]},{"name":"明珠台","urls":["http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1","http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1","http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1","http://116.199.5.52:8114/00000000/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8","http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1"]},{"name":"星空衛視","urls":["http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1","http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8","http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1","http://218.202.220.2:5000/nn_live.ts?id=STARTV","http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1","http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1","http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233"]},{"name":"國家地理","urls":["http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8"]},{"name":"香港衛視文旅","urls":["https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8"]},{"name":"香港衛視","urls":["http://zhibo.hkstv.tv/livestream/mutfysrq.flv"]},{"name":"公視戲劇台","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv042","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv042"]},{"name":"大愛一台","urls":["https://pulltv1.wanfudaluye.com/live/tv1.m3u8"]},{"name":"大愛二台","urls":["https://pulltv2.wanfudaluye.com/live/tv2.m3u8"]},{"name":"大愛海外","urls":["https://pulltv3.wanfudaluye.com/live/tv3.m3u8"]},{"name":"三立台灣台","urls":["https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on","https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on","https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8","http://50.7.61.148:30080/Entry/settw-"]},{"name":"三立都會台","urls":["https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on","https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on","https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8"]},{"name":"衛視中文台","urls":["http://50.7.61.148:30080/Entry/starchinese","http://50.7.61.148:30080/Entry/starchinese"]},{"name":"寰宇新聞全球台","urls":["http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8","http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn15","http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn15"]},{"name":"中台灣生活網","urls":["http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8","http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8"]},{"name":"CTN","urls":["http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8","http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8"]},{"name":"龍華日韓台","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11","http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11"]},{"name":"龍華戲劇台","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn18","http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn18"]},{"name":"龍華偶像台","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn12","http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn12"]},{"name":"龍華動畫台","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn01","http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn01"]},{"name":"龍華經典台","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21","http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21"]},{"name":"FashionOne","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn19","http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn19"]},{"name":"ELTV英語學習台","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20","http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20"]},{"name":"愛爾達綜合台","urls":["http://93.190.139.36:8278/streams/d/eltazonghe/playlist.m3u8"]},{"name":"MoMo綜合台","urls":["rtmp://59.124.75.138/sat/tv761","http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8"]},{"name":"海豚綜合","urls":["http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8"]},{"name":"美麗人生","urls":["http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8"]},{"name":"東森財經","urls":["rtmp://59.124.75.138/sat/tv571"]},{"name":"JET綜合台","urls":["http://50.7.61.147:30080/Entry/jet"]},{"name":"緯來日本","urls":["rtmp://59.124.75.138/sat/tv771","http://50.7.61.147:30080/Entry/vljp"]},{"name":"緯來育樂","urls":["rtmp://59.124.75.138/sat/tv701"]},{"name":"TVBS新聞台","urls":["rtmp://59.124.75.138/sat/tv551"]},{"name":"TVBS歡樂台","urls":["rtmp://59.124.75.138/sat/tv421"]},{"name":"TVBS歡樂台","urls":["rtmp://59.124.75.138:1935/sat/tv421"]},{"name":"中天亞洲","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv109"]},{"name":"非凡新聞","urls":["http://50.7.61.147:30080/Entry/ubnbus"]},{"name":"壹電視新聞台","urls":["http://50.7.61.147:30080/Entry/etv"]},{"name":"彭博財經台","urls":["http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8"]},{"name":"TLC旅遊生活頻道","urls":["http://50.7.61.147:30080/Entry/tlc"]},{"name":"亞洲旅遊台","urls":["http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8","http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8"]},{"name":"NHKWorldJapan","urls":["https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8","http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8","https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8","http://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8"]},{"name":"原住民電視","urls":["http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8"]},{"name":"唯心電視","urls":["http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8"]},{"name":"亞美衛視","urls":["http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8"]},{"name":"亞旅衛視","urls":["https://jc-qlive-play.jingchangkan.cn/live/3473_200508855_xR9m.m3u8"]},{"name":"亞旅衛視","urls":["http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8"]},{"name":"時尚運動","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv014"]},{"name":"ONE","urls":["http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8"]},{"name":"SexyK-Pop","urls":["https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8"]},{"name":"韓國娛樂台KMTV","urls":["http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8"]},{"name":"韓國娛樂台KMTV","urls":["http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8"]},{"name":"Astro愛奇藝","urls":["http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8"]},{"name":"ANTV","urls":["http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8"]},{"name":"愛爾達體育1","urls":["rtmp://59.124.75.138/sat/md041"]},{"name":"愛爾達體育2","urls":["rtmp://59.124.75.138/sat/md051"]},{"name":"愛爾達體育3","urls":["rtmp://59.124.75.138/sat/md031"]},{"name":"ELEVEN體育一台","urls":["rtmp://59.124.75.138/sat/tv731"]},{"name":"ELEVEN體育二台","urls":["rtmp://59.124.75.138/sat/tv741"]},{"name":"博斯網球","urls":["rtmp://59.124.75.138/sat/md011"]},{"name":"博斯魅力","urls":["rtmp://59.124.75.138/sat/md021"]},{"name":"博斯魅力","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn04"]},{"name":"博斯高球1","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn05"]},{"name":"博斯高球2","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn06"]},{"name":"博斯運動一台","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn07"]},{"name":"博斯運動二台","urls":["http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8"]},{"name":"博斯運動二台","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn08"]},{"name":"博斯網球","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn09"]},{"name":"博斯無限","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn10"]},{"name":"智林體育台","urls":["http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8"]},{"name":"智林體育台","urls":["http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8"]},{"name":"民視台灣台","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv001"]},{"name":"民視","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv002"]},{"name":"民視第一台","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv003"]},{"name":"豬哥亮歌廳秀","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv006"]},{"name":"中天新聞","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv009"]},{"name":"非凡新聞","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv010"]},{"name":"影迷數位電影","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv011"]},{"name":"Cnex","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv013"]},{"name":"韓國娛樂","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv016"]},{"name":"達文西","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv018"]},{"name":"八大精彩","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv034"]},{"name":"八大綜合台","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv039"]},{"name":"華視","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv041"]},{"name":"公視戲劇","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv042"]},{"name":"靖天卡通台","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv044"]},{"name":"靖洋戲劇台","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv045"]},{"name":"靖天綜合台","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv046"]},{"name":"靖天日本台","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv047"]},{"name":"非凡商業","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv048"]},{"name":"台視新聞","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv051"]},{"name":"華視新聞資訊","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv052"]},{"name":"GinxEsports","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv053"]},{"name":"靖天歡樂台","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv054"]},{"name":"靖天映畫台","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv055"]},{"name":"CLASSICA古典樂","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv059"]},{"name":"靖天資訊台","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv065"]},{"name":"台視","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv066"]},{"name":"TVBS歡樂","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv068"]},{"name":"愛爾達娛樂","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv070"]},{"name":"TVBS新聞","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv072"]},{"name":"TVBS直播","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv073"]},{"name":"CatchPlay","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv076"]},{"name":"TraceSports","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv077"]},{"name":"Arirang","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv079"]},{"name":"MezzoLiveHD","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv083"]},{"name":"國會頻道1","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv084"]},{"name":"智林體育","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv101"]},{"name":"東森購物1","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv102"]},{"name":"財經頻道","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv104"]},{"name":"中天亞洲","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv109"]},{"name":"V0A美國之音","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv03"]},{"name":"民視旅遊","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv07"]},{"name":"民視影劇","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv09"]},{"name":"半島國際新聞","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv10"]},{"name":"民視新聞台","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv13"]},{"name":"龍華卡通","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn01"]},{"name":"BabyFirst","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn02"]},{"name":"龍華電影","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn03"]},{"name":"博斯魅力","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn04"]},{"name":"博斯高球1","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn05"]},{"name":"博斯高球2","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn06"]},{"name":"博斯運動2","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn08"]},{"name":"博斯網球","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn09"]},{"name":"博斯無限","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn10"]},{"name":"龍華日韓","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11"]},{"name":"龍華偶像","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn12"]},{"name":"博斯電玩","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn13"]},{"name":"寰宇新聞台湾台","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn15"]},{"name":"亞洲旅遊","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn17"]},{"name":"ELTV英語","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20"]},{"name":"龍華經典","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21"]},{"name":"CCTV13","urls":["http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8"]},{"name":"民視新聞台","urls":["http://50.7.61.148:30080/Entry/ftvnews"]},{"name":"寰宇新聞全球台","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn14","http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn14","http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8"]},{"name":"寰宇新聞台灣台","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn15","http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn15"]},{"name":"東森財經","urls":["rtmp://59.124.75.138/sat/tv571"]},{"name":"TVBS新聞台","urls":["rtmp://59.124.75.138/sat/tv551"]},{"name":"非凡新聞","urls":["http://50.7.61.147:30080/Entry/ubnbus"]},{"name":"壹電視新聞台","urls":["http://50.7.61.147:30080/Entry/etv"]},{"name":"北京新聞","urls":["http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?","http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time="]},{"name":"鳳凰資訊10M1080","urls":["http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8"]},{"name":"天映經典HD","urls":["http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8"]},{"name":"天映電影HD","urls":["http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8"]},{"name":"龍華電影台","urls":["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn03"]},{"name":"HBO","urls":["http://50.7.61.148:30080/Entry/hbo"]},{"name":"AXN","urls":["http://50.7.61.148:30080/Entry/axn"]},{"name":"AXN","urls":["http://50.7.61.148:30080/Entry/axn"]},{"name":"天映經典HD","urls":["http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8"]},{"name":"天映電影HD","urls":["http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8"]},{"name":"電影5_鬥魚","urls":["http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid="]},{"name":"電影6_鬥魚","urls":["http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid="]},{"name":"電影8_鬥魚","urls":["http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid="]},{"name":"電影14_鬥魚","urls":["http://dyscdnali1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid="]},{"name":"電影16_鬥魚","urls":["http://dyscdnali1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid="]},{"name":"電影18_鬥魚","urls":["http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid="]},{"name":"電影21_鬥魚","urls":["http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid="]},{"name":"電影44_鬥魚","urls":["http://dyscdnali1.douyucdn.cn/live/2935323rnTpNsu74.flv?uuid="]},{"name":"MTVYo!","urls":["http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8"]},{"name":"MTVBiggestPop","urls":["http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8"]},{"name":"MTVBlockParty","urls":["http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8"]},{"name":"MTVSpankin'New","urls":["http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8"]},{"name":"岭南戲曲","urls":["http://szlive.grtn.cn/lnxq/sd/live.m3u8"]},{"name":"ONE","urls":["http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8"]},{"name":"韓國娛樂台KMTV","urls":["http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8","http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8"]},{"name":"Arirang[1920*1080]","urls":["http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"]},{"name":"KBC광주방송(SBS光州)[1920*1080]","urls":["http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8"]},{"name":"KBS","urls":["http://luotuo.ycchenrong.cn/dl/youku.php?id=8034767"]},{"name":"韓國·TBS","urls":["http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8"]},{"name":"韓國·SBSCJB","urls":["http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8"]},{"name":"韓國·EBS第二頻道","urls":["http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8"]},{"name":"韓國阿里郎WORLD","urls":["http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8"]},{"name":"KBSWorld","urls":["https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8"]},{"name":"阿里郎","urls":["http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8"]}
-      ]
+      "channels": [{
+		"name": "民視",
+		"urls": ["rtmp://59.124.75.138/sat/tv051", "http://50.7.61.147:30080/Entry/ftv", "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv002", "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv001"]
+	}, {
+		"name": "民視新聞台",
+		"urls": ["http://50.7.61.148:30080/Entry/ftvnews"]
+	}, {
+		"name": "台視",
+		"urls": ["rtmp://59.124.75.138/sat/tv071", "http://50.7.61.148:30080/Entry/ttv", "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv066"]
+	}, {
+		"name": "中視",
+		"urls": ["rtmp://59.124.75.138/sat/tv091", "http://50.7.61.148:30080/Entry/ctv"]
+	}, {
+		"name": "中視經典台",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv080"]
+	}, {
+		"name": "中視菁采台",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv064", "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv064"]
+	}, {
+		"name": "華視",
+		"urls": ["rtmp://59.124.75.157/sat/tv111", "http://50.7.61.147:30080/Entry/cts", "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv041", "rtmp://59.124.75.138/sat/tv111"]
+	}, {
+		"name": "公視",
+		"urls": ["https://flv3948069e.live.126.net/live/sytv_9dd30b5c8e846938c26dde70be773545.flv", "http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free", "http://sytv.xtvants.fun/mytv.php?id=gs&token=qq3036107507&user=fmys"]
+	}, {
+		"name": "CHC高清電影",
+		"urls": ["http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8"]
+	}, {
+		"name": "龍華電影台",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn03"]
+	}, {
+		"name": "東森電影台",
+		"urls": ["http://host496323.us.ooqr.com/pltv/gz.php?id=dsdy"]
+	}, {
+		"name": "HBO",
+		"urls": ["http://50.7.61.148:30080/Entry/hbo"]
+	}, {
+		"name": "東森洋片",
+		"urls": ["http://host496323.us.ooqr.com/pltv/gz.php?id=dsyp"]
+	}, {
+		"name": "AXN",
+		"urls": ["http://50.7.61.148:30080/Entry/axn", "http://50.7.61.148:30080/Entry/axn"]
+	}, {
+		"name": "天映電影",
+		"urls": ["http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8"]
+	}, {
+		"name": "ANIMAX",
+		"urls": ["https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8"]
+	}, {
+		"name": "DiscoveryHD",
+		"urls": ["https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8"]
+	}, {
+		"name": "翡翠台",
+		"urls": ["http://host496323.us.ooqr.com/pltv/gz.php?id=tvbfc"]
+	}, {
+		"name": "TVB星河",
+		"urls": ["http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8", "http://43.128.9.168/jjtv.php?id=4"]
+	}, {
+		"name": "鳳凰中文",
+		"urls": ["http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8", "http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8", "http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8", "http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8", "http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8", "http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8", "http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8", "http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8", "http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8", "http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8", "http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8"]
+	}, {
+		"name": "鳳凰資訊",
+		"urls": ["http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8", "http://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8", "http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8", "http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8", "http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8"]
+	}, {
+		"name": "鳳凰香港",
+		"urls": ["http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8", "http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8", "http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8", "http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P", "http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8", "http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8", "http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804", "http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8", "http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=38044364", "http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P", "http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8", "http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8", "http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804", "http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8", "http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=38044364", "http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8", "http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8"]
+	}, {
+		"name": "天映經典",
+		"urls": ["http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8"]
+	}, {
+		"name": "天映電影",
+		"urls": ["http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8"]
+	}, {
+		"name": "凤凰電影台",
+		"urls": ["http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA"]
+	}, {
+		"name": "翡翠台",
+		"urls": ["http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1", "http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1", "http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1", "http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1", "http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1&lv=1&c=0&s=4&v=100&wh=16:9&p=1翡翠台", "http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188"]
+	}, {
+		"name": "明珠台",
+		"urls": ["http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1", "http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1", "http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1", "http://116.199.5.52:8114/00000000/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8", "http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1"]
+	}, {
+		"name": "星空衛視",
+		"urls": ["http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1", "http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8", "http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1", "http://218.202.220.2:5000/nn_live.ts?id=STARTV", "http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1", "http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1", "http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233"]
+	}, {
+		"name": "國家地理",
+		"urls": ["http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8"]
+	}, {
+		"name": "香港衛視文旅",
+		"urls": ["https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8"]
+	}, {
+		"name": "香港衛視",
+		"urls": ["http://zhibo.hkstv.tv/livestream/mutfysrq.flv"]
+	}, {
+		"name": "公視戲劇台",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv042", "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv042"]
+	},
+	{
+		"name": "大愛一台",
+		"urls": ["https://pulltv1.wanfudaluye.com/live/tv1.m3u8"]
+	},
+	{
+		"name": "大愛二台",
+		"urls": ["https://pulltv2.wanfudaluye.com/live/tv2.m3u8"]
+	},
+	{
+		"name": "大愛海外",
+		"urls": ["https://pulltv3.wanfudaluye.com/live/tv3.m3u8"]
+	},
+	{
+		"name": "三立台灣台",
+		"urls": ["https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on", "https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on", "https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8", "http://50.7.61.148:30080/Entry/settw-"]
+	},
+	{
+		"name": "三立都會台",
+		"urls": ["https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on", "https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on", "https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8"]
+	},
+	{
+		"name": "衛視中文台",
+		"urls": ["http://50.7.61.148:30080/Entry/starchinese", "http://50.7.61.148:30080/Entry/starchinese"]
+	},
+	{
+		"name": "寰宇新聞全球台",
+		"urls": ["http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8", "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn15", "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn15"]
+	},
+	{
+		"name": "中台灣生活網",
+		"urls": ["http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8", "http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8"]
+	},
+	{
+		"name": "CTN",
+		"urls": ["http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8", "http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8"]
+	},
+	{
+		"name": "龍華日韓台",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11", "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11"]
+	},
+	{
+		"name": "龍華戲劇台",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn18", "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn18"]
+	},
+	{
+		"name": "龍華偶像台",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn12", "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn12"]
+	},
+	{
+		"name": "龍華動畫台",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn01", "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn01"]
+	},
+	{
+		"name": "龍華經典台",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21", "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21"]
+	},
+	{
+		"name": "FashionOne",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn19", "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn19"]
+	},
+	{
+		"name": "ELTV英語學習台",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20", "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20"]
+	},
+	{
+		"name": "愛爾達綜合台",
+		"urls": ["http://93.190.139.36:8278/streams/d/eltazonghe/playlist.m3u8"]
+	},
+	{
+		"name": "MoMo綜合台",
+		"urls": ["rtmp://59.124.75.138/sat/tv761", "http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8"]
+	},
+	{
+		"name": "海豚綜合",
+		"urls": ["http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8"]
+	},
+	{
+		"name": "美麗人生",
+		"urls": ["http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8"]
+	},
+	{
+		"name": "東森財經",
+		"urls": ["rtmp://59.124.75.138/sat/tv571"]
+	},
+	{
+		"name": "JET綜合台",
+		"urls": ["http://50.7.61.147:30080/Entry/jet"]
+	},
+	{
+		"name": "緯來日本",
+		"urls": ["rtmp://59.124.75.138/sat/tv771", "http://50.7.61.147:30080/Entry/vljp"]
+	},
+	{
+		"name": "緯來育樂",
+		"urls": ["rtmp://59.124.75.138/sat/tv701"]
+	},
+	{
+		"name": "TVBS新聞台",
+		"urls": ["rtmp://59.124.75.138/sat/tv551"]
+	},
+	{
+		"name": "TVBS歡樂台",
+		"urls": ["rtmp://59.124.75.138/sat/tv421"]
+	},
+	{
+		"name": "TVBS歡樂台",
+		"urls": ["rtmp://59.124.75.138:1935/sat/tv421"]
+	},
+	{
+		"name": "中天亞洲",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv109"]
+	},
+	{
+		"name": "非凡新聞",
+		"urls": ["http://50.7.61.147:30080/Entry/ubnbus"]
+	},
+	{
+		"name": "壹電視新聞台",
+		"urls": ["http://50.7.61.147:30080/Entry/etv"]
+	},
+	{
+		"name": "彭博財經台",
+		"urls": ["http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8"]
+	},
+	{
+		"name": "TLC旅遊生活頻道",
+		"urls": ["http://50.7.61.147:30080/Entry/tlc"]
+	},
+	{
+		"name": "亞洲旅遊台",
+		"urls": ["http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8", "http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8"]
+	},
+	{
+		"name": "NHKWorldJapan",
+		"urls": ["https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8", "http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8", "https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8", "http://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8"]
+	},
+	{
+		"name": "原住民電視",
+		"urls": ["http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8"]
+	},
+	{
+		"name": "唯心電視",
+		"urls": ["http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8"]
+	},
+	{
+		"name": "亞美衛視",
+		"urls": ["http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8"]
+	},
+	{
+		"name": "亞旅衛視",
+		"urls": ["https://jc-qlive-play.jingchangkan.cn/live/3473_200508855_xR9m.m3u8"]
+	},
+	{
+		"name": "亞旅衛視",
+		"urls": ["http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8"]
+	},
+	{
+		"name": "時尚運動",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv014"]
+	},
+	{
+		"name": "ONE",
+		"urls": ["http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8"]
+	},
+	{
+		"name": "SexyK-Pop",
+		"urls": ["https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8"]
+	},
+	{
+		"name": "韓國娛樂台KMTV",
+		"urls": ["http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8"]
+	},
+	{
+		"name": "韓國娛樂台KMTV",
+		"urls": ["http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8"]
+	},
+	{
+		"name": "Astro愛奇藝",
+		"urls": ["http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8"]
+	},
+	{
+		"name": "ANTV",
+		"urls": ["http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8"]
+	},
+	{
+		"name": "愛爾達體育1",
+		"urls": ["rtmp://59.124.75.138/sat/md041"]
+	},
+	{
+		"name": "愛爾達體育2",
+		"urls": ["rtmp://59.124.75.138/sat/md051"]
+	},
+	{
+		"name": "愛爾達體育3",
+		"urls": ["rtmp://59.124.75.138/sat/md031"]
+	},
+	{
+		"name": "ELEVEN體育一台",
+		"urls": ["rtmp://59.124.75.138/sat/tv731"]
+	},
+	{
+		"name": "ELEVEN體育二台",
+		"urls": ["rtmp://59.124.75.138/sat/tv741"]
+	},
+	{
+		"name": "博斯網球",
+		"urls": ["rtmp://59.124.75.138/sat/md011"]
+	},
+	{
+		"name": "博斯魅力",
+		"urls": ["rtmp://59.124.75.138/sat/md021"]
+	},
+	{
+		"name": "博斯魅力",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn04"]
+	},
+	{
+		"name": "博斯高球1",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn05"]
+	},
+	{
+		"name": "博斯高球2",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn06"]
+	},
+	{
+		"name": "博斯運動一台",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn07"]
+	},
+	{
+		"name": "博斯運動二台",
+		"urls": ["http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8"]
+	},
+	{
+		"name": "博斯運動二台",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn08"]
+	},
+	{
+		"name": "博斯網球",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn09"]
+	},
+	{
+		"name": "博斯無限",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn10"]
+	},
+	{
+		"name": "智林體育台",
+		"urls": ["http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8"]
+	},
+	{
+		"name": "智林體育台",
+		"urls": ["http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8"]
+	},
+	{
+		"name": "民視台灣台",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv001"]
+	},
+	{
+		"name": "民視",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv002"]
+	},
+	{
+		"name": "民視第一台",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv003"]
+	},
+	{
+		"name": "豬哥亮歌廳秀",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv006"]
+	},
+	{
+		"name": "中天新聞",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv009"]
+	},
+	{
+		"name": "非凡新聞",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv010"]
+	},
+	{
+		"name": "影迷數位電影",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv011"]
+	},
+	{
+		"name": "Cnex",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv013"]
+	},
+	{
+		"name": "韓國娛樂",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv016"]
+	},
+	{
+		"name": "達文西",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv018"]
+	},
+	{
+		"name": "八大精彩",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv034"]
+	},
+	{
+		"name": "八大綜合台",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv039"]
+	},
+	{
+		"name": "華視",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv041"]
+	},
+	{
+		"name": "公視戲劇",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv042"]
+	},
+	{
+		"name": "靖天卡通台",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv044"]
+	},
+	{
+		"name": "靖洋戲劇台",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv045"]
+	},
+	{
+		"name": "靖天綜合台",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv046"]
+	},
+	{
+		"name": "靖天日本台",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv047"]
+	},
+	{
+		"name": "非凡商業",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv048"]
+	},
+	{
+		"name": "台視新聞",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv051"]
+	},
+	{
+		"name": "華視新聞資訊",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv052"]
+	},
+	{
+		"name": "GinxEsports",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv053"]
+	},
+	{
+		"name": "靖天歡樂台",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv054"]
+	},
+	{
+		"name": "靖天映畫台",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv055"]
+	},
+	{
+		"name": "CLASSICA古典樂",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv059"]
+	},
+	{
+		"name": "靖天資訊台",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv065"]
+	},
+	{
+		"name": "台視",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv066"]
+	},
+	{
+		"name": "TVBS歡樂",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv068"]
+	},
+	{
+		"name": "愛爾達娛樂",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv070"]
+	},
+	{
+		"name": "TVBS新聞",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv072"]
+	},
+	{
+		"name": "TVBS直播",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv073"]
+	},
+	{
+		"name": "CatchPlay",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv076"]
+	},
+	{
+		"name": "TraceSports",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv077"]
+	},
+	{
+		"name": "Arirang",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv079"]
+	},
+	{
+		"name": "MezzoLiveHD",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv083"]
+	},
+	{
+		"name": "國會頻道1",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv084"]
+	},
+	{
+		"name": "智林體育",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv101"]
+	},
+	{
+		"name": "東森購物1",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv102"]
+	},
+	{
+		"name": "財經頻道",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv104"]
+	},
+	{
+		"name": "中天亞洲",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv109"]
+	},
+	{
+		"name": "V0A美國之音",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv03"]
+	},
+	{
+		"name": "民視旅遊",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv07"]
+	},
+	{
+		"name": "民視影劇",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv09"]
+	},
+	{
+		"name": "半島國際新聞",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv10"]
+	},
+	{
+		"name": "民視新聞台",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv13"]
+	},
+	{
+		"name": "龍華卡通",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn01"]
+	},
+	{
+		"name": "BabyFirst",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn02"]
+	},
+	{
+		"name": "龍華電影",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn03"]
+	},
+	{
+		"name": "博斯魅力",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn04"]
+	},
+	{
+		"name": "博斯高球1",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn05"]
+	},
+	{
+		"name": "博斯高球2",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn06"]
+	},
+	{
+		"name": "博斯運動2",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn08"]
+	},
+	{
+		"name": "博斯網球",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn09"]
+	},
+	{
+		"name": "博斯無限",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn10"]
+	},
+	{
+		"name": "龍華日韓",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11"]
+	},
+	{
+		"name": "龍華偶像",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn12"]
+	},
+	{
+		"name": "博斯電玩",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn13"]
+	},
+	{
+		"name": "寰宇新聞台湾台",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn15"]
+	},
+	{
+		"name": "亞洲旅遊",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn17"]
+	},
+	{
+		"name": "ELTV英語",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20"]
+	},
+	{
+		"name": "龍華經典",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21"]
+	},
+	{
+		"name": "CCTV13",
+		"urls": ["http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8"]
+	},
+	{
+		"name": "民視新聞台",
+		"urls": ["http://50.7.61.148:30080/Entry/ftvnews"]
+	},
+	{
+		"name": "寰宇新聞全球台",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn14", "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn14", "http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8"]
+	},
+	{
+		"name": "寰宇新聞台灣台",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn15", "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn15"]
+	},
+	{
+		"name": "東森財經",
+		"urls": ["rtmp://59.124.75.138/sat/tv571"]
+	},
+	{
+		"name": "TVBS新聞台",
+		"urls": ["rtmp://59.124.75.138/sat/tv551"]
+	},
+	{
+		"name": "非凡新聞",
+		"urls": ["http://50.7.61.147:30080/Entry/ubnbus"]
+	},
+	{
+		"name": "壹電視新聞台",
+		"urls": ["http://50.7.61.147:30080/Entry/etv"]
+	},
+	{
+		"name": "北京新聞",
+		"urls": ["http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?", "http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time="]
+	},
+	{
+		"name": "鳳凰資訊10M1080",
+		"urls": ["http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8"]
+	},
+	{
+		"name": "天映經典HD",
+		"urls": ["http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8"]
+	},
+	{
+		"name": "天映電影HD",
+		"urls": ["http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8"]
+	},
+	{
+		"name": "龍華電影台",
+		"urls": ["http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn03"]
+	},
+	{
+		"name": "HBO",
+		"urls": ["http://50.7.61.148:30080/Entry/hbo"]
+	},
+	{
+		"name": "AXN",
+		"urls": ["http://50.7.61.148:30080/Entry/axn"]
+	},
+	{
+		"name": "AXN",
+		"urls": ["http://50.7.61.148:30080/Entry/axn"]
+	},
+	{
+		"name": "天映經典HD",
+		"urls": ["http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8"]
+	},
+	{
+		"name": "天映電影HD",
+		"urls": ["http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8"]
+	},
+	{
+		"name": "電影5_鬥魚",
+		"urls": ["http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid="]
+	},
+	{
+		"name": "電影6_鬥魚",
+		"urls": ["http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid="]
+	},
+	{
+		"name": "電影8_鬥魚",
+		"urls": ["http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid="]
+	},
+	{
+		"name": "電影14_鬥魚",
+		"urls": ["http://dyscdnali1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid="]
+	},
+	{
+		"name": "電影16_鬥魚",
+		"urls": ["http://dyscdnali1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid="]
+	},
+	{
+		"name": "電影18_鬥魚",
+		"urls": ["http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid="]
+	},
+	{
+		"name": "電影21_鬥魚",
+		"urls": ["http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid="]
+	},
+	{
+		"name": "電影44_鬥魚",
+		"urls": ["http://dyscdnali1.douyucdn.cn/live/2935323rnTpNsu74.flv?uuid="]
+	},
+	{
+		"name": "MTVYo!",
+		"urls": ["http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8"]
+	},
+	{
+		"name": "MTVBiggestPop",
+		"urls": ["http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8"]
+	},
+	{
+		"name": "MTVBlockParty",
+		"urls": ["http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8"]
+	},
+	{
+		"name": "MTVSpankin'New",
+		"urls": ["http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8"]
+	},
+	{
+		"name": "岭南戲曲",
+		"urls": ["http://szlive.grtn.cn/lnxq/sd/live.m3u8"]
+	},
+	{
+		"name": "ONE",
+		"urls": ["http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8"]
+	},
+	{
+		"name": "韓國娛樂台KMTV",
+		"urls": ["http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8", "http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8"]
+	},
+	{
+		"name": "Arirang",
+		"urls": ["http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"]
+	},
+	{
+		"name": "KBC광주방송",
+		"urls": ["http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8"]
+	},
+	{
+		"name": "KBS",
+		"urls": ["http://luotuo.ycchenrong.cn/dl/youku.php?id=8034767"]
+	},
+	{
+		"name": "韓國·TBS",
+		"urls": ["http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8"]
+	},
+	{
+		"name": "韓國·SBSCJB",
+		"urls": ["http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8"]
+	},
+	{
+		"name": "韓國·EBS第二頻道",
+		"urls": ["http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8"]
+	},
+	{
+		"name": "韓國阿里郎WORLD",
+		"urls": ["http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8"]
+	},
+	{
+		"name": "KBSWorld",
+		"urls": ["https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8"]
+	},
+	{
+		"name": "阿里郎",
+		"urls": ["http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8"]
+	}
+]
     },
     {
       "group": "明星",
