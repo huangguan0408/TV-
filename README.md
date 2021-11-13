@@ -49,6 +49,22 @@
 * TV端自建CDN接口地址: 
 + https://cdn.jsdelivr.net/gh/fj365/CMP4@master/tv/cytv.json
 <hr>
+# 当贝桌面TV 3.3.6 完美修改版
+* APP： 
++ https://sharerw.lanzoui.com/b0afst49g
+
+# MX player 播放器
+* APP： arm64为手机用 -- arm7a为TV盒子用
++ https://sharerw.lanzoux.com/b0ag6iuyf
+
+# 小鸡模拟器TV版
+* APP： 
++ https://sharerw.lanzoux.com/b0agb26ta
+
+# 音乐TV版
+* APP： 
++ 酷我 https://sharerw.lanzoux.com/ioVLjuwvsof
++ Q Q https://sharerw.lanzoui.com/iwstZii8rgh
 
 # CMP4 
 
