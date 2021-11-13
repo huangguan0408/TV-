@@ -54,9 +54,11 @@
 * APP： 
 + https://sharerw.lanzoui.com/b0afst49g
 
-# MX player 播放器
-* APP： arm64为手机用 -- arm7a为TV盒子用
-+ https://sharerw.lanzoux.com/b0ag6iuyf
+# player 播放器
+* APP： mx（arm64为手机用 -- arm7a为TV盒子用）
++ mx https://sharerw.lanzoux.com/b0ag6iuyf
++ 423 https://423down.lanzoui.com/b0f1gvyqj
++ tv  https://423down.lanzoui.com/b0f1944aj
 
 # 小鸡模拟器TV版
 * APP： 
@@ -67,6 +69,14 @@
 + 酷我 https://sharerw.lanzoux.com/ioVLjuwvsof
 + Q Q https://sharerw.lanzoui.com/iwstZii8rgh
 
+# 浏览器
+* APP： 
++ via https://www.lanzoui.com/b0aefpwjg
++ 米侠 https://sharerw.lanzoui.com/b0afr7dve
++ m   https://www.coolapk.com/apk/cn.nr19.mbrowser
++ 423 https://423down.lanzoui.com/b0f2r0aoj
+<hr>
+
 # CMP4 
 
 * 演示地址： 
@@ -75,7 +85,7 @@
 
 * 随机开场演示地址： 
 + http://www.fj365.ml/n9.swf?skin_id=2
-<hr>
+
 龒蜗牛V3皮肤功能配置
 <hr>
 <h3>config.xml使用说明：实例地址： http://www.fj365.ml/config.xml</h3>
