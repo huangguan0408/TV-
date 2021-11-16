@@ -77,6 +77,69 @@
 + 423 https://423down.lanzoui.com/b0f2r0aoj
 <hr>
 
+# 阅读
+* APP： 
++ git  https://github.com/kaich/Yuedu
++ https://github.com/gedoor/legado/releases/latest
+```
+阅读｜weixin｜书源
+https://mp.weixin.qq.com/s/3Oy2zs9VHj_8asvSWQ76nQ
+haxc大佬的漫画源合集：
+https://haxc.coding.net/p/booksrc/d/booksrc/git/raw/master/bookSource.json
+namofree大佬的书源（通用，精简，比较适合大多数人）：
+https://namofree.gitee.io/yuedu3/legado3_booksource_by_Namo.json
+一程大佬的书源合集（通用，精简，比较适合大多数人）：
+https://shuyuan.miaogongzi.net/shuyuan/1635716268.json
+破冰大佬的书源合集（1000+优质书源合集，需复制到浏览器下载后本地导入）：
+https://pobing.lanzoui.com/b0cxk0w8b   密码：59bV
+破冰大佬的听书源合集(需复制到浏览器下载后本地导入)：
+https://pobing.lanzoui.com/b0cxk0w8b   密码：59bV
+破冰6大佬的笔趣阁书源合集：
+https://pbpobing.coding.net/p/yueduyuan/d/sy/git/raw/master/bqg.json
+糖果超甜大佬的女频书源合集：
+https://tangguochaotian.coding.net/p/tangguoshuyuan1015/d/tangguo/git/raw/master/exportBookSource.json
+关耳大佬的女频书源合集：
+https://guaner001125.coding.net/p/coding-code-guide/d/booksources/git/raw/master/sources/guaner.json
+阅读｜书源
+https://github.com/XIU2/Yuedu
+https://gitee.com/vpq/yd
+http://yck.mumuceo.com/yuedu/shuyuan/index.html
+http://yuedu.miaogongzi.net/gx.html
+https://cdn.jsdelivr.net/gh/YuanHsing/freed/阅读｜书源｜2021年9月整理.txt
+阅读APP📖｜TG官方群
+https://t.me/yueduguanfang
+```
++ 花火阅读IOS   https://apps.apple.com/cn/app/id1546631588
++ 香色闺阁IOS   https://apps.apple.com/cn/app/id1521205149
+```
+香色闺阁｜书源
+(书源管理>同步>搜索书源) 或 (书源管理>同步>粘贴 新书源>同步)
+https://flyandnewgame.coding.net/p/a/d/xs/git/raw/master/source.xbs
+https://gitee.com/giovannyramsey/xiangse/raw/master/sourceModelList.xbs
+https://raw.githubusercontent.com/dejiayuan/xiangse/main/sourceModelList.xbs
+https://alphonsoestrada.coding.net/p/test/d/xiangse/git/raw/master/sourceModelList.xbs
+https://alphonsoestrada.coding.net/p/test/d/xiangse/git/raw/master/sourceModelList2.xbs
+https://gitee.com/readbook188/xiangs/raw/master/sourceModelList.xbs
+https://aliyabates.coding.net/p/xs/d/xs/git/raw/master/sourceModelList.xbs
+https://weilaiba.coding.net/p/s/d/s/git/raw/master/sourceModelList.xbs
+香色闺阁｜书源｜搬运备份
+https://github.com/zqzess/MyWebStorage/tree/main/xsreader/backup
+```
+<hr>
+
+# 漫画
+* APP： 
++ Tachiyomi https://github.com/tachiyomiorg/tachiyomi
++ Cimoc     https://github.com/Haleydu/Cimoc
++ 异次元     https://yiciyuan.lanzoux.com/b00ej0kba   
+```
+异次元 源：
+https://github.com/wanglabk/hub/tree/c2099  
+http://yck.mumuceo.com/yiciyuan/tuyuan/index.html
+https://cdn.jsdelivr.net/gh/YuanHsing/freed/漫画｜图源｜2021.10.24有图标大整合源更新.json
+```
+<hr>
+
 # CMP4 
 
 * 演示地址： 
