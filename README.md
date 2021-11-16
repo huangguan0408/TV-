@@ -61,6 +61,7 @@
 # player 播放器
 * APP： mx（arm64为手机用 -- arm7a为TV盒子用）
 + mx https://sharerw.lanzoux.com/b0ag6iuyf
++ diyp https://sharerw.lanzoui.com/b0aevufxe
 + 423 https://423down.lanzoui.com/b0f1gvyqj
 + tv  https://423down.lanzoui.com/b0f1944aj
 
