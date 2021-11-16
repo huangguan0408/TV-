@@ -29,10 +29,13 @@
 + https://github.com/catvod/CatVodTVSpider
 
 * TV端自建接口地址： 
-+ http://www.fj365.ml/tv/maotv.json   
+* https://ci.ci/ekq
+* http://fj365.ml/m.json 
++ http://fj365.ml/tv/maotv.json   
 + http://fj365.gitee.io/cmp4/tv/maotv.json   
 + https://raw.githubusercontent.com/fj365/CMP4/master/tv/maotv.json
 + https://wds.ecsxs.com/212757.json
++ http://c1n.cn/mao
 
 * TV端自建CDN接口地址:  
 + https://cdn.jsdelivr.net/gh/fj365/CMP4@master/tv/maotv.json
