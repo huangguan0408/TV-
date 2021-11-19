@@ -1,0 +1,16 @@
+厦门卫视 720,http://xiamencncc.v.wscdns.com/xiamen/xiamen_1/index.m3u8
+厦门卫视 720,http://xiamencncc.v.wscdns.com/xiamen/xiamen4_1/index.m3u8
+厦门1 720,http://xiamencncc.v.wscdns.com/xiamen/xiamen1_1/index.m3u8
+厦门1 720,http://xiamencncc.v.wscdns.com/xiamen/xiamen3_1/index.m3u8
+厦门2 720,http://xiamencncc.v.wscdns.com/xiamen/xiamen2_1/index.m3u8
+厦门移动电视 720,http://xiamencncc.v.wscdns.com/xiamen/xiamenyidong_1/index.m3u8
+厦门旅游广播,https://live1.kxm.xmtv.cn/aac_xmly/sd/live.m3u8
+厦门旅游广播,https://live1.kxm.xmtv.cn/aac_xmly/playlist.m3u8
+厦门闽南之声,https://live1.kxm.xmtv.cn/aac_mnzs/sd/live.m3u8
+厦门闽南之声,https://live1.kxm.xmtv.cn/aac_mnzs/playlist.m3u8
+厦门音乐广播,https://live1.kxm.xmtv.cn/aac_xmyy/sd/live.m3u8
+厦门音乐广播,https://live1.kxm.xmtv.cn/aac_xmyy/playlist.m3u8
+厦门经济交通广播,https://live1.kxm.xmtv.cn/aac_xmjjjt/sd/live.m3u8
+厦门经济交通广播,https://live1.kxm.xmtv.cn/aac_xmjjjt/playlist.m3u8
+厦门综合广播,https://live1.kxm.xmtv.cn/aac_zhgb/sd/live.m3u8
+厦门综合广播,https://live1.kxm.xmtv.cn/aac_zhgb/playlist.m3u8
