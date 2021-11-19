@@ -3606,6 +3606,12 @@
 			"name": "香C蕉台",
 			"urls": ["rtmp://45.92.126.226/channel/60fa6d608dfe8209677fdb1e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH"]
 		}, {
+			"name": "F1lmon TV 2",
+			"urls": ["http://www.filmon.com/vr-streams/6158.high/playlist.m3u8"]
+		}, {
+			"name": "F1lmon TV 4",
+			"urls": ["http://www.filmon.com/vr-streams/6152.high/playlist.m3u8"]
+		}, {
 			"name": "JSTAR極限台",
 			"urls": ["rtmp://104.149.131.118/channel/60fa6d9b8dfe8209677fdb20?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH"]
 		}, {
