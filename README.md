@@ -38,6 +38,7 @@
 + http://c1n.cn/mao
 
 * TV端自建CDN接口地址:  
+* https://raw.fastgit.org/fj365/CMP4/master/m.json
 + https://cdn.jsdelivr.net/gh/fj365/CMP4@master/tv/maotv.json
 <hr>
 
