@@ -581,6 +581,9 @@
 			"name": "CCTV-15",
 			"urls": ["http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225564/index.m3u8?fmt=ts2hls","http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8","http://183.207.248.71:80/cntv/live1/n-cctv-15/n-cctv-15", "http://39.134.24.24/PLTV/88888888/224/3221225636/index.m3u8", "http://39.135.34.150:8080/000000001000/1000000002000008163/1.m3u8?xtkg", "http://117.136.154.86/PLTV/88888888/224/3221225508/index.m3u8", "http://117.136.154.98/PLTV/88888888/224/3221225508/index.m3u8", "http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227538/index.m3u8", "http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225749/1/index.m3u8?fmt=ts2hls", "http://117.148.179.160/PLTV/88888888/224/3221231693/index.m3u8","http://117.169.124.36:6610/ysten-businessmobile/live/cctv-15/1.m3u8"]
 		}, {
+			"name": "CCTV-16",
+			"urls": ["http://yinhe-live.yinhe.vs.rxip.sc96655.com/live/CCTV-16_4000.m3u8","http://yinhe-live.yinhe.vs.rxip.sc96655.com/live/CCTV-16-4K_8000.m3u8"]
+		}, {
 			"name": "CCTV-17",
 			"urls": ["http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225910/index.m3u8?fmt=ts2hls","http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225922/index.m3u8?fmt=ts2hls","http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225907/index.m3u8","http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m3u8","http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3u8","http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17", "http://39.134.24.24/PLTV/88888888/224/3221225859/index.m3u8", "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17", "http://39.134.134.85/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226318/1.m3u8", "http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8", "http://117.136.154.98/PLTV/88888888/224/3221225706/index.m3u8", "http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227578/index.m3u8", "http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227589/index.m3u8", "http://223.110.243.150/ott.js.chinamobile.com/PLTV/3/224/3221227592/index.m3u8", "http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls", "http://39.134.135.82:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226459/1.m3u8", "http://223.110.243.149/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8", "http://223.110.243.143/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8", "http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229765/index.m3u8", "http://117.148.179.160/PLTV/88888888/224/3221231772/index.m3u8"]
 		}, {"name":"CGTN","urls":["http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225747/index.m3u8"]},
@@ -823,6 +826,9 @@
 		}, {
 			"name": "衛視电影",
 			"urls": ["rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cc6?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH", "http://50.7.61.147:30080/Entry/starmovie", "http://sytv.xtvants.fun/mytv.php?id=wsdy&token=free&user=free"]
+		}, {
+			"name": "美亚电影",
+			"urls": ["http://v3948069e.live.126.net/live/hodtv4003.flv","http://iptv5.phoves.com.cn/mytv/mitv.php?id=2"]
 		}, {
 			"name": "邵氏电影",
 			"urls": ["http://106.53.212.251/dl/tv.php?id=213"]
