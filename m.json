@@ -1,5 +1,5 @@
 {
-	"spider": "https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
+	"spider": "https://gitee.com/sharerwtv/mao/raw/master/custom_spider.jar",
 	"sites": [{
 		"key": "csp_EPangApp",
 		"name": "阿房影視(爬蟲)",
@@ -2238,7 +2238,6 @@
 {"name":"追剧达人3","type":1,"url":"http://jx.vipmv.co/json3/?url="}
 	],
 	"flags": ["youku", "qq", "iqiyi", "qiyi", "letv", "sohu", "tudou", "pptv", "mgtv", "wasu", "bilibili"],
-	"spider": "https://gitee.com/sharerwtv/mao/raw/master/custom_spider.jar",
 	"ijk": [{
 		"group": "軟解碼",
 		"options": [{
