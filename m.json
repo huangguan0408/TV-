@@ -1742,17 +1742,17 @@
 		"group": "NewTV",
 		"channels": [{
 			"name": "NewTV愛情喜劇",
-			"urls": ["http://183.207.248.71:80/cntv/live1/n-aiqingxj/n-aiqingxj"]
+			"urls": ["http://183.207.248.71:80/cntv/live1/n-aiqingxj/n-aiqingxj","http://112.15.230.34/PLTV/88888888/224/3221229731/index.m3u8","http://117.148.179.45/PLTV/88888888/224/3221229014/index.m3u8"]
 		}, {
 			"name": "NewTV潮媽辣婆",
-			"urls": ["http://183.207.248.71:80/cntv/live1/n-cmlapo/n-cmlapo"]
+			"urls": ["http://183.207.248.71:80/cntv/live1/n-cmlapo/n-cmlapo","http://117.148.179.43/PLTV/88888888/224/3221229725/index.m3u8","http://117.148.179.16/PLTV/88888888/224/3221229031/index.m3u8"]
 		}, {
 			"name": "NewTV動作電影",
-			"urls": ["http://183.207.248.71:80/cntv/live1/n-dongzuody/n-dongzuody"]
-		}, {
+			"urls": ["http://183.207.248.71:80/cntv/live1/n-dongzuody/n-dongzuody","http://117.148.179.15/PLTV/88888888/224/3221229034/index.m3u8","http://117.148.179.44/PLTV/88888888/224/3221229672/index.m3u8"]
+		}, {"name":"NewTV惊悚悬疑","urls":["http://117.148.179.43/PLTV/88888888/224/3221229701/index.m3u8","http://117.148.179.51/PLTV/88888888/224/3221229001/index.m3u8"]},{
 			"name": "NewTV古裝劇場",
-			"urls": ["http://183.207.248.71:80/cntv/live1/n-guzhuangjc/n-guzhuangjc"]
-		}, {
+			"urls": ["http://183.207.248.71:80/cntv/live1/n-guzhuangjc/n-guzhuangjc","http://112.15.230.59/PLTV/88888888/224/3221229710/index.m3u8","http://117.148.179.51/PLTV/88888888/224/3221229011/index.m3u8"]
+		}, {"name":"NewTV怡伴健康","urls":["http://117.148.179.32/PLTV/88888888/224/3221229016/index.m3u8","http://117.148.179.37/PLTV/88888888/224/3221229692/index.m3u8"]},{
 			"name": "NewTV黑莓電競之夜",
 			"urls": ["http://183.207.248.71:80/cntv/live1/wmyx/wmyx"]
 		}, {
@@ -1763,34 +1763,34 @@
 			"urls": ["http://183.207.248.71:80/cntv/live1/donghuawg/donghuawg"]
 		}, {
 			"name": "NewTV家庭劇場",
-			"urls": ["http://183.207.248.71:80/cntv/live1/n-jiatingjc/n-jiatingjc"]
+			"urls": ["http://183.207.248.71:80/cntv/live1/n-jiatingjc/n-jiatingjc","http://117.148.179.52/PLTV/88888888/224/3221229007/index.m3u8","http://117.148.179.37/PLTV/88888888/224/3221229695/index.m3u8"]
 		}, {
 			"name": "NewTV金牌綜藝",
-			"urls": ["http://183.207.248.71:80/cntv/live1/n-saishijx/n-saishijx"]
+			"urls": ["http://183.207.248.71:80/cntv/live1/n-saishijx/n-saishijx","http://117.148.179.40/PLTV/88888888/224/3221229704/index.m3u8","http://117.148.179.35/PLTV/88888888/224/3221229002/index.m3u8"]
 		}, {
 			"name": "NewTV精品大劇",
-			"urls": ["http://183.207.248.71:80/cntv/live1/n-jdaju/n-jdaju"]
-		}, {
+			"urls": ["http://183.207.248.71:80/cntv/live1/n-jdaju/n-jdaju","http://117.148.179.37/PLTV/88888888/224/3221229713/index.m3u8","http://117.148.179.49/PLTV/88888888/224/3221229017/index.m3u8"]
+		}, {"name":"NewTV炫舞未来","urls":["http://117.148.179.45/PLTV/88888888/224/3221229155/index.m3u8","http://117.148.179.37/PLTV/88888888/224/3221229669/index.m3u8"]},{
 			"name": "NewTV精品體育",
-			"urls": ["http://183.207.248.71:80/cntv/live1/n-jtiyu/n-jtiyu"]
+			"urls": ["http://183.207.248.71:80/cntv/live1/n-jtiyu/n-jtiyu","http://117.148.179.37/PLTV/88888888/224/3221229719/index.m3u8","http://117.148.179.47/PLTV/88888888/224/3221229026/index.m3u8"]
 		}, {
 			"name": "NewTV精品綜合",
-			"urls": ["http://183.207.248.71:80/cntv/live1/n-mingxingdp/n-mingxingdp"]
-		}, {
+			"urls": ["http://183.207.248.71:80/cntv/live1/n-mingxingdp/n-mingxingdp","http://117.148.179.40/PLTV/88888888/224/3221229005/index.m3u8","http://117.148.179.37/PLTV/88888888/224/3221229660/index.m3u8"]
+		}, {"name":"NewTV精品纪录","urls":["http://117.148.179.43/PLTV/88888888/224/3221229707/index.m3u8","http://117.148.179.21/PLTV/88888888/224/3221229013/index.m3u8"]},{
 			"name": "NewTV軍旅劇場",
-			"urls": ["http://183.207.248.71:80/cntv/live1/n-junlvjc/n-junlvjc"]
+			"urls": ["http://183.207.248.71:80/cntv/live1/n-junlvjc/n-junlvjc","http://117.148.179.52/PLTV/88888888/224/3221229004/index.m3u8","http://117.148.179.37/PLTV/88888888/224/3221229698/index.m3u8"]
 		}, {
 			"name": "NewTV軍事評論",
-			"urls": ["http://183.207.248.71:80/cntv/live1/n-junshipl/n-junshipl"]
+			"urls": ["http://183.207.248.71:80/cntv/live1/n-junshipl/n-junshipl","http://117.148.179.43/PLTV/88888888/224/3221229716/index.m3u8","http://117.148.179.51/PLTV/88888888/224/3221229008/index.m3u8"]
 		}, {
 			"name": "NewTV農業致富",
-			"urls": ["http://183.207.248.71:80/cntv/live1/n-nongyezf/n-nongyezf"]
+			"urls": ["http://183.207.248.71:80/cntv/live1/n-nongyezf/n-nongyezf","http://117.148.179.45/PLTV/88888888/224/3221229029/index.m3u8","http://117.148.179.24/PLTV/88888888/224/3221229666/index.m3u8"]
 		}, {
 			"name": "NewTV熱播精選",
-			"urls": ["http://183.207.248.71:80/cntv/live1/n-xiqumd/n-xiqumd"]
-		}, {
+			"urls": ["http://183.207.248.71:80/cntv/live1/n-xiqumd/n-xiqumd","http://117.148.179.15/PLTV/88888888/224/3221229062/index.m3u8","http://117.148.179.37/PLTV/88888888/224/3221229654/index.m3u8"]
+		}, {"name":"NewTV武搏世界","urls":["http://112.15.230.38/PLTV/88888888/224/3221229722/index.m3u8","http://117.148.179.16/PLTV/88888888/224/3221229041/index.m3u8"]},{
 			"name": "NewTV中國功夫",
-			"urls": ["http://183.207.248.71:80/cntv/live1/n-gzkongfu/n-gzkongfu"]
+			"urls": ["http://183.207.248.71:80/cntv/live1/n-gzkongfu/n-gzkongfu","http://117.148.179.47/PLTV/88888888/224/3221229019/index.m3u8","http://117.148.179.37/PLTV/88888888/224/3221229663/index.m3u8"]
 		}]
 	}, {
 		"group": "iHOT",
@@ -1828,6 +1828,25 @@
 {"name":"爱猎奇","urls":["http://39.134.134.85/000000001000/6000000006000190630/1.m3u8"]},
 {"name":"爱解密","urls":["http://39.134.134.85/000000001000/6000000006000200630/1.m3u8"]},
 {"name":"爱世界","urls":["http://39.134.134.85/000000001000/6000000006000210630/1.m3u8"]}]
+	}, {
+		"group": "CIBN",
+		"channels": [{"name":"CIBN-综合","urls":["http://211.94.219.178:18080/PLTV/68/224/3221226420/index.m3u8"]},
+{"name":"CIBN-经典剧场","urls":["http://211.94.219.178:18080/PLTV/68/224/3221226402/index.m3u8"]},
+{"name":"CIBN-经典剧场","urls":["http://117.148.179.176/PLTV/88888888/224/3221231595/index.m3u8"]},
+{"name":"CIBN-古装剧场","urls":["http://211.94.219.178:18080/PLTV/68/224/3221226400/index.m3u8"]},
+{"name":"CIBN-古装剧场","urls":["http://117.148.179.160/PLTV/88888888/224/3221231625/index.m3u8"]},
+{"name":"CIBN-骄阳剧场","urls":["http://117.148.179.165/PLTV/88888888/224/3221231745/index.m3u8"]},
+{"name":"CIBN-骄阳剧场","urls":["http://211.94.219.178:18080/PLTV/68/224/3221226423/index.m3u8"]},
+{"name":"CIBN-微电影","urls":["http://211.94.219.178:18080/PLTV/68/224/3221226441/index.m3u8"]},
+{"name":"CIBN-微电影","urls":["http://117.148.179.157/PLTV/88888888/224/3221231586/index.m3u8"]},
+{"name":"CIBN-纪录片","urls":["http://211.94.219.178:18080/PLTV/68/224/3221226437/index.m3u8"]},
+{"name":"CIBN-纪录片","urls":["http://117.148.179.154/PLTV/88888888/224/3221231594/index.m3u8"]},
+{"name":"CIBN-流金岁月","urls":["http://211.94.219.178:18080/PLTV/68/224/3221226425/index.m3u8"]},
+{"name":"CIBN-流金岁月","urls":["http://117.148.179.158/PLTV/88888888/224/3221231664/index.m3u8"]},
+{"name":"CIBN-时尚生活","urls":["http://117.148.179.183/PLTV/88888888/224/3221231489/index.m3u8"]},
+{"name":"CIBN-风尚运动","urls":["http://211.94.219.178:18080/PLTV/68/224/3221226429/index.m3u8"]},
+{"name":"CIBN-真人秀","urls":["http://211.94.219.178:18080/PLTV/68/224/3221226416/index.m3u8"]},
+{"name":"CIBN-动画乐园","urls":["http://211.94.219.178:18080/PLTV/68/224/3221226406/index.m3u8"]}]
 	}, {
 		"group": "风景区",
 		"channels": [{"name":"全国风景总览","urls":["https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001"]},
@@ -2052,7 +2071,31 @@
 		}, {
 			"name": "x001",
 			"urls": ["http://live.redtraffic.xyz:80/interracial.m3u8"]
-		}]
+		},{"name":"Cams","urls":["http://cdn.adultiptv.net/livecams.m3u8"]},
+{"name":"MILF","urls":["http://cdn.adultiptv.net/milf.m3u8"]},
+{"name":"BigDick","urls":["http://cdn.adultiptv.net/bigdick.m3u8"]},
+{"name":"BigTits","urls":["http://cdn.adultiptv.net/bigtits.m3u8"]},
+{"name":"Fetish","urls":["http://cdn.adultiptv.net/fetish.m3u8"]},
+{"name":"BigAss","urls":["http://cdn.adultiptv.net/bigass.m3u8"]},
+{"name":"Interracial","urls":["http://cdn.adultiptv.net/interracial.m3u8"]},
+{"name":"Latina","urls":["http://cdn.adultiptv.net/latina.m3u8"]},
+{"name":"POV","urls":["http://cdn.adultiptv.net/pov.m3u8"]},
+{"name":"Blowjob","urls":["http://cdn.adultiptv.net/blowjob.m3u8"]},
+{"name":"Teen","urls":["http://cdn.adultiptv.net/teen.m3u8"]},
+{"name":"Hardcore","urls":["http://cdn.adultiptv.net/hardcore.m3u8"]},
+{"name":"Cuckold","urls":["http://cdn.adultiptv.net/cuckold.m3u8"]},
+{"name":"Threesome","urls":["http://cdn.adultiptv.net/threesome.m3u8"]},
+{"name":"Russian","urls":["http://cdn.adultiptv.net/russian.m3u8"]},
+{"name":"Lesbian","urls":["http://cdn.adultiptv.net/lesbian.m3u8"]},
+{"name":"Rough","urls":["http://cdn.adultiptv.net/rough.m3u8"]},
+{"name":"Gangbang","urls":["http://cdn.adultiptv.net/gangbang.m3u8"]},
+{"name":"Compilation","urls":["http://cdn.adultiptv.net/compilation.m3u8"]},
+{"name":"Brunette","urls":["http://cdn.adultiptv.net/brunette.m3u8"]},
+{"name":"Blonde","urls":["http://cdn.adultiptv.net/blonde.m3u8"]},
+{"name":"Gay","urls":["http://cdn.adultiptv.net/gay.m3u8"]},
+{"name":"Anal","urls":["http://cdn.adultiptv.net/anal.m3u8"]},
+{"name":"Asian","urls":["http://cdn.adultiptv.net/asian.m3u8"]},
+{"name":"Pornstar","urls":["http://cdn.adultiptv.net/pornstar.m3u8"]}]
 	}],
 	"parses": [
 {"name": "Json併發","type": 2,"url": "Parallel"},
