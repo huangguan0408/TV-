@@ -1743,10 +1743,12 @@
 	}, {
 		"group": "NewTV",
 		"channels": [{"name":"超级电影NewTV","urls":["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8"]},
-{"name":"NewTV超级电视剧","urls":["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8"]},{"name":"NewTV超级综艺","urls":["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8"]},{"name":"NewTV明星大片","urls":["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8"]},{"name":"NewTV欢乐剧场","urls":["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8"]},{"name":"NewTV海外剧场","urls":["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8"]},{
-			"name": "愛情喜劇",
-			"urls": ["http://183.207.248.71:80/cntv/live1/n-aiqingxj/n-aiqingxj","http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8","http://112.15.230.34/PLTV/88888888/224/3221229731/index.m3u8","http://117.148.179.45/PLTV/88888888/224/3221229014/index.m3u8"]
-		}, {
+{"name":"超级电视剧","urls":["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8"]},
+{"name":"超级综艺","urls":["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8"]},
+{"name":"明星大片","urls":["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8"]},
+{"name":"欢乐剧场","urls":["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8"]},
+{"name":"海外剧场","urls":["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8"]},
+{"name": "愛情喜劇","urls": ["http://183.207.248.71:80/cntv/live1/n-aiqingxj/n-aiqingxj","http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8","http://112.15.230.34/PLTV/88888888/224/3221229731/index.m3u8","http://117.148.179.45/PLTV/88888888/224/3221229014/index.m3u8"]}, {
 			"name": "潮媽辣婆",
 			"urls": ["http://183.207.248.71:80/cntv/live1/n-cmlapo/n-cmlapo","http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8","http://117.148.179.43/PLTV/88888888/224/3221229725/index.m3u8","http://117.148.179.16/PLTV/88888888/224/3221229031/index.m3u8"]
 		}, {
@@ -1755,7 +1757,7 @@
 		}, {"name":"惊悚悬疑","urls":["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8","http://117.148.179.43/PLTV/88888888/224/3221229701/index.m3u8","http://117.148.179.51/PLTV/88888888/224/3221229001/index.m3u8"]},{
 			"name": "古裝劇場",
 			"urls": ["http://183.207.248.71:80/cntv/live1/n-guzhuangjc/n-guzhuangjc","http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8","http://112.15.230.59/PLTV/88888888/224/3221229710/index.m3u8","http://117.148.179.51/PLTV/88888888/224/3221229011/index.m3u8"]
-		}, {"name":"NewTV怡伴健康","urls":["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8","http://117.148.179.32/PLTV/88888888/224/3221229016/index.m3u8","http://117.148.179.37/PLTV/88888888/224/3221229692/index.m3u8"]},{
+		}, {"name":"怡伴健康","urls":["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8","http://117.148.179.32/PLTV/88888888/224/3221229016/index.m3u8","http://117.148.179.37/PLTV/88888888/224/3221229692/index.m3u8"]},{
 			"name": "黑莓電競之夜",
 			"urls": ["http://183.207.248.71:80/cntv/live1/wmyx/wmyx"]
 		}, {
@@ -1791,7 +1793,7 @@
 		}, {
 			"name": "熱播精選",
 			"urls": ["http://183.207.248.71:80/cntv/live1/n-xiqumd/n-xiqumd","http://117.148.179.15/PLTV/88888888/224/3221229062/index.m3u8","http://117.148.179.37/PLTV/88888888/224/3221229654/index.m3u8"]
-		}, {"name":"NewTV武搏世界","urls":["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8","http://112.15.230.38/PLTV/88888888/224/3221229722/index.m3u8","http://117.148.179.16/PLTV/88888888/224/3221229041/index.m3u8"]},{
+		}, {"name":"武搏世界","urls":["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8","http://112.15.230.38/PLTV/88888888/224/3221229722/index.m3u8","http://117.148.179.16/PLTV/88888888/224/3221229041/index.m3u8"]},{
 			"name": "中國功夫",
 			"urls": ["http://183.207.248.71:80/cntv/live1/n-gzkongfu/n-gzkongfu","http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8","http://117.148.179.47/PLTV/88888888/224/3221229019/index.m3u8","http://117.148.179.37/PLTV/88888888/224/3221229663/index.m3u8"]
 		}]
@@ -1853,10 +1855,7 @@
 		"channels": [{"name":"全国风景总览","urls":["https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001"]},
 {"name":"北京-南宫温泉休闲度假区","urls":["http://gcalic.v.myalicdn.com/gc/tyhjntyz_1/index.m3u8?contentid=2820180516001"]},
 {"name":"北京-水立方","urls":["http://gcalic.v.myalicdn.com/gc/gccntv241-slf01_1/index.m3u8?contentid=2820180516001"]},
-{"name":"北京-黄花城水长城01","urls":["https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001"]},
-{"name":"北京-黄花城水长城02","urls":["https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8?contentid=2820180516001"]},
-{"name":"北京-黄花城水长城03","urls":["https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8?contentid=2820180516001"]},
-{"name":"北京-黄花城水长城04","urls":["https://gcalic.v.myalicdn.com/gc/wgw04_1/index.m3u8?contentid=2820180516001"]},
+{"name":"北京-黄花城水长城01","urls":["https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001","https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8?contentid=2820180516001","https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8?contentid=2820180516001","https://gcalic.v.myalicdn.com/gc/wgw04_1/index.m3u8?contentid=2820180516001"]},
 {"name":"北京-八达岭长城南七楼","urls":["http://gcalic.v.myalicdn.com/gc/bgws7_1/index.m3u8?contentid=2820180516001"]},
 {"name":"北京-中央电视塔东","urls":["http://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001"]},
 {"name":"天津-天津之眼","urls":["https://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8?contentid=2820180516001"]},
