@@ -36,6 +36,21 @@
 + https://raw.githubusercontent.com/fj365/CMP4/master/tv/maotv.json
 + https://wds.ecsxs.com/212757.json
 + http://c1n.cn/mao
++ https://c1n.cn/m1
++ https://c1n.cn/m2
++ https://shuyuan.miaogongzi.net/shuyuan/1635506797.json (212757)
++ https://shuyuan.miaogongzi.net/shuyuan/1635448212.txt (maotv)
++ https://shuyuan.miaogongzi.net/shuyuan/1636121700.txt (dglxxn)
++ https://wds.ecsxs.com/212757.json (爬虫-XPath-M)
++ https://wds.ecsxs.com/213604.json
++ http://pglblb-1307091970.cos.ap-guangzhou.myqcloud.com/maotv.txt (爬虫-XPath-M)多资源
++ http://pglblb-1307091970.cos.ap-guangzhou.myqcloud.com/88.json
++ https://files.catbox.moe/dglxxn.txt (xml资源)
++ https://wds.ecsxs.com/213313.json (爬虫-XPath-M)多资源
++ https://wds.ecsxs.com/213213.json (1.1.7-xml资源)
++ https://wds.ecsxs.com/212010.json (xml-API)
++ https://cdn.jsdelivr.net/gh/hasoelee/hasoe/maoys.json (xml-爬虫)
++ https://netcut.cn/p/b3c2125358956dde (xml资源)
 
 * TV端自建CDN接口地址:  
 * https://raw.fastgit.org/fj365/CMP4/master/m.json
@@ -45,6 +60,7 @@
 # 残影影视TV
 * APP： 
 + https://sharerw.lanzoui.com/b0afy7kqd
++ https://canying.lanzoui.com/b005p57c
 
 * TV端自建接口地址： 
 + http://www.fj365.ml/tv/cytv.json   
@@ -54,6 +70,16 @@
 * TV端自建CDN接口地址: 
 + https://cdn.jsdelivr.net/gh/fj365/CMP4@master/tv/cytv.json
 <hr>
+
+# 小包搜搜
+* APP： 
++ https://tsq.lanzoui.com/b0c3uy4qf
+
+* TV端自建接口地址：
++ https://c1n.cn/c1
++ https://c1n.cn/c2
++ https://baozizhenchun.coding.net/p/coding-code-guide/d/coding-code-guide/git/raw/master/dy_111.json
++ https://mp.weixin.qq.com/s/iWHokT_vkSWHC1ckz7HxYA
 
 # 当贝桌面TV 3.3.6 完美修改版
 * APP： 
