@@ -79,7 +79,7 @@
 * APP： 
 + https://tsq.lanzoui.com/b0c3uy4qf
 
-* TV端自建接口地址：
+* 自建接口地址：
 + https://baozizhenchun.coding.net/p/coding-code-guide/d/coding-code-guide/git/raw/master/dy_111.json
 + https://mp.weixin.qq.com/s/iWHokT_vkSWHC1ckz7HxYA
 
