@@ -66,6 +66,10 @@
 + http://www.fj365.ml/tv/cytv.json   
 + http://fj365.gitee.io/cmp4/tv/cytv.json  
 + https://raw.githubusercontent.com/fj365/CMP4/master/tv/cytv.json  
++ https://c1n.cn/c1
++ https://c1n.cn/c2
++ https://gitee.com/liu673/tv/raw/master/cy/01.txt
++ https://gitee.com/liu673/tv/raw/master/cy/02.txt
 
 * TV端自建CDN接口地址: 
 + https://cdn.jsdelivr.net/gh/fj365/CMP4@master/tv/cytv.json
@@ -76,8 +80,6 @@
 + https://tsq.lanzoui.com/b0c3uy4qf
 
 * TV端自建接口地址：
-+ https://c1n.cn/c1
-+ https://c1n.cn/c2
 + https://baozizhenchun.coding.net/p/coding-code-guide/d/coding-code-guide/git/raw/master/dy_111.json
 + https://mp.weixin.qq.com/s/iWHokT_vkSWHC1ckz7HxYA
 
