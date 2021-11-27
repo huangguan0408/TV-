@@ -1063,7 +1063,7 @@ function SJXJJ(){
 	}
 	sjxjjlb += ']';
 	eval("sjxjj_lb=" + sjxjjlb);
-	WNJP.setPlaylist(xjxjj_lb);
+	WNJP.setPlaylist(sjxjj_lb);
 	WNJP.play(0);
 }
 function JP_HG() {
