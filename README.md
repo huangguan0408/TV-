@@ -32,9 +32,11 @@
 + https://sl.al/uNf
 + https://sl.al/Mae
 + https://sl.al/Prm
++ gitee https://sl.al/Alm
 + https://ci.ci/ekq
 + https://ci.ci/Rou
 + https://ci.ci/c6H
++ gitee https://ci.ci/DQX
 + http://fj365.ml/m.json 
 + http://fj365.ml/tv/maotv.json   
 + http://fj365.gitee.io/cmp4/tv/maotv.json   
