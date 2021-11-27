@@ -1058,7 +1058,7 @@ function TIME(type){
 }
 function SJXJJ(){
 	var sjxjjlb = '[';
-	for(var i=0,l=1000;i=l;i++){
+	for(var i=0;i<=1000;i++){
 		sjxjjlb += '{m4v:"http://mp4.wchunge.cn/api2.php?' + TIME('T') + i + '",title:"' + i + '"},';
 	}
 	sjxjjlb += ']';
