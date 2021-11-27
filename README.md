@@ -253,12 +253,12 @@ https://cdn.jsdelivr.net/gh/YuanHsing/freed/漫画｜图源｜2021.10.24有图�
 
 #### [影视]
 ```
-海阔视界｜APP
-https://www.lanzoux.com/u/GoldRiver
-https://www.lanzoui.com/u/GoldRiver
-海阔视界｜小程序：道长仓库Pro
+XX界｜APP
+XX GoldRiver
+XX GoldRiver
+XX道长仓库Pro
 https://paste.yuchen.tech/5208
-海阔视界｜小程序：香情影视
+XX香情影视
 https://paste.yuchen.tech/1527 xZlRNi
 
 FreeDTV｜APP
