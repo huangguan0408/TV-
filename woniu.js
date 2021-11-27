@@ -1059,8 +1059,8 @@ function TIME(type){
 function SJXJJ(){
 	var sjxjjlb = '[';
 	for(var i=0,l=1000;i=l;i++){
-		sjxjjlb += '{m4v:"http://mp4.wchunge.cn/api2.php?' + TIME('T') + i + '",title:"' + i + '"},'
-	});
+		sjxjjlb += '{m4v:"http://mp4.wchunge.cn/api2.php?' + TIME('T') + i + '",title:"' + i + '"},';
+	}
 	sjxjjlb += ']';
 	eval("sjxjj_lb=" + sjxjjlb);
 	WNJP.setPlaylist(xjxjj_lb);
