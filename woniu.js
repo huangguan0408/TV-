@@ -1057,9 +1057,33 @@ function TIME(type){
 	return times;
 }
 function SJXJJ(){
+/*
+https://wsonx.com/tool/ksxjj/video.php?_t=0.11570310183546573
+https://wsonx.com/tool/tiktok/video.php?_t=0.3152995713674671
+http://v.tuerji.net/video.php?_t=0.25271818015017855
+https://tvv.tw/xjj/get/get0.php
+http://mp4.wchunge.cn/api2.php  1-2
+http://www.52xsu.cn/video.php?_t=0.457333185648348
+http://xjj.nbtd.vip/get/get2.php   1-6
+*/
 	var sjxjjlb = '[';
-	for(var i=0;i<=1000;i++){
-		sjxjjlb += '{m4v:"http://mp4.wchunge.cn/api2.php?' + TIME('T') + i + '",title:"' + i + '"},';
+	for(var i=0;i<=100;i++){
+		sjxjjlb += '{m4v:"http://mp4.wchunge.cn/api2.php?_t=' + TIME('T') + i + '",title:"' + i + '"},';
+	}
+	for(var ia=0;ia<=100;ia++){
+		sjxjjlb += '{m4v:"https://wsonx.com/tool/ksxjj/video.php?_t=' + TIME('T') + ia + '",title:"' + ia + '"},';
+	}
+	for(var ib=0;ib<=100;ib++){
+		sjxjjlb += '{m4v:"http://v.tuerji.net/video.php?_t=' + TIME('T') + ib + '",title:"' + ib + '"},';
+	}
+	for(var ic=0;ic<=100;ic++){
+		sjxjjlb += '{m4v:"https://tvv.tw/xjj/get/get0.php?_t=' + TIME('T') + ic + '",title:"' + ic + '"},';
+	}
+	for(var id=0;id<=100;id++){
+		sjxjjlb += '{m4v:"http://www.52xsu.cn/video.php?_t=' + TIME('T') + id + '",title:"' + id + '"},';
+	}
+	for(var ie=0;ie<=100;ie++){
+		sjxjjlb += '{m4v:"http://xjj.nbtd.vip/get/get2.php?_t=' + TIME('T') + ie + '",title:"' + ie + '"},';
 	}
 	sjxjjlb += ']';
 	eval("sjxjj_lb=" + sjxjjlb);
