@@ -29,8 +29,11 @@
 + https://github.com/catvod/CatVodTVSpider
 
 * TV端自建接口地址： 
-* https://ci.ci/ekq
-* http://fj365.ml/m.json 
++ https://sl.al/uNf
++ https://sl.al/Mae
++ https://sl.al/Prm
++ https://ci.ci/ekq
++ http://fj365.ml/m.json 
 + http://fj365.ml/tv/maotv.json   
 + http://fj365.gitee.io/cmp4/tv/maotv.json   
 + https://raw.githubusercontent.com/fj365/CMP4/master/tv/maotv.json
