@@ -33,6 +33,8 @@
 + https://sl.al/Mae
 + https://sl.al/Prm
 + https://ci.ci/ekq
++ https://ci.ci/Rou
++ https://ci.ci/c6H
 + http://fj365.ml/m.json 
 + http://fj365.ml/tv/maotv.json   
 + http://fj365.gitee.io/cmp4/tv/maotv.json   
