@@ -30,7 +30,7 @@
 
 * TV端自建接口地址： 
 + https://sl.al/uNf
-+ https://sl.al/Mae
++ https://sl.al/Mae 改 https://sl.al/HgK
 + https://sl.al/Prm
 + gitee https://sl.al/Alm
 + https://ci.ci/ekq
