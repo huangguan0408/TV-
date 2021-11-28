@@ -1,4 +1,5 @@
 {
+//"wallpaper": "http://img.netbian.com/file/2017/1114/dea8dd861fb130f55ff85e2e50cd245a.jpg",
 "spider": "https://gitee.com/sharerwtv/mao/raw/master/custom_spider.jar",
 //"spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/main_spider.txt;md5;c1628d87108616e40b1cd4cac17cbf8a",
 	"sites": [{"key":"快播云","name":"快播云","type":0,"api":"http://www.kuaibozy.com/api.php/provide/vod/at/xml/","playUrl":"","categories":["国产剧","港台剧","日韩剧","欧美剧","泰剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片"]},
@@ -717,6 +718,18 @@
 			"name": "星空衛視",
 			"urls": ["http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1", "http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8", "http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1", "http://218.202.220.2:5000/nn_live.ts?id=STARTV", "http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1", "http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1", "http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233"]
 		}, {
+			"name": "香港HKS",
+			"urls": ["http://zhibo.hkstv.tv/livestream/mutfysrq.flv","http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8","http://zhibo.hkstv.tv/livestream/mutfysrq.flv","http://zhibo.hkstv.tv:80/livestream/mutfysrq"]
+		}, {
+			"name": "澳门卫视",
+			"urls": ["http://61.244.22.4/ch3/ch3.live/chunklist_w415594313.m3u8","http://61.244.22.4/ch3/ch3.live/index.m3u8","http://61.244.22.4/ch3/ch3.live/playelist.m3u8"]
+		}, {
+			"name": "澳视澳门",
+			"urls": ["http://61.244.22.4/ch1/ch1.live/playelist.m3u8"]
+		}, {
+			"name": "澳门资讯",
+			"urls": ["http://61.244.22.5/ch5/info_ch5.live/master.m3u8","http://61.244.22.4/ch2/ch2.live/playelist.m3u8"]
+		}, {
 			"name": "民視",
 			"urls": ["rtmp://9wv7.mine.nu/sat/tv051","rtmp://45.92.126.226/channel/60c317bd961593122ebaf90a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH","http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8","rtmp://59.124.75.138/sat/tv051","rtmp://59.124.75.157/sat/tv051", "http://50.7.61.147:30080/Entry/ftv", "rtmp://45.92.126.226/channel/60c317bd961593122ebaf90a", "http://50.7.61.148:30080/Entry/ftv", "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv002", "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv001"]
 		}, {
@@ -856,7 +869,10 @@
 			"urls": ["rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d82?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH"]
 		}, {
 			"name": "法國時尚瘋",
-			"urls": ["rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910c5c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH", "rtmp://45.88.148.114/channel/61004184f0618408855f3758?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH"]
+			"urls": ["http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8","rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910c5c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH", "rtmp://45.88.148.114/channel/61004184f0618408855f3758?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH"]
+		}, {
+			"name": "M20TV",
+			"urls": ["http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8"]
 		}, {
 			"name": "民視第一台",
 			"urls": ["rtmp://104.149.141.122/channel/60c317e8961593122ebaf90c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH"]
