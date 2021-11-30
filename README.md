@@ -23,7 +23,8 @@
 + https://raw.githubusercontent.com/fj365/CMP4/master/tv/zyplayer.json
 
 * CDN: 
-+ https://cdn.jsdelivr.net/gh/fj365/CMP4@master/tv/zyplayer.json
++ https://raw.fastgit.org/fj365/CMP4/master/z.json
++ https://cdn.jsdelivr.net/gh/fj365/CMP4@master/z.json
 <hr>
 
 # 猫影视TV
