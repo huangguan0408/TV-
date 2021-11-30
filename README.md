@@ -16,7 +16,10 @@
 + SJ  https://github.com/cuiocean/ZY-Player-APP
 
 * 接口地址： 
-+ http://www.fj365.ml/tv/zyplayer.json  
++ https://ci.ci/mFK
++ https://ci.ci/LLq
++ http://fj365.ml/z.json
++ http://fj365.ml/tv/zyplayer.json  
 + https://raw.githubusercontent.com/fj365/CMP4/master/tv/zyplayer.json
 
 * CDN: 
