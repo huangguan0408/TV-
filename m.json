@@ -926,43 +926,56 @@
 		"group": "明星",
 		"channels": [{
 			"name": "周星馳",
-			"urls": ["http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8", "http://121.51.249.99/txdirect.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8", "http://121.51.249.99/txdirect.hls.huya.com/src/1199563481163-1199563481163-5444324506032144384-2399127085782-10057-A-0-1.m3u8", "http://121.51.249.99/txdirect.hls.huya.com/src/1199561277724-1199561277724-5434860807588413440-2399122678904-10057-A-0-1.m3u8", "http://121.51.249.99/txdirect.hls.huya.com/src/1449698986-1449698986-6226409733914361856-2847687634-10057-A-0-1.m3u8", "http://121.51.94.31/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.m3u8", "http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112", "http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=", "http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.xs?uuid=", "http://api.phoves.com.cn/iptv/huya.php?id=11342412", "http://api.phoves.com.cn/iptv/huya.php?id=19105261"]
+			"urls": ["http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8","https://hw.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.m3u8", "http://121.51.249.99/txdirect.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8", "http://121.51.249.99/txdirect.hls.huya.com/src/1199563481163-1199563481163-5444324506032144384-2399127085782-10057-A-0-1.m3u8", "http://121.51.249.99/txdirect.hls.huya.com/src/1199561277724-1199561277724-5434860807588413440-2399122678904-10057-A-0-1.m3u8", "http://121.51.249.99/txdirect.hls.huya.com/src/1449698986-1449698986-6226409733914361856-2847687634-10057-A-0-1.m3u8", "http://121.51.94.31/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.m3u8", "http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112", "http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=", "http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.xs?uuid=", "http://api.phoves.com.cn/iptv/huya.php?id=11342412", "http://api.phoves.com.cn/iptv/huya.php?id=19105261"]
 		}, {
 			"name": "林正英",
-			"urls": ["http://121.51.94.31/tx.hls.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8", "http://api.phoves.com.cn/iptv/huya.php?id=11342421", "http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8", "https://3954-quic.liveplay.myqcloud.com/live/3954_363783415.flv"]
+			"urls": ["http://121.51.94.31/tx.hls.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8","https://hw.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8","https://hw.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8", "http://api.phoves.com.cn/iptv/huya.php?id=11342421", "http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8", "https://3954-quic.liveplay.myqcloud.com/live/3954_363783415.flv"]
 		}, {
 			"name": "成龍",
-			"urls": ["http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8", "http://121.51.94.31/tx.hls.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.m3u8", "http://112.74.200.9:88/tv000000/m3u8.php?/migu/707671890", "http://api.phoves.com.cn/iptv/huya.php?id=11342386"]
+			"urls": ["http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8","https://hw.flv.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.m3u8", "http://121.51.94.31/tx.hls.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.m3u8", "http://112.74.200.9:88/tv000000/m3u8.php?/migu/707671890", "http://api.phoves.com.cn/iptv/huya.php?id=11342386"]
 		}, {
 			"name": "張國榮",
 			"urls": ["http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8", "http://112.74.200.9:88/tv000000/m3u8.php?/migu/707689526", "http://api.phoves.com.cn/iptv/huya.php?id=11602034"]
 		}, {
 			"name": "吳京",
-			"urls": ["http://117.148.179.183/PLTV/88888888/224/3221231564/index.m3u8", "http://121.51.94.31/tx.hls.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.m3u8", "http://112.74.200.9:88/tv000000/m3u8.php?/migu/625681368", "http://api.phoves.com.cn/iptv/huya.php?id=11602045"]
+			"urls": ["http://117.148.179.183/PLTV/88888888/224/3221231564/index.m3u8","https://hw.flv.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.m3u8"  , "http://121.51.94.31/tx.hls.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.m3u8", "http://112.74.200.9:88/tv000000/m3u8.php?/migu/625681368", "http://api.phoves.com.cn/iptv/huya.php?id=11602045"]
 		}, {
 			"name": "劉德華",
-			"urls": ["http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8", "http://112.74.200.9:88/tv000000/m3u8.php?/migu/659315648", "http://api.phoves.com.cn/iptv/huya.php?id=11342424"]
+			"urls": ["http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8","https://hw.flv.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8" , "http://112.74.200.9:88/tv000000/m3u8.php?/migu/659315648", "http://api.phoves.com.cn/iptv/huya.php?id=11342424"]
 		}, {
 			"name": "古天樂",
 			"urls": ["http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8", "http://api.phoves.com.cn/iptv/huya.php?id=10871113"]
 		}, {
 			"name": "徐崢",
-			"urls": ["http://121.51.94.31/tx.hls.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.m3u8", "http://api.phoves.com.cn/iptv/huya.php?id=11602043"]
+			"urls": ["http://121.51.94.31/tx.hls.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.m3u8","https://hw.flv.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.m3u8", "http://api.phoves.com.cn/iptv/huya.php?id=11602043"]
 		}, {
 			"name": "沈腾",
-			"urls": ["http://121.51.94.31/tx.hls.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1-imgplus.m3u8"]
-		}, {
+			"urls": ["http://121.51.94.31/tx.hls.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1-imgplus.m3u8","https://hw.flv.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1-imgplus.m3u8"]
+		}, 
+{"name":"甄子丹","urls":["https://hw.flv.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1-imgplus.m3u8"]},
+{"name":"洪金宝","urls":["https://hw.flv.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1-imgplus.m3u8","https://hw.flv.huya.com/src/1449698705-1449698705-6226408527028551680-3049003156-10057-A-0-1.m3u8"]},
+{"name":"五福星","urls":["https://hw.flv.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.m3u8"]},
+{"name":"李小龙","urls":["https://hw.flv.huya.com/src/1449588725-1449588725-6225936166525337600-3048959678-10057-A-0-1.m3u8"]},
+{"name":"李连杰","urls":["https://hw.flv.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.m3u8"]},
+{"name":"女神系列","urls":["https://hw.flv.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1-imgplus.m3u8"]},
+{"name":"张柏芝","urls":["https://hw.flv.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.m3u8"]},
+{"name":"北有谢","urls":["https://hw.flv.huya.com/src/1445653465-1445653465-6209034353524080640-2847699238-10057-A-0-1.m3u8"]},
+{"name":"刘涛","urls":["https://hw.flv.huya.com/src/1524418105-1524418105-6547325906405294080-3048959666-10057-A-0-1.m3u8"]},
+{"name":"大咖自黑","urls":["https://hw.flv.huya.com/src/1449572975-1449572975-6225868520790425600-2789274544-10057-A-0-1.m3u8"]},
+{"name":"极限挑战","urls":["https://hw.flv.huya.com/src/1423782086-1423782086-6115097496000659456-2847687628-10057-A-0-1-imgplus.m3u8"]},
+{"name":"【黑帮大片】","urls":["https://hw.flv.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1-imgplus.m3u8"]},
+			     {
 			"name": "金庸頻道",
-			"urls": ["http://117.148.179.132/PLTV/88888888/224/3221231477/index.m3u8"]
+			"urls": ["http://117.148.179.132/PLTV/88888888/224/3221231477/index.m3u8","https://hw.flv.huya.com/src/1524418105-1524418105-6547325906405294080-3048959666-10057-A-0-1.m3u8"]
 		}, {
 			"name": "喜劇聯盟",
-			"urls": ["http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8"]
+			"urls": ["http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8","https://hw.flv.huya.com/src/1445653465-1445653465-6209034353524080640-2847699238-10057-A-0-1.m3u8","https://hw.flv.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1-imgplus.m3u8"]
 		}, {
 			"name": "高分影院",
 			"urls": ["http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8"]
 		}, {
 			"name": "周潤發",
-			"urls": ["http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8", "http://121.51.249.99/txdirect.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.m3u8", "http://121.51.249.99/txdirect.hls.huya.com/src/1199561240999-1199561240999-5434703074914467840-2399122605454-10057-A-0-1.m3u8", "http://121.51.249.99/txdirect.hls.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.m3u8", "http://112.74.200.9:88/tv000000/m3u8.php?/migu/639526984", "http://api.phoves.com.cn/iptv/huya.php?id=11342387"]
+			"urls": ["http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8","https://hw.flv.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.m3u8", "http://121.51.249.99/txdirect.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.m3u8", "http://121.51.249.99/txdirect.hls.huya.com/src/1199561240999-1199561240999-5434703074914467840-2399122605454-10057-A-0-1.m3u8", "http://121.51.249.99/txdirect.hls.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.m3u8", "http://112.74.200.9:88/tv000000/m3u8.php?/migu/639526984", "http://api.phoves.com.cn/iptv/huya.php?id=11342387"]
 		}, {
 			"name": "郭富城",
 			"urls": ["http://117.148.179.152/PLTV/88888888/224/3221231688/index.m3u8"]
@@ -1513,6 +1526,41 @@
 {"name":"成都高清","urls":["http://gcalic.v.myalicdn.com/gc/ipanda_1td/index.m3u8"]},
 {"name":"都江堰高清","urls":["http://gcalic.v.myalicdn.com/gc/ipanda1000_1td/index.m3u8"]}]
 	},
+{"group": "斗鱼","channels": [
+{"name":"牛叔说电影","urls":["http://epg.112114.xyz/douyu/2758565"]},
+{"name":"小片说电影","urls":["http://epg.112114.xyz/douyu/4258555"]},
+{"name":"侃片大师兄","urls":["http://epg.112114.xyz/douyu/9338839"]},
+{"name":"特辑影院","urls":["http://epg.112114.xyz/douyu/3637778"]},
+{"name":"女神金","urls":["http://epg.112114.xyz/douyu/747764"]},
+{"name":"周末恐怖","urls":["http://epg.112114.xyz/douyu/3637726"]},
+{"name":"周末经典","urls":["http://epg.112114.xyz/douyu/3637765"]},
+{"name":"林正英僵尸","urls":["http://epg.112114.xyz/douyu/218859"]},
+{"name":"小鸽陪看","urls":["http://epg.112114.xyz/douyu/3928"]},
+{"name":"欧美恐怖","urls":["http://epg.112114.xyz/douyu/96577"]},
+{"name":"动漫","urls":["http://epg.112114.xyz/douyu/206858"]},
+{"name":"恐怖电影","urls":["http://epg.112114.xyz/douyu/310926"]},
+{"name":"香港赌片","urls":["http://epg.112114.xyz/douyu/315457"]},
+{"name":"米娅陪看","urls":["http://epg.112114.xyz/douyu/6537888"]},
+{"name":"黎黎来了","urls":["http://epg.112114.xyz/douyu/7116591"]},
+{"name":"漫威科幻","urls":["http://epg.112114.xyz/douyu/6140589"]},
+{"name":"欧美科幻","urls":["http://epg.112114.xyz/douyu/9651304"]},
+{"name":"经典喜剧","urls":["http://epg.112114.xyz/douyu/9650887"]},
+{"name":"国产大片","urls":["http://epg.112114.xyz/douyu/8986148"]},
+{"name":"刘德华","urls":["http://epg.112114.xyz/douyu/2516864"]},
+{"name":"神乐华语","urls":["http://epg.112114.xyz/douyu/85894"]},
+{"name":"神乐经典","urls":["http://epg.112114.xyz/douyu/122402"]},
+{"name":"神乐欧美","urls":["http://epg.112114.xyz/douyu/20415"]},
+{"name":"神乐粤语","urls":["http://epg.112114.xyz/douyu/6566671"]},
+{"name":"贝爷MAX","urls":["http://epg.112114.xyz/douyu/4332"]},
+{"name":"贝爷影厅","urls":["http://epg.112114.xyz/douyu/252802","http://epg.112114.xyz/douyu/36337","http://epg.112114.xyz/douyu/925724"]},
+{"name":"甜牛奶","urls":["http://epg.112114.xyz/douyu/7494871"]},
+{"name":"兔兔陪看","urls":["http://epg.112114.xyz/douyu/1504768"]},
+{"name":"贝贝看片","urls":["http://epg.112114.xyz/douyu/431460"]},
+{"name":"小栗子","urls":["http://epg.112114.xyz/douyu/7254536"]},
+{"name":"斗小饼Q","urls":["http://epg.112114.xyz/douyu/1735337"]},
+{"name":"晴宝","urls":["http://epg.112114.xyz/douyu/5870248"]},
+{"name":"瑶瑶","urls":["http://epg.112114.xyz/douyu/2935323"]},
+]},
 {"group": "教育网源","channels": [{"name":"CCTV-1高清","urls":["http://live.scuec.edu.cn:8080/hls/cctv1hd.m3u8","http://live.scuec.edu.cn:8080/hls/cctv1.m3u8"]},
 {"name":"CCTV-2高清","urls":["http://live.scuec.edu.cn:8080/hls/cctv2hd.m3u8","http://live.scuec.edu.cn:8080/hls/cctv2.m3u8"]},
 {"name":"CCTV-3高清","urls":["http://live.scuec.edu.cn:8080/hls/cctv3hd.m3u8","http://live.scuec.edu.cn:8080/hls/cctv3.m3u8"]},
