@@ -7,8 +7,8 @@
 搜狐,http://www.zycaiji.net:7788/api.php/provide/vod/from/sohu/at/xml/,解析
 乐视,http://www.zycaiji.net:7788/api.php/provide/vod/from/letv/at/xml/,解析
 聚力,http://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/,解析
-7788,http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/,解析
-8090,http://zy.yilans.net:8090/api.php/provide/vod/at/xml/,解析
+七八,http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/,解析
+八九,http://zy.yilans.net:8090/api.php/provide/vod/at/xml/,解析
 电影牛,https://www.dianyingn.cc/api.php/provide/vod/at/xml,空
 番茄,http://api.fqzy.cc/api.php/provide/vod/at/xml,https://dp.8b5q.cn/dplayer/?url=
 想看,https://m3u8.xiangkanapi.com/provide/vod/at/xml/,解析
@@ -16,7 +16,7 @@
 淘片网,https://taopianapi.com/home/cjapi/as/mc/vod/xml,解析
 百度,http://api.dbyunzy.com//api.php/Seacms/vod/,解析
 百搜,https://vip.baisou.ltd/api.php/provide/vod/at/xml,解析
-35影视,http://w7tv.com/api.php/provide/vod/at/xml,解析
+三五影视,http://w7tv.com/api.php/provide/vod/at/xml,解析
 神马,http://www.zitv.cc/api.php/provide/vod/at/xml,解析
 橘猫,http://www.zitv.cc/api.php/provide/vod/at/xml,解析
 环,http://wmcj8.com/inc/sapi.php,不解析
@@ -35,7 +35,7 @@
 解析：
 parwix,https://vip.parwix.com:4433/player/?url=
 人人迷,https://jx.renrenmi.cc/?url=
-2ajx,https://www.2ajx.com/vip.php?url=
+二ajx,https://www.2ajx.com/vip.php?url=
 虾米,https://jx.xmflv.vip/?url=
 想看,https://lyw28.com/m3u8/?url=
 ok,https://okjx.cc/?url=
