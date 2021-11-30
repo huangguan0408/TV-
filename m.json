@@ -1575,7 +1575,7 @@
 {"name":"博斯运动1","urls":["http://211.23.114.106:8564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8"]},
 {"name":"博斯运动2","urls":["http://211.23.114.106:8565/http/59.120.8.187:8081/hls/61/803/ch04.m3u8"]},
 {"name":"ELEVEN SPORTS 1","urls":["http://211.23.114.106:8566/http/59.120.8.187:8078/hls/25/80/esport.m3u8"]},
-{"name":"ELEVEN SPORTS 2","urls":["http://211.23.114.106:8567/http/59.120.8.187:8078/hls/26/80/esport2.m3u8"]}],
+{"name":"ELEVEN SPORTS 2","urls":["http://211.23.114.106:8567/http/59.120.8.187:8078/hls/26/80/esport2.m3u8"]}]},
 	"parses": [
 {"name": "Json併發","type": 2,"url": "Parallel"},
 {"name": "Json輪詢","type": 2,"url": "Sequence"},
