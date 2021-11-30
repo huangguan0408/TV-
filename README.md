@@ -62,7 +62,7 @@
 + https://netcut.cn/p/b3c2125358956dde (xml资源)
 
 * TV端自建CDN接口地址:  
-* https://raw.fastgit.org/fj365/CMP4/master/m.json
++ https://raw.fastgit.org/fj365/CMP4/master/m.json
 + https://cdn.jsdelivr.net/gh/fj365/CMP4@master/m.json
 <hr>
 
@@ -72,16 +72,20 @@
 + https://canying.lanzoui.com/b005p57c
 
 * TV端自建接口地址： 
++ https://ci.ci/Vit
++ https://ci.ci/kc2
++ https://fj365.ml/c.json
++ https://c1n.cn/c1
 + http://www.fj365.ml/tv/cytv.json   
 + http://fj365.gitee.io/cmp4/tv/cytv.json  
 + https://raw.githubusercontent.com/fj365/CMP4/master/tv/cytv.json  
-+ https://c1n.cn/c1
 + https://c1n.cn/c2
 + https://gitee.com/liu673/tv/raw/master/cy/01.txt
 + https://gitee.com/liu673/tv/raw/master/cy/02.txt
 
 * TV端自建CDN接口地址: 
-+ https://cdn.jsdelivr.net/gh/fj365/CMP4@master/tv/cytv.json
++ https://raw.fastgit.org/fj365/CMP4/master/c.json
++ https://cdn.jsdelivr.net/gh/fj365/CMP4@master/c.json
 <hr>
 
 # 小包搜搜
