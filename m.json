@@ -1558,7 +1558,7 @@
 {"name":"小栗子","urls":["http://epg.112114.xyz/douyu/7254536"]},
 {"name":"斗小饼Q","urls":["http://epg.112114.xyz/douyu/1735337"]},
 {"name":"晴宝","urls":["http://epg.112114.xyz/douyu/5870248"]},
-{"name":"瑶瑶","urls":["http://epg.112114.xyz/douyu/2935323"]},
+{"name":"瑶瑶","urls":["http://epg.112114.xyz/douyu/2935323"]}
 ]},
 {"group": "教育网源","channels": [{"name":"CCTV-1高清","urls":["http://live.scuec.edu.cn:8080/hls/cctv1hd.m3u8","http://live.scuec.edu.cn:8080/hls/cctv1.m3u8"]},
 {"name":"CCTV-2高清","urls":["http://live.scuec.edu.cn:8080/hls/cctv2hd.m3u8","http://live.scuec.edu.cn:8080/hls/cctv2.m3u8"]},
