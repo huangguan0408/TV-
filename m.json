@@ -2291,7 +2291,7 @@
 {"name":"木白影视","type":1,"url":"https://parsing.23at.cn/api/?key=tGPyn3x3MupE0F9XyV&url=","t":7071,"i":"checkat2021-11-2915:45:46"},
 {"name":"东南影院","type":1,"url":"http://vip.lvdoui.cn/home/api?type=ys&uid=2761958&key=bghkryAGIJKUVWX139&url=","t":8937,"i":"checkat2021-11-2915:44:18"}
 	],
-	"flags": ["youku", "qq", "iqiyi", "qiyi", "letv", "sohu", "tudou", "pptv", "mgtv", "wasu", "bilibili"],
+	"flags": ["youku", "qq", "iqiyi", "qiyi", "letv", "sohu", "tudou", "pptv", "mgtv", "wasu", "bilibili", "le"],
 	"ijk": [{
 		"group": "軟解碼",
 		"options": [{
