@@ -16,8 +16,8 @@
   "cateVodName": "/a/@title",//p[@class='name']/a/text()
   "cateVodId": "/a/@href",
   "cateVodIdR": "/(\\w+)/(\\d+)/",
-  "cateVodImg": "/@data-original",
-  "cateVodMark": "/p[contains(text(),'最新')]/a/text()",
+  "cateVodImg": "//div[@class='img']/img/@data-original",
+  "cateVodMark": "/p[@class='name']/text()",
   "dtUrl": "http://halihali4.com/{cateId}/{vid}/",
   "dtNode": "//div[@class='content mb clearfix']",
   "dtName": "//div[@class='pic']/img/@alt",
