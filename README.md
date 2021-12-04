@@ -47,6 +47,7 @@
 + http://fj365.ml/tv/maotv.json   
 + http://fj365.gitee.io/cmp4/tv/maotv.json   
 + https://raw.githubusercontent.com/fj365/CMP4/master/tv/maotv.json
++ https://tool.wotianna.com/mysjk.json
 + https://wds.ecsxs.com/212757.json
 + http://c1n.cn/mao
 + https://c1n.cn/m1
