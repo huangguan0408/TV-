@@ -1953,8 +1953,8 @@
 {"name":"CETV-1","urls":["http://iptv.tvfix.org/hls/cetv1hd.m3u8"]},
 {"name":"CETV-3","urls":["http://iptv.tvfix.org/hls/cetv3.m3u8"]},
 {"name":"CETV-4","urls":["http://iptv.tvfix.org/hls/cetv4.m3u8"]}
-]},
-		 ],
+]}
+],
 //以下解析接口
 	"parses": [
 {"name": "Json併發","type": 2,"url": "Parallel"},
