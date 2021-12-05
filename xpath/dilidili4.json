@@ -2,7 +2,7 @@
   "ua": "",
   "homeUrl": "http://halihali4.com/",
   "cateManual": {"电影":"mov","电视剧":"tv","动漫":"acg","综艺":"zongyi"},
-  "homeVodNode": "//div[@class='index-list-l']/ul/li[@class='mb']",
+  "homeVodNode": "//div[@class='index-list']/ul/li[@class='mb']",
   "homeVodName": "/p[@class='name']/text()",
   "homeVodNameR": "",
   "homeVodId": "/a/@href",
