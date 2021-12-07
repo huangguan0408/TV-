@@ -1,6 +1,6 @@
 {
 "spider": "http://fj365.ml/0/0.txt?raw=true",
-//"spider": "https://gitee.com/sharerwtv/mao/raw/master/custom_spider.jar",
+//"spider": "https://sharertv.coding.net/p/mao/d/mao/git/raw/master/custom_spider.jar",
 //"spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/main_spider.txt",
 	"sites": [{"key":"快播云","name":"快播云","type":0,"api":"http://www.kuaibozy.com/api.php/provide/vod/at/xml/","playUrl":"","categories":["国产剧","港台剧","日韩剧","欧美剧","泰剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片"]},
 {"key":"csp_YydsAli1","name":"YYDS阿里(爬蟲)","type":3,"api":"csp_YydsAli1","searchable":1,"quickSearch":0,"filterable":0},
